@@ -1,8 +1,9 @@
 #Online
 I found the following resources that I have yet to assess as to their usefulness for me:
 *	https://docs.python.org/2/tutorial/ 
+*	http://chrisvoncsefalvay.com/resources/
 *	http://www.pythonchallenge.com/ 
- * with http://wiki.pythonchallenge.com 
+  * with http://wiki.pythonchallenge.com 
 * http://openbookproject.net/thinkcs/python/english2e/index.html 
 *	http://ipython.org/ipython-doc/2/notebook/index.html
 *	http://showmedo.com/videotutorials/python 
