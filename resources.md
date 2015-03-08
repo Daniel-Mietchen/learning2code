@@ -9,4 +9,6 @@ I found the following resources that I have yet to assess as to their usefulness
 * http://learnxinyminutes.com/docs/python/ 
 
 #Offline
-Whenever I have a quiet moment at home, I am reading a few pages in the book "Python: Visual Quickstart Guide" by Chris Fehily (2001), ISBN 0-201-74884-3.
+Whenever I have a quiet moment at home, I am reading a few pages in the book 
+> "Python: Visual Quickstart Guide" by Chris Fehily (2001), ISBN 0-201-74884-3
+to get familiar with the main design features of Python and the underlying philosphy.
