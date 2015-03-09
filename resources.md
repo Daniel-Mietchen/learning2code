@@ -8,6 +8,7 @@ I found the following resources that I have yet to assess as to their usefulness
 *	http://ipython.org/ipython-doc/2/notebook/index.html
 *	http://showmedo.com/videotutorials/python 
 * http://learnxinyminutes.com/docs/python/ 
+* http://dataconomy.com/python-packages-for-data-mining/
 
 #Offline
 Whenever I have a quiet moment at home, I am reading a few pages in the book 
