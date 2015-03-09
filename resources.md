@@ -2,13 +2,14 @@
 I found the following resources that I have yet to assess as to their usefulness for me:
 *	https://docs.python.org/2/tutorial/ 
 *	http://chrisvoncsefalvay.com/resources/
-*	http://www.pythonchallenge.com/ 
-  * with http://wiki.pythonchallenge.com 
+*	[Python Challenge](http://www.pythonchallenge.com/)
+ * with [wiki](http://wiki.pythonchallenge.com)
 * http://openbookproject.net/thinkcs/python/english2e/index.html 
 *	http://ipython.org/ipython-doc/2/notebook/index.html
 *	http://showmedo.com/videotutorials/python 
 * http://learnxinyminutes.com/docs/python/ 
-* http://dataconomy.com/python-packages-for-data-mining/
+* [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
 #Offline
 Whenever I have a quiet moment at home, I am reading a few pages in the book 
