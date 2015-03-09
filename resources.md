@@ -10,7 +10,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
-  *See also [A Byte of Vim](http://www.swaroopch.com/notes/vim/)   
+  * See also [A Byte of Vim](http://www.swaroopch.com/notes/vim/)   
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
