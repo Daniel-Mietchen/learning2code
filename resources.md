@@ -12,6 +12,7 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+* [Live coding.tv](https://www.livecoding.tv/)
 
 ## For data analysis
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
