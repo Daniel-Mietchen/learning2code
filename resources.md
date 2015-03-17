@@ -13,6 +13,9 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [Live coding.tv](https://www.livecoding.tv/)
+  * Not specific to Python, but can be organized by programming language
+* [CheckiO](http://www.checkio.org/)
+  * Programming game requiring Python code to advance to next level
 
 ## For data analysis
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
