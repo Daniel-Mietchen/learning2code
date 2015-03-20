@@ -16,6 +16,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * Not specific to Python, but can be organized by programming language
 * [CheckiO](http://www.checkio.org/)
   * Programming game requiring Python code to advance to next level
+* [Python for Biologists](http://pythonforbiologists.com/index.php/five-things-i-hate-about-teaching-python/)
 
 ## For data analysis
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
