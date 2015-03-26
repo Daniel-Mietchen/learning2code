@@ -19,6 +19,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Python for Biologists](http://pythonforbiologists.com/index.php/five-things-i-hate-about-teaching-python/)
 * [How do you use python to automate tasks in life or at work?](http://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
+* [YAPF - Yet another Python formatter](https://github.com/google/yapf)
 
 ## For data analysis
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
