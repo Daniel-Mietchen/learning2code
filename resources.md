@@ -27,7 +27,10 @@ I found the following resources that I have yet to assess as to their usefulness
 
 ## For data analysis
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
-* [Pandas, A First Look](http://tswicegood.github.io/python-data-science-intro/pandas.html)
+* Pandas
+  * [Pandas, A First Look](http://tswicegood.github.io/python-data-science-intro/pandas.html)
+  * [pandas: powerful Python data analysis
+toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
 * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 
