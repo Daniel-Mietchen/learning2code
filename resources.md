@@ -9,6 +9,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * with [wiki](http://wiki.pythonchallenge.com)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
+*	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
