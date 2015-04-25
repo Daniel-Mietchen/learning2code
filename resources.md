@@ -31,6 +31,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * [Pandas, A First Look](http://tswicegood.github.io/python-data-science-intro/pandas.html)
   * [pandas: powerful Python data analysis
 toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
+   * [some background](http://www.dataplumbing.com/blog/pandas-powerful-python-data-analysis-toolkit)
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
 * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 
