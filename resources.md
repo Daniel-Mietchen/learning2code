@@ -9,6 +9,8 @@ I found the following resources that I have yet to assess as to their usefulness
   * with [wiki](http://wiki.pythonchallenge.com)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
+  *	[Jupyter on GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3)
+  *	[A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 *	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
