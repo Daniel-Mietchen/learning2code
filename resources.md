@@ -26,6 +26,9 @@ I found the following resources that I have yet to assess as to their usefulness
   * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
   * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
+* [List comprehension](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions)
+  * [example](http://stackoverflow.com/questions/17934785/remove-elements-in-one-list-present-in-another-list)
+  * [alternative](http://stackoverflow.com/questions/9053260/removing-one-list-from-another)
 
 ## For data analysis
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
