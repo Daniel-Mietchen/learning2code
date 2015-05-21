@@ -13,4 +13,5 @@ If the resulting code works, you have helped solve a real problem (minor though 
 * Task 3: Start Wikidata items for the species described in the paper, listing the relevant authors as taxon authority and the paper as a reference
 * useful hints:
    * [Quickly Extract XML Data with Python](http://www.rdegges.com/quickly-extract-xml-data-with-python/)
+     * some more examples [here](http://stackoverflow.com/questions/7691514/extracting-text-from-xml-using-python)
    * [Quick statements for journal articles and taxa](https://www.wikidata.org/wiki/User:Daniel_Mietchen/Quick_statements)
