@@ -1,6 +1,7 @@
 #Online
 I found the following resources that I have yet to assess as to their usefulness for me:
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
+*	[Google Python course](https://developers.google.com/edu/python/introduction)
 *	Wikipedia: [Python (programming language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
  *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
@@ -16,7 +17,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [Live coding.tv](https://www.livecoding.tv/)
-  * Not specific to Python, but can be organized by programming language
+  * Not specific to Python, but can be organized by programming languageg
 * [CheckiO](http://www.checkio.org/)
   * Programming game requiring Python code to advance to next level
 * [Python for Biologists](http://pythonforbiologists.com/index.php/five-things-i-hate-about-teaching-python/)
