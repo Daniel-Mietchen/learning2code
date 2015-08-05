@@ -8,6 +8,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * See also [A Byte of Vim](http://www.swaroopch.com/notes/vim/)   
 *	[Python Challenge](http://www.pythonchallenge.com/)
   * with [wiki](http://wiki.pythonchallenge.com)
+* [Rosetta Code](http://rosettacode.org/wiki/Category:Python)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
   *	[Jupyter on GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3)
