@@ -47,7 +47,7 @@ Whenever I have a quiet moment at home, I am reading a few pages in the book
 to get familiar with the main design features of Python and the underlying philosphy.
 
 # Beyond Python
-''Some resources that are useful not just for Python but for programming more generally.''
+*Some resources that are useful not just for Python but for programming more generally.*
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
 * [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python)
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
