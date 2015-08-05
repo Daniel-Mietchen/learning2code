@@ -49,7 +49,7 @@ to get familiar with the main design features of Python and the underlying philo
 # Beyond Python
 *Some resources that are useful not just for Python but for programming more generally.*
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
-* [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python)
+* [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
 * [Live coding.tv](https://www.livecoding.tv/)
   * Not specific to Python, but can be organized by programming languageg
