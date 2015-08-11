@@ -37,6 +37,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
 * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
+* [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
