@@ -1,3 +1,11 @@
+# General
+*Some resources that are useful not just for Python but for programming more generally.*
+* [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
+* [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
+* [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
+* [Live coding.tv](https://www.livecoding.tv/)
+  * Can be organized by programming languageg
+
 # Python-specific
 ## Online
 I found the following resources that I have yet to assess as to their usefulness for me:
@@ -38,6 +46,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
+* [Blockly](https://developers.google.com/blockly/) can export Python code
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
@@ -47,11 +56,10 @@ Whenever I have a quiet moment at home, I am reading a few pages in the book
 
 to get familiar with the main design features of Python and the underlying philosphy.
 
-# Beyond Python
-*Some resources that are useful not just for Python but for programming more generally.*
-* [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
-* [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
-* [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
-* [Live coding.tv](https://www.livecoding.tv/)
-  * Not specific to Python, but can be organized by programming languageg
-* [Blockly](https://developers.google.com/blockly/) can export Python code
+# Scratch
+* [Website](https://scratch.mit.edu/)
+  * [Moving Picture Tile Puzzle 4](https://scratch.mit.edu/projects/72774248/?fromexplore=true#player) 
+
+## Scratch events
+* [Scratch Day](http://day.scratch.mit.edu/): May 14, 2016
+* [Scratch Conference](https://scratch.mit.edu/conference/): August 3 - 6, 2016, MIT Media Lab, Cambridge, MA, USA
