@@ -16,6 +16,7 @@ I found the following resources that I have yet to assess as to their usefulness
  *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
   * See also [A Byte of Vim](http://www.swaroopch.com/notes/vim/)   
+*	[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 *	[browse Python libraries](https://pypi.python.org/pypi?%3Aaction=browse)
 *	[Python Challenge](http://www.pythonchallenge.com/)
   * with [wiki](http://wiki.pythonchallenge.com)
