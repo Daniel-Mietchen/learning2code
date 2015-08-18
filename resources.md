@@ -45,6 +45,7 @@ I found the following resources that I have yet to assess as to their usefulness
 toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
    * [some background](http://www.dataplumbing.com/blog/pandas-powerful-python-data-analysis-toolkit)
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
+* [Five libraries in Python for data scientists: how to display information](http://bbvaopen4u.com/en/actualidad/five-libraries-python-data-scientists-how-display-information)
 * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
