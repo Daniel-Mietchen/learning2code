@@ -63,6 +63,7 @@ to get familiar with the main design features of Python and the underlying philo
   * available in multiple languages 
 * Games
   * [Moving Picture Tile Puzzle 4](https://scratch.mit.edu/projects/72774248/?fromexplore=true#player) 
+  * [Angry Birds](https://scratch.mit.edu/projects/2294898/)
 
 ## Scratch events
 * [Scratch Day](http://day.scratch.mit.edu/): May 14, 2016
