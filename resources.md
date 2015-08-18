@@ -59,6 +59,9 @@ to get familiar with the main design features of Python and the underlying philo
 
 # Scratch
 * [Website](https://scratch.mit.edu/)
+* [Scratch cards](https://scratch.mit.edu/help/cards/)
+  * available in multiple languages 
+* Games
   * [Moving Picture Tile Puzzle 4](https://scratch.mit.edu/projects/72774248/?fromexplore=true#player) 
 
 ## Scratch events
