@@ -4,7 +4,8 @@
 * [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
 * [Live coding.tv](https://www.livecoding.tv/)
-  * Can be organized by programming languageg
+  * Can be organized by programming language
+    * Python is available
 
 # Python-specific
 ## Online
