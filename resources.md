@@ -5,7 +5,11 @@
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
 * [Live coding.tv](https://www.livecoding.tv/)
   * Can be organized by programming language
-    * Python is available
+   * Python is available
+* [MIT: Introductory Programming Courses](http://ocw.mit.edu/courses/intro-programming/)
+* [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
+* [Three Tales of Second System Syndrome](http://blog.brentlaabs.com/2015/05/three-tales-of-second-system-syndrome.html)
+* [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
 # Python-specific
 ## Online
@@ -42,6 +46,9 @@ I found the following resources that I have yet to assess as to their usefulness
 * [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages/)
 * [Projects the hard way](http://projectsthehardway.com/)
 * [Building the most productive data science stack with Python](https://lab.getbase.com/productive-data-science-python/)
+* [Seven Python Tools All Data Scientists Should Know How to Use](http://www.galvanize.com/blog/2015/07/14/seven-python-tools-all-data-scientists-should-know-how-to-use/)
+* [Bringing Python into the classroom](http://opensource.com/education/15/9/python-in-the-classroom)
+* 
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
