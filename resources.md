@@ -36,6 +36,12 @@ I found the following resources that I have yet to assess as to their usefulness
 * [List comprehension](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions)
   * [example](http://stackoverflow.com/questions/17934785/remove-elements-in-one-list-present-in-another-list)
   * [alternative](http://stackoverflow.com/questions/9053260/removing-one-list-from-another)
+* [Document Similarity Analysis Using ElasticSearch and Python](http://www.datasciencecentral.com/profiles/blogs/document-similarity-analysis-using-elasticsearch-and-python)
+* [18 Resources to Learn Python Programming Language](http://codecondo.com/10-ways-to-learn-python/)
+* [PyLaTeX: A Python library for creating LaTeX files](https://github.com/JelteF/PyLaTeX)
+* [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages/)
+* [Projects the hard way](http://projectsthehardway.com/)
+* [Building the most productive data science stack with Python](https://lab.getbase.com/productive-data-science-python/)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
