@@ -1,5 +1,5 @@
 # General
-*Some resources that are useful not just for Python but for programming more generally.*
+*Some resources that are useful for programming more generally.*
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
 * [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
@@ -10,6 +10,7 @@
 * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
 * [Three Tales of Second System Syndrome](http://blog.brentlaabs.com/2015/05/three-tales-of-second-system-syndrome.html)
 * [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
+* [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 
 # Python-specific
 ## Online
