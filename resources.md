@@ -1,5 +1,6 @@
 # General
 *Some resources that are useful for programming more generally.*
+* [Open Source Society University](https://github.com/open-source-society/computer-science)
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
 * [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
