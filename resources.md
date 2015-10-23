@@ -50,7 +50,6 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Building the most productive data science stack with Python](https://lab.getbase.com/productive-data-science-python/)
 * [Seven Python Tools All Data Scientists Should Know How to Use](http://www.galvanize.com/blog/2015/07/14/seven-python-tools-all-data-scientists-should-know-how-to-use/)
 * [Bringing Python into the classroom](http://opensource.com/education/15/9/python-in-the-classroom)
-* 
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
@@ -86,3 +85,7 @@ to get familiar with the main design features of Python and the underlying philo
 ## Scratch events
 * [Scratch Day](http://day.scratch.mit.edu/): May 14, 2016
 * [Scratch Conference](https://scratch.mit.edu/conference/): August 3 - 6, 2016, MIT Media Lab, Cambridge, MA, USA
+
+## See also
+* [CMake](https://cmake.org/)
+  * [talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
