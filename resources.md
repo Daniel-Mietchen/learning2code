@@ -74,6 +74,9 @@ Whenever I have a quiet moment at home, I am reading a few pages in the book
 
 to get familiar with the main design features of Python and the underlying philosphy.
 
+## Python events
+* [PyCon](https://us.pycon.org/2016/)
+
 # Scratch
 * [Website](https://scratch.mit.edu/)
 * [Scratch cards](https://scratch.mit.edu/help/cards/)
