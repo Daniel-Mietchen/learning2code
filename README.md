@@ -1,5 +1,5 @@
 # About
-This repo helps document my progress in learning how to code in programming languages new to me, with an initial focus on Python and Scratch.
+This repo helps document my progress in learning how to code in programming languages new to me, with an initial focus on [Python](https://www.python.org/) and [Scratch](https://scratch.mit.edu/).
 
 ## Learning Python
 Documentation of my progress in learning Python. 
@@ -16,3 +16,8 @@ Documentation of my progress in learning Scratch.
 ### Why Scratch?
 I've come across numerous examples of introductions to programming that use visual programming languages like Scratch, Alice or Blockly. Since I am frequently in a position to explain programming concepts to non-programmers, I thought I'd familiarize myself with one of those visual languages, so as to help those beginning coders make best use of the available introductory materials.
 
+# Acknowledgments
+This project is supported by the [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/) through a [Flash Grant](https://www.shuttleworthfoundation.org/flashgrants/).
+
+![Shuttleworth Foundation Logo](https://github.com/ShuttleworthFoundation/Logos/blob/master/Shuttleworth%20Funded/Shuttleworth%20Funded%20RGB/Shuttleworth%20Funded.jpg)
+The [logo](https://github.com/ShuttleworthFoundation/Logos/blob/master/Shuttleworth%20Funded/Shuttleworth%20Funded%20RGB/Shuttleworth%20Funded.jpg) is licensed [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
