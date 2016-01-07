@@ -13,6 +13,12 @@
 * [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 
+## Machine learning
+* [Titanic Data](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html): a classcial test data set in machine learning
+* [Machine learning and data mining on Wikipedia](https://en.wikipedia.org/wiki/Template:Machine_learning_bar)
+  * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
+  * [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
+
 # Python-specific
 ## Online
 I found the following resources that I have yet to assess as to their usefulness for me:
@@ -92,3 +98,4 @@ to get familiar with the main design features of Python and the underlying philo
 ## See also
 * [CMake](https://cmake.org/)
   * [talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
+* SPARQL
