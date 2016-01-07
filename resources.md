@@ -13,11 +13,17 @@
 * [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 
+## Statistics
+* [On Wikipedia](https://en.wikipedia.org/wiki/Template:Statistics)
+* [Data visualization](https://en.wikipedia.org/wiki/Template:Data_Visualization)
+
 ## Machine learning
-* [Titanic Data](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html): a classcial test data set in machine learning
 * [Machine learning and data mining on Wikipedia](https://en.wikipedia.org/wiki/Template:Machine_learning_bar)
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
   * [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
+  * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+   * See also other [Data clustering algorithms](https://en.wikipedia.org/wiki/Category:Data_clustering_algorithms)
+* [Titanic Data](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html): a classcial test data set in machine learning
 
 # Python-specific
 ## Online
