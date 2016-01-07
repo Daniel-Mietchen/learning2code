@@ -13,6 +13,15 @@
 * [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 
+## Courses
+* [Software Carpentry](http://software-carpentry.org/)
+  * [Lessons](http://software-carpentry.org/lessons/)
+  * [Paper on lessons learned](http://www.datacarpentry.org/workshops-upcoming/)
+  * [Workshops](http://software-carpentry.org/workshops/) 
+* [Data Carpentry](http://www.datacarpentry.org/)
+  * [Lessons](http://www.datacarpentry.org/lessons/)
+  * [Workshops](http://www.datacarpentry.org/workshops-upcoming/)
+
 ## Statistics
 * [On Wikipedia](https://en.wikipedia.org/wiki/Template:Statistics)
 * [Data visualization](https://en.wikipedia.org/wiki/Template:Data_Visualization)
