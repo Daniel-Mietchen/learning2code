@@ -21,6 +21,8 @@
 * [Data Carpentry](http://www.datacarpentry.org/)
   * [Lessons](http://www.datacarpentry.org/lessons/)
   * [Workshops](http://www.datacarpentry.org/workshops-upcoming/)
+  * [Reproducible Research Curriculum](http://www.datacarpentry.org/blog/reproducible-research-curriculum/)
+* [Deepsense workshops](http://workshops.deepsense.io/)
 
 ## Statistics
 * [On Wikipedia](https://en.wikipedia.org/wiki/Template:Statistics)
