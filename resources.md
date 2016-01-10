@@ -29,6 +29,7 @@
 * [Data visualization](https://en.wikipedia.org/wiki/Template:Data_Visualization)
 
 ## Machine learning
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Machine learning and data mining on Wikipedia](https://en.wikipedia.org/wiki/Template:Machine_learning_bar)
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
   * [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
