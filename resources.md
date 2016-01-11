@@ -36,6 +36,7 @@
   * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
    * See also other [Data clustering algorithms](https://en.wikipedia.org/wiki/Category:Data_clustering_algorithms)
 * [Titanic Data](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html): a classcial test data set in machine learning
+* [Machine Learning for Greater Fire Scene Safety](http://deepsense.io/machine-learning-greater-fire-scene-safety/)
 
 # Python-specific
 ## Online
