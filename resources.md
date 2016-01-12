@@ -49,6 +49,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * See also [A Byte of Vim](http://www.swaroopch.com/notes/vim/)   
 *	[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 *	[browse Python libraries](https://pypi.python.org/pypi?%3Aaction=browse)
+*	[11 great resources to learn and work in Python](http://thenextweb.com/dd/2015/11/26/11-great-resources-to-learn-and-work-in-python/)
 *	[Python Challenge](http://www.pythonchallenge.com/)
   * with [wiki](http://wiki.pythonchallenge.com)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
