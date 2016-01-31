@@ -78,6 +78,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Bringing Python into the classroom](http://opensource.com/education/15/9/python-in-the-classroom)
 * [Try Python](https://www.codeschool.com/courses/try-python)
   * [tried it](https://twitter.com/EvoMRI/status/693649344386433024)
+* [Python for data science](http://www.statisticsviews.com/details/feature/8868901/A-Tutorial-on-Python.html)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
