@@ -76,6 +76,8 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Building the most productive data science stack with Python](https://lab.getbase.com/productive-data-science-python/)
 * [Seven Python Tools All Data Scientists Should Know How to Use](http://www.galvanize.com/blog/2015/07/14/seven-python-tools-all-data-scientists-should-know-how-to-use/)
 * [Bringing Python into the classroom](http://opensource.com/education/15/9/python-in-the-classroom)
+* [Try Python](https://www.codeschool.com/courses/try-python)
+  * [tried it](https://twitter.com/EvoMRI/status/693649344386433024)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
