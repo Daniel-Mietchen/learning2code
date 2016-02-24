@@ -131,3 +131,4 @@ to get familiar with the main design features of Python and the underlying philo
 * [CMake](https://cmake.org/)
   * [talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
 * SPARQL
+  * [ListeriaBot](https://www.wikidata.org/w/index.php?title=User:Daniel_Mietchen/Wikidata_lists/Species_of_Otus&diff=next&oldid=292702797)
