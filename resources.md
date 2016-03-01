@@ -42,6 +42,7 @@
 ## Online
 I found the following resources that I have yet to assess as to their usefulness for me:
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
+*	[Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 *	[Google Python course](https://developers.google.com/edu/python/introduction)
 *	Wikipedia: [Python (programming language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
  *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
@@ -82,6 +83,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Try Python](https://www.codeschool.com/courses/try-python)
   * [tried it](https://twitter.com/EvoMRI/status/693649344386433024)
 * [Python for data science](http://www.statisticsviews.com/details/feature/8868901/A-Tutorial-on-Python.html)
+* [How do I get fluent in Python?](http://stackoverflow.com/questions/1507041/how-do-i-get-fluent-in-python)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
