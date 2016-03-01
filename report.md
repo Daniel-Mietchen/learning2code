@@ -2,6 +2,7 @@ This file is my attempt to report on how I am learning the programming language 
 
 ## Outline
 * Prehistory: school till postdoc
+* Version control: wikis, svn, git
 * Software Carpentry
 * Python
 * StackOverflow
