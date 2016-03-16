@@ -25,3 +25,4 @@ This file is my attempt to report on how I am learning the programming language 
 * Yuvi Panda started [Pywikibot: A Web Shell (PAWS)](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS)
 * [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
    * [viscm](https://github.com/matplotlib/viscm)
+   * [viridis](https://bids.github.io/colormap/)
