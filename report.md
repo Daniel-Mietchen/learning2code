@@ -24,6 +24,7 @@ This file is my attempt to report on how I am learning the programming language 
      * [seaborn error](http://stackoverflow.com/questions/33451260/cannot-import-seaborn)
        * solved by adding a requirements.txt file with "seaborn" as content, as per [this example](https://github.com/binder-project/example-requirements/blob/master/requirements.txt)
      * discovered [IPython Parallel](https://github.com/ipython/ipyparallel)
+     * [useful comments on mybinder](http://blog.ouseful.info/2015/10/31/running-github-hosted-jupyter-previously-ipython-notebooks-as-online-applications/)
    * [run it on mobile](https://twitter.com/KyleCranmer/status/698240530900193282)
 * Scratch
 * SPARQL
