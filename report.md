@@ -20,7 +20,7 @@ This file is my attempt to report on how I am learning the programming language 
 * pluralsight
 * [LIGO data](https://losc.ligo.org/events/GW150914/)
    * [Jupyter notebook](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.ipynb)
-   * [mbinder version](http://mybinder.org/repo/cranmer/ligo-biinder)
+   * [mbinder version](http://mybinder.org/repo/cranmer/ligo-binder)
      * [seaborn error](http://stackoverflow.com/questions/33451260/cannot-import-seaborn)
    * [run it on mobile](https://twitter.com/KyleCranmer/status/698240530900193282)
 * Scratch
