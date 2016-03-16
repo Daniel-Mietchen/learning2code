@@ -34,3 +34,4 @@ This file is my attempt to report on how I am learning the programming language 
 * [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
    * [viscm](https://github.com/matplotlib/viscm)
    * [viridis](https://bids.github.io/colormap/)
+* [FutureLearn course](https://www.futurelearn.com/courses/learn-to-code)
