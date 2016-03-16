@@ -23,6 +23,7 @@ This file is my attempt to report on how I am learning the programming language 
    * [mbinder version](http://mybinder.org/repo/cranmer/ligo-binder)
      * [seaborn error](http://stackoverflow.com/questions/33451260/cannot-import-seaborn)
        * solved by adding a requirements.txt file with "seaborn" as content, as per [this example](https://github.com/binder-project/example-requirements/blob/master/requirements.txt)
+     * discovered [IPython Parallel](https://github.com/ipython/ipyparallel)
    * [run it on mobile](https://twitter.com/KyleCranmer/status/698240530900193282)
 * Scratch
 * SPARQL
