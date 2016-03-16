@@ -36,4 +36,5 @@ This file is my attempt to report on how I am learning the programming language 
 * [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
    * [viscm](https://github.com/matplotlib/viscm)
    * [viridis](https://bids.github.io/colormap/)
-* [FutureLearn course](https://www.futurelearn.com/courses/learn-to-code)
+* [FutureLearn course](https://www.futurelearn.com/courses/learn-to-code)?
+* [Data science intro for math/phys background](http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html)
