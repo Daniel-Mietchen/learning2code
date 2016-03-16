@@ -22,6 +22,7 @@ This file is my attempt to report on how I am learning the programming language 
    * [Jupyter notebook](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.ipynb)
    * [mbinder version](http://mybinder.org/repo/cranmer/ligo-binder)
      * [seaborn error](http://stackoverflow.com/questions/33451260/cannot-import-seaborn)
+       * solved by adding a requirements.txt file with "seaborn" as content, as per [this example](https://github.com/binder-project/example-requirements/blob/master/requirements.txt)
    * [run it on mobile](https://twitter.com/KyleCranmer/status/698240530900193282)
 * Scratch
 * SPARQL
