@@ -1,5 +1,5 @@
 # About
-This repo helps document my progress in learning how to code in programming languages new to me, with an initial focus on [Python](https://www.python.org/) and [Scratch](https://scratch.mit.edu/).
+This repo helps document my progress in learning how to code in programming languages new to me, with an initial focus on [Python](https://www.python.org/) and [Scratch](https://scratch.mit.edu/). Apart from the outline in this file, the repo also contains a [collection of useful resources](https://github.com/Daniel-Mietchen/learning2code/blob/master/resources.md), some [notes on version control](https://github.com/Daniel-Mietchen/learning2code/blob/master/version-control.md), some [ideas for programming tasks](https://github.com/Daniel-Mietchen/learning2code/blob/master/tasks.md) as well as [notes for a draft report](https://github.com/Daniel-Mietchen/learning2code/blob/master/report.md)
 
 ## Learning Python
 Documentation of my progress in learning Python. 
