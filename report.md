@@ -39,3 +39,5 @@ This file is my attempt to report on how I am learning the programming language 
 * [FutureLearn course](https://www.futurelearn.com/courses/learn-to-code)?
 * [Data science intro for math/phys background](http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html)
 * [Running Executable Jupyter/IPython Notebooks Directly from Github With Binder](http://blog.ouseful.info/2015/10/31/running-github-hosted-jupyter-previously-ipython-notebooks-as-online-applications/)
+* [Community Data Science Workshops at University of Washington](http://wiki.communitydata.cc/Community_Data_Science_Workshops_%28Spring_2016%29)
+* [datapackage-py](https://github.com/frictionlessdata/datapackage-py)
