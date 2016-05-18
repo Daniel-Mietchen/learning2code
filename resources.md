@@ -53,6 +53,7 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[11 great resources to learn and work in Python](http://thenextweb.com/dd/2015/11/26/11-great-resources-to-learn-and-work-in-python/)
 *	[Python Challenge](http://www.pythonchallenge.com/)
   * with [wiki](http://wiki.pythonchallenge.com)
+  * works well with [temporary notebooks](https://try.jupyter.org/)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
   *	[Jupyter on GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3)
