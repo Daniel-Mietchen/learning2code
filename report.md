@@ -11,6 +11,8 @@ This file is my attempt to report on how I am learning the programming language 
 * Python
 * StackOverflow
 * IPython
+* Mybinder
+  * [blog post by Titus Brown](http://ivory.idyll.org/blog//2016-mybinder.html)
 * Flash Grant
 * Anaconda
 * Deepsense
@@ -19,7 +21,7 @@ This file is my attempt to report on how I am learning the programming language 
 * hack.summit()
 * pluralsight
 * [LIGO data](https://losc.ligo.org/events/GW150914/)
-   * [Jupyter notebook](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.ipynb)
+   * [Jupyter notebook](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.ipynb) (in Python 2)
    * [mbinder version](http://mybinder.org/repo/cranmer/ligo-binder)
      * [seaborn error](http://stackoverflow.com/questions/33451260/cannot-import-seaborn)
        * solved by adding a requirements.txt file with "seaborn" as content, as per [this example](https://github.com/binder-project/example-requirements/blob/master/requirements.txt)
