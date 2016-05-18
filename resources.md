@@ -6,7 +6,7 @@
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
 * [Live coding.tv](https://www.livecoding.tv/)
   * Can be organized by programming language
-   * Python is available
+   * Python is availablet
 * [MIT: Introductory Programming Courses](http://ocw.mit.edu/courses/intro-programming/)
 * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
 * [Three Tales of Second System Syndrome](http://blog.brentlaabs.com/2015/05/three-tales-of-second-system-syndrome.html)
@@ -53,7 +53,7 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[11 great resources to learn and work in Python](http://thenextweb.com/dd/2015/11/26/11-great-resources-to-learn-and-work-in-python/)
 *	[Python Challenge](http://www.pythonchallenge.com/)
   * with [wiki](http://wiki.pythonchallenge.com)
-  * works well with [temporary notebooks](https://try.jupyter.org/)
+  * works well with [temporary notebooks](https://try.jupyter.org/) (for Python 3)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
   *	[Jupyter on GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3)
