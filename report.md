@@ -43,3 +43,4 @@ This file is my attempt to report on how I am learning the programming language 
 * [Running Executable Jupyter/IPython Notebooks Directly from Github With Binder](http://blog.ouseful.info/2015/10/31/running-github-hosted-jupyter-previously-ipython-notebooks-as-online-applications/)
 * [Community Data Science Workshops at University of Washington](http://wiki.communitydata.cc/Community_Data_Science_Workshops_%28Spring_2016%29)
 * [datapackage-py](https://github.com/frictionlessdata/datapackage-py)
+* [Real-world data in a few minutes with Google Science Journal](http://nbviewer.jupyter.org/github/fperez/science-journal-demo/blob/master/Light%20data%20with%20Google%20Science%20Journal.ipynb)
