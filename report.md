@@ -45,3 +45,4 @@ This file is my attempt to report on how I am learning the programming language 
 * [datapackage-py](https://github.com/frictionlessdata/datapackage-py)
 * [Real-world data in a few minutes with Google Science Journal](http://nbviewer.jupyter.org/github/fperez/science-journal-demo/blob/master/Light%20data%20with%20Google%20Science%20Journal.ipynb)
 * [Calico](https://www.projectcalico.org/)
+* [Python Village at Rosalind](http://rosalind.info/problems/list-view/?location=python-village]
