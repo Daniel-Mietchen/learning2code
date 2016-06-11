@@ -6,11 +6,23 @@ Expecting the [RIO launch](http://dx.doi.org/10.3897/rio.1.e7547) to consume mos
 
 When that time came, the [Zika outbreak](https://en.wikipedia.org/wiki/2015%E2%80%9316_Zika_virus_epidemic) had begun to emerge as a serious public health issue. I had been [keeping track](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md) for a while of cases where emergency situations like epidemics or earthquakes had triggered open and collaborative responses, so I began to wonder what open knowledge initiatives could do about Zika.
 
-The simplest answer to that was of course to read up on the virus, its effects on humans and potential response measures. Aside from access issues, this was initially relatively straightforward: since the first description of the virus in 1952, there had been just a bit over a hundred papers specifically on Zika. I started to track them via [Wikidata](https://query.wikidata.org/#SELECT%20%3Fitem%20WHERE%20{%20{%20%3Fitem%20wdt%3AP921%20wd%3AQ202864%20.%20}%20UNION%20{%20%3Fitem%20wdt%3AP921%20wd%3AQ8071861%20.%20}%20}), experimented with the [timeline feature](https://tools.wmflabs.org/wikidata-timeline/#/timeline?query=CLAIM%5B921:202864%5D%20OR%20CLAIM%5B921:8071861%5D) and began to [add](https://en.wikipedia.org/w/index.php?title=Zika_virus&type=revision&diff=701345863&oldid=701318605) references to Zika-related wiki pages. Soon thereafter, I stumbled across the [ZikaOpen hashtag](https://twitter.com/collabchem/status/692762591706365953) on Twitter. This brought me [together with others](http://dx.doi.org/10.12688/f1000research.8013.1) who wanted to address the outbreak using open-science approaches, and I shifted my spare time attention from Python to Zika, though with some hope that there might be occasions to combine the two somehow.
+The simplest answer to that was of course to read up on the virus, its effects on humans and potential response measures. Aside from access issues, this was initially relatively straightforward: since the first description of the virus in 1952, there had been just a bit over a hundred papers specifically on Zika. I started to track them via [Wikidata](https://query.wikidata.org/#SELECT%20%3Fitem%20WHERE%20{%20{%20%3Fitem%20wdt%3AP921%20wd%3AQ202864%20.%20}%20UNION%20{%20%3Fitem%20wdt%3AP921%20wd%3AQ8071861%20.%20}%20}), experimented with the [timeline feature](https://tools.wmflabs.org/wikidata-timeline/#/timeline?query=CLAIM%5B921:202864%5D%20OR%20CLAIM%5B921:8071861%5D) and began to [add](https://en.wikipedia.org/w/index.php?title=Zika_virus&type=revision&diff=701345863&oldid=701318605) references to Zika-related wiki pages.
+
+Soon thereafter, I stumbled across the [ZikaOpen hashtag](https://twitter.com/collabchem/status/692762591706365953) on Twitter. This brought me [together with others](http://dx.doi.org/10.12688/f1000research.8013.1) who wanted to address the outbreak using open-science approaches, and I shifted my spare time attention from Python to Zika, though with some hope that there might be occasions to combine the two somehow.
+
+
+
+
+&mdash; many of my wiki activities had a Python or Zika spin already.
 
 I made some reasonable progress over the last few months in this regard, which can be traced (with some effort) through the repo's [version history](https://github.com/Daniel-Mietchen/learning2code/commits/master), but 
 
 Zika hackathon at Force 2016
+wiki activities as a driver for acquiring technical knowledge
+JATS
+SPARQL
+Lua
+regexes
 
 # Notes
 This file is my attempt to report on how I am learning the programming language Python. It complements [resources.md](https://github.com/Daniel-Mietchen/learning2code/blob/master/resources.md) by focusing on the process and circumstances of my learning as a way to help others in theirs. I will include some remarks on how my learning of Python triggered other learning experiences.
