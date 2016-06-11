@@ -75,3 +75,4 @@ This file is my attempt to report on how I am learning the programming language 
 * [Calico](https://www.projectcalico.org/)
 * [Python Village at Rosalind](http://rosalind.info/problems/list-view/?location=python-village)
 * [Jupyter notebooks on Azure](https://notebooks.azure.com/)
+* ["live programming mode of Python Tutor, which continually runs and visualizes your code as you type"](http://pythontutor.com/live.html#mode=edit)
