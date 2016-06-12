@@ -76,3 +76,5 @@ This file is my attempt to report on how I am learning the programming language 
 * [Python Village at Rosalind](http://rosalind.info/problems/list-view/?location=python-village)
 * [Jupyter notebooks on Azure](https://notebooks.azure.com/)
 * ["live programming mode of Python Tutor, which continually runs and visualizes your code as you type"](http://pythontutor.com/live.html#mode=edit)
+* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [Testing Jupyter Notebooks](http://blog.thedataincubator.com/2016/06/testing-jupyter-notebooks/)
