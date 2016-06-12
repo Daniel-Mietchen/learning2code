@@ -19,10 +19,10 @@ I made some reasonable progress over the last few months in this regard, which c
 
 Zika hackathon at Force 2016
 wiki activities as a driver for acquiring technical knowledge
-JATS
+[JATS](https://www.ncbi.nlm.nih.gov/books/NBK159964/)
 SPARQL
-Lua
-regexes
+[Lua](https://www.wikidata.org/w/index.php?title=Module:Cite&action=edit)
+[regexes](https://www.wikidata.org/w/index.php?title=Property_talk:P304&diff=prev&oldid=340705527)
 
 # Notes
 This file is my attempt to report on how I am learning the programming language Python. It complements [resources.md](https://github.com/Daniel-Mietchen/learning2code/blob/master/resources.md) by focusing on the process and circumstances of my learning as a way to help others in theirs. I will include some remarks on how my learning of Python triggered other learning experiences.
