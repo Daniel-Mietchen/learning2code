@@ -77,4 +77,6 @@ This file is my attempt to report on how I am learning the programming language 
 * [Jupyter notebooks on Azure](https://notebooks.azure.com/)
 * ["live programming mode of Python Tutor, which continually runs and visualizes your code as you type"](http://pythontutor.com/live.html#mode=edit)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+  * [data journalism example](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis/blob/master/notebooks/tennis-analysis.ipynb)
 * [Testing Jupyter Notebooks](http://blog.thedataincubator.com/2016/06/testing-jupyter-notebooks/)
+* [Learn to Code for Data Analysis](https://blog.ouseful.info/2016/04/26/want-to-get-started-with-open-data-looking-for-an-introductory-programming-course/)
