@@ -70,3 +70,5 @@ This file is my attempt to report on how I am learning the programming language 
   * [data journalism example](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis/blob/master/notebooks/tennis-analysis.ipynb)
 * [Testing Jupyter Notebooks](http://blog.thedataincubator.com/2016/06/testing-jupyter-notebooks/)
 * [Learn to Code for Data Analysis](https://blog.ouseful.info/2016/04/26/want-to-get-started-with-open-data-looking-for-an-introductory-programming-course/)
+* [IBM's Big Data University](http://bigdatauniversity.com/)
+  * [commentary in Forbes](http://www.forbes.com/sites/bernardmarr/2016/05/26/ibms-big-data-university-free-online-learning-with-over-400000-students/#34a7f86c452a)
