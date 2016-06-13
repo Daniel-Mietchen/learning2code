@@ -10,19 +10,9 @@ The simplest answer to that was of course to read up on the virus, its effects o
 
 Soon thereafter, I stumbled across the [ZikaOpen hashtag](https://twitter.com/collabchem/status/692762591706365953) on Twitter. This brought me [together with others](http://dx.doi.org/10.12688/f1000research.8013.1) who wanted to address the outbreak using open-science approaches, and I shifted my spare time attention from Python to Zika, though with some hope that there might be occasions to combine the two somehow.
 
+In the meantime, I am continuing to dive into Python whenever there is an opportunity to do so in the framework of other activities (e.g. while trying to understand [this simulation](www.spatial-epi.com/zika-virus-vector-control-2/) of the spread of the virus). I made some reasonable progress over the last few months in this regard, which can be traced (with some effort) through the repo's [version history](https://github.com/Daniel-Mietchen/learning2code/commits/master), but still prefer command-line tools like sed and awk for simple data processing and am shying away from anything more complex. While I am becoming quicker at understanding Python codes and spotting or fixing simple bugs, I am still hesitating to write something really on my own, and I am still lacking an overview over the huge and rich landscape of existing Python libraries.
 
-
-
-&mdash; many of my wiki activities had a Python or Zika spin already.
-
-I made some reasonable progress over the last few months in this regard, which can be traced (with some effort) through the repo's [version history](https://github.com/Daniel-Mietchen/learning2code/commits/master), but 
-
-Zika hackathon at Force 2016
-wiki activities as a driver for acquiring technical knowledge
-[JATS](https://www.ncbi.nlm.nih.gov/books/NBK159964/)
-SPARQL
-[Lua](https://www.wikidata.org/w/index.php?title=Module:Cite&action=edit)
-[regexes](https://www.wikidata.org/w/index.php?title=Property_talk:P304&diff=prev&oldid=340705527)
+My wiki activities are regularly pushing me towards deepening my technical knowledge, be this in terms of familiarizing myself with [JATS XML](https://www.ncbi.nlm.nih.gov/books/NBK159964/), [SPARQL](https://query.wikidata.org/#PREFIX%20wd%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX%20prov%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fprov%23%3E%0APREFIX%20pr%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Freference%2F%3E%0A%0ASELECT%20%3Fstatement%20%3FPMID%20%3FPMCID%20WHERE%20%7B%0A%20%20%3Fstatement%20prov%3AwasDerivedFrom%2Fpr%3AP248%20%3Fpaper%20.%0A%20%20%3Fpaper%20wdt%3AP31%20wd%3AQ13442814%20.%0A%20%20OPTIONAL%20%7B%20%3Fpaper%20wdt%3AP698%20%3FPMID%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fpaper%20wdt%3AP932%20%3FPMCID%20.%20%7D%0A%20%20FILTER%20%28BOUND%28%3FPMID%29%29%0A%7D), [Lua](https://www.wikidata.org/w/index.php?title=Module:Cite&action=edit) or even going back to dealing with  [regexes](https://www.wikidata.org/w/index.php?title=Property_talk:P304&diff=prev&oldid=340705527). I remain optimistic that Python's time will come in due course.
 
 # Notes
 This file is my attempt to report on how I am learning the programming language Python. It complements [resources.md](https://github.com/Daniel-Mietchen/learning2code/blob/master/resources.md) by focusing on the process and circumstances of my learning as a way to help others in theirs. I will include some remarks on how my learning of Python triggered other learning experiences.
