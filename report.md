@@ -76,3 +76,6 @@ This file is my attempt to report on how I am learning the programming language 
   * with visualizations in [Mode](https://about.modeanalytics.com/python/) [notebooks](https://modeanalytics.com/modeanalytics/reports/60ec15dd7173/python)
   * useful links also in the comments, e.g. [Up and Down the Python Data and Web Visualization Stack](http://nbviewer.jupyter.org/gist/wrobstory/1eb8cb704a52d18b9ee8/Up%20and%20Down%20PyData%202014.ipynb) and [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html)
 * [Implementing your own recommender systems in Python](http://online.cambridgecoding.com/notebooks/eWReNYcAfB/implementing-your-own-recommender-systems-in-python-2)
+* [File and Directory Operations Using Python](http://code.tutsplus.com/tutorials/file-and-directory-operations-using-python--cms-25817)
+* [Beginning Python Programming](http://www.openbookproject.net/books/bpp4awd/index.html)
+* [Code Academy: Learn](https://www.codecademy.com/learn)
