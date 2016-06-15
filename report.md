@@ -22,6 +22,7 @@ This file is my attempt to report on how I am learning the programming language 
 * Version control: wikis, svn, git
 * MATLAB
 * Pywikibot
+  * e.g. [Wikidata:Database reports/User preferences/Configuration](https://www.wikidata.org/wiki/Wikidata:Database_reports/User_preferences/Configuration)
 * Software Carpentry
 * [Sage](http://www.sagemath.org/)
   * seen [here](http://ways.org/en/node/1078)
