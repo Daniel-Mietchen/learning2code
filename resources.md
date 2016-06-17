@@ -13,6 +13,7 @@
 * [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+* [The Art of Data Science](https://leanpub.com/artofdatascience)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
@@ -102,6 +103,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [Blockly](https://developers.google.com/blockly/) can export Python code
+
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
