@@ -12,6 +12,7 @@
 * [Three Tales of Second System Syndrome](http://blog.brentlaabs.com/2015/05/three-tales-of-second-system-syndrome.html)
 * [Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
+* [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
