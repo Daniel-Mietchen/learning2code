@@ -12,6 +12,7 @@ If the resulting code works, you have helped solve a real problem (minor though 
 * [Europe PMC API call to download all citations for a given PMCID](http://www.ebi.ac.uk/europepmc/webservices/rest/PMC/PMC109351/citations/1/287/xml)
    * see [documentation](http://europepmc.org/RestfulWebService#cites)
 * [Wikidata Query Service API call to yield QID for a given PMCID](https://wdq.wmflabs.org/api?q=string%5B932:%22109351%22%5D)
+* [Wikidata query for all items with a PMCID](https://query.wikidata.org/#SELECT%20%3Fitem%20%3Fpmcid%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP932%20%3Fpmcid%20.%0A%7D%20)
 
 ## Converting [JATS](http://jats.nlm.nih.gov/)/[TaxPub](https://github.com/tcatapano/TaxPub) to a format that [Quick Statements](http://tools.wmflabs.org/wikidata-todo/quick_statements.php) can ingest
 * [Example XML file with description of 17 new species](http://phytokeys.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=download_xml&item_id=5203)
