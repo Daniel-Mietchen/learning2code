@@ -140,4 +140,6 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 * [CMake](https://cmake.org/)
   * [talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
 * SPARQL
+  * [SPARQL by example](http://www.cambridgesemantics.com/semantic-university/sparql-by-example)
+    *  [cheat sheets](http://www.slideshare.net/LeeFeigenbaum/sparql-cheat-sheet)
   * [ListeriaBot](https://www.wikidata.org/w/index.php?title=User:Daniel_Mietchen/Wikidata_lists/Species_of_Otus&diff=next&oldid=292702797)
