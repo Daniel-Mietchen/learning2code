@@ -81,3 +81,5 @@ This file is my attempt to report on how I am learning the programming language 
 * [Beginning Python Programming](http://www.openbookproject.net/books/bpp4awd/index.html)
 * [Code Academy: Learn](https://www.codecademy.com/learn)
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+* [A Reanalysis of Lung Tumor Incidence in Mice Induced By Inorganic Arsenic Exposure](https://github.com/DataSciBurgoon/arsenic_mouse_lung_tumor_reanalysis/blob/master/Is%20Waalkes%20Arsenic%20Control%20Tumor%20Incidence%20Different%20From%20Tokar's-.ipynb)
+  * link to paper [from Twitter](https://doi.org/10.1007/s00204-016-1749-0)
