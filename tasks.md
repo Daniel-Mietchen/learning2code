@@ -9,6 +9,8 @@ If the resulting code works, you have helped solve a real problem (minor though 
 # Wikidata tools
 ## Import citation information
 * [PMC lookup of publications on Zika, sorted by citation count](http://www.ebi.ac.uk/europepmc/webservices/rest/search?query=zika%20sort_cited:y)
+* [PMC FTP service](https://www.ncbi.nlm.nih.gov/pmc/tools/ftp/)
+   * has list of all PMCIDs in Open Subset
 * [Europe PMC API call to download all citations for a given PMCID](http://www.ebi.ac.uk/europepmc/webservices/rest/PMC/PMC109351/citations/1/287/xml)
    * see [documentation](http://europepmc.org/RestfulWebService#cites)
 * [Wikidata Query Service API call to yield QID for a given PMCID](https://wdq.wmflabs.org/api?q=string%5B932:%22109351%22%5D)
