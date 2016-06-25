@@ -83,3 +83,5 @@ This file is my attempt to report on how I am learning the programming language 
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 * [A Reanalysis of Lung Tumor Incidence in Mice Induced By Inorganic Arsenic Exposure](https://github.com/DataSciBurgoon/arsenic_mouse_lung_tumor_reanalysis/blob/master/Is%20Waalkes%20Arsenic%20Control%20Tumor%20Incidence%20Different%20From%20Tokar's-.ipynb)
   * link to paper [from Twitter](https://doi.org/10.1007/s00204-016-1749-0)
+* [Coconut](http://coconut-lang.org/)
+  * "Coconut is a simple, elegant, Pythonic functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python."
