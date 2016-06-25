@@ -87,6 +87,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * [tried it](https://twitter.com/EvoMRI/status/693649344386433024)
 * [Python for data science](http://www.statisticsviews.com/details/feature/8868901/A-Tutorial-on-Python.html)
 * [How do I get fluent in Python?](http://stackoverflow.com/questions/1507041/how-do-i-get-fluent-in-python)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
