@@ -13,6 +13,7 @@ If the resulting code works, you have helped solve a real problem (minor though 
    * has list of all PMCIDs in Open Subset
 * [Europe PMC API call to download all citations for a given PMCID](http://www.ebi.ac.uk/europepmc/webservices/rest/PMC/PMC109351/citations/1/287/xml)
    * see [documentation](http://europepmc.org/RestfulWebService#cites)
+   * [script for doing much the same thing via PMC](https://gist.github.com/mcfrank/c1ec74df1427278cbe53)
 * [Wikidata Query Service API call to yield QID for a given PMCID](https://wdq.wmflabs.org/api?q=string%5B932:%22109351%22%5D)
 * [Wikidata query for all items with a PMCID](https://query.wikidata.org/#SELECT%20%3Fitem%20%3Fpmcid%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP932%20%3Fpmcid%20.%0A%7D%20)
 
