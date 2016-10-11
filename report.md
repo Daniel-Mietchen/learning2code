@@ -91,3 +91,6 @@ This file is my attempt to report on how I am learning the programming language 
 * [Why You Should Learn Python](https://iluxonchik.github.io/why-you-should-learn-python/)
 * [Teaching an AI to write Python code with Python code](http://www.benjamintd.com/blog/spynet/)
 * [Using chat bots as a prototyping tool](https://github.com/ideo/stanley-bot)
+* [Baidu open-sources Python-driven machine learning framework](http://www.infoworld.com/article/3114175/artificial-intelligence/baidu-open-sources-python-driven-machine-learning-framework.html)
+  * [Overview](http://www.paddlepaddle.org/)
+  * [Python wrapper](http://www.paddlepaddle.org/doc/ui/data_provider/pydataprovider2.html)
