@@ -89,6 +89,10 @@ I found the following resources that I have yet to assess as to their usefulness
 * [How do I get fluent in Python?](http://stackoverflow.com/questions/1507041/how-do-i-get-fluent-in-python)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * [Teaching an AI to write Python code with Python code](http://www.benjamintd.com/blog/spynet/)
+* [Pypedia](http://www.pypedia.com/)
+ - inactive
+ - "fork this article" button
+ - [paper](https://doi.org/10.1186/s13029-015-0042-6)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
