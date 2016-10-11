@@ -88,6 +88,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Python for data science](http://www.statisticsviews.com/details/feature/8868901/A-Tutorial-on-Python.html)
 * [How do I get fluent in Python?](http://stackoverflow.com/questions/1507041/how-do-i-get-fluent-in-python)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+* [Teaching an AI to write Python code with Python code](http://www.benjamintd.com/blog/spynet/)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
@@ -104,7 +105,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [Blockly](https://developers.google.com/blockly/) can export Python code
-
+* [JSON data manipulation: the R way vs the Python way](http://datascience-enthusiast.com/R/json_R_python_1.html)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
@@ -115,7 +116,7 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
 * [Tools to convert MATLAB to Python](http://stackoverflow.com/questions/9845292/a-tool-to-convert-matlab-code-to-python)
 
 ##Offline
-When I have a quiet moment at home, I am reading a few pages in the book 
+When I have a quiet moment at home and offline, I am reading a few pages in the book 
 > "Python: Visual Quickstart Guide" by Chris Fehily (2001), ISBN 0-201-74884-3
 
 to get familiar with the main design features of Python and the underlying philosphy.
