@@ -90,3 +90,4 @@ This file is my attempt to report on how I am learning the programming language 
   * "Coconut is a simple, elegant, Pythonic functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python."
 * [Why You Should Learn Python](https://iluxonchik.github.io/why-you-should-learn-python/)
 * [Teaching an AI to write Python code with Python code](http://www.benjamintd.com/blog/spynet/)
+* [Using chat bots as a prototyping tool](https://github.com/ideo/stanley-bot)
