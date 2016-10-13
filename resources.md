@@ -110,6 +110,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [Blockly](https://developers.google.com/blockly/) can export Python code
 * [JSON data manipulation: the R way vs the Python way](http://datascience-enthusiast.com/R/json_R_python_1.html)
+* [Data Camp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
