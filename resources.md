@@ -117,6 +117,9 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Blockly](https://developers.google.com/blockly/) can export Python code
 * [JSON data manipulation: the R way vs the Python way](http://datascience-enthusiast.com/R/json_R_python_1.html)
 * [Data Camp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* Sonification:
+  - [SoniPy](http://www.sonification.com.au/sonipy/pythonIDE.html)
+  - [The Sound of Data (a gentle introduction to sonification for historians)](http://programminghistorian.org/lessons/sonification)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
