@@ -101,7 +101,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
-* [](http://dataconomy.com/big-data-python/)
+* [Introduction to Data Science: How to “Big Data” with Python](http://dataconomy.com/big-data-python/)
   * demoed using Jupyter notebooks
 * Pandas
   * [Pandas, A First Look](http://tswicegood.github.io/python-data-science-intro/pandas.html)
