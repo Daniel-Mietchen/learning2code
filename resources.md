@@ -6,7 +6,7 @@
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
 * [Live coding.tv](https://www.livecoding.tv/)
   * Can be organized by programming language
-   * Python is availablet
+   * Python is available
 * [MIT: Introductory Programming Courses](http://ocw.mit.edu/courses/intro-programming/)
 * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
 * [Three Tales of Second System Syndrome](http://blog.brentlaabs.com/2015/05/three-tales-of-second-system-syndrome.html)
