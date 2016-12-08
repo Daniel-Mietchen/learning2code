@@ -95,3 +95,4 @@ This file is my attempt to report on how I am learning the programming language 
   * [Overview](http://www.paddlepaddle.org/)
   * [Python wrapper](http://www.paddlepaddle.org/doc/ui/data_provider/pydataprovider2.html)
 * [Parsing JSON from command line using Python](http://www.cambus.net/parsing-json-from-command-line-using-python/)
+* [Wikidata Query in Jupyter notebook](https://twitter.com/WikidataFacts/status/806636466143109121)
