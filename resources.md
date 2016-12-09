@@ -69,6 +69,7 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
+  - comes with a nice [cheatsheet for Python 3](https://learnxinyminutes.com/docs/python3/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [CheckiO](http://www.checkio.org/)
   * Programming game requiring Python code to advance to next level
