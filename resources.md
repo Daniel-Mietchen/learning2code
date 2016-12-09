@@ -46,6 +46,7 @@ I found the following resources that I have yet to assess as to their usefulness
 
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
 * [Python Weekly](http://www.pythonweekly.com/)
+  - There's also a [Weekly Python Chat](http://www.weeklypython.chat/)
 *	[Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * Definitions: [Iterables vs. Iterators vs. Generators](http://nvie.com/posts/iterators-vs-generators/)
   - Follow-up post: [Use more iterators](http://nvie.com/posts/use-more-iterators/)
@@ -152,6 +153,8 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 * Games
   * [Moving Picture Tile Puzzle 4](https://scratch.mit.edu/projects/72774248/?fromexplore=true#player) 
   * [Angry Birds](https://scratch.mit.edu/projects/2294898/)
+* [Scratch vs Python](https://www.crowdcast.io/e/scratch/register)
+* [Scratch Programming Playground](https://www.nostarch.com/scratchplayground)
 
 ## Scratch events
 * [Scratch Day](http://day.scratch.mit.edu/): May 14, 2016
