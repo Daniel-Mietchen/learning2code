@@ -124,6 +124,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * Sonification:
   - [SoniPy](http://www.sonification.com.au/sonipy/pythonIDE.html)
   - [The Sound of Data (a gentle introduction to sonification for historians)](http://programminghistorian.org/lessons/sonification)
+* [The data science ecosystem: R vs Python vs Substitutes](http://www.datasciencecentral.com/profiles/blogs/the-data-science-ecosystem-r-vs-python-vs-substitutes)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
