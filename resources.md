@@ -36,21 +36,23 @@
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
   * [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
   * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
-   * See also other [Data clustering algorithms](https://en.wikipedia.org/wiki/Category:Data_clustering_algorithms)
+    * See also other [Data clustering algorithms](https://en.wikipedia.org/wiki/Category:Data_clustering_algorithms)
 * [Titanic Data](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html): a classcial test data set in machine learning
 * [Machine Learning for Greater Fire Scene Safety](http://deepsense.io/machine-learning-greater-fire-scene-safety/)
 
 # Python-specific
 ## Online
 I found the following resources that I have yet to assess as to their usefulness for me:
+
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
+* [Python Weekly](http://www.pythonweekly.com/)
 *	[Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * Definitions: [Iterables vs. Iterators vs. Generators](http://nvie.com/posts/iterators-vs-generators/)
   - Follow-up post: [Use more iterators](http://nvie.com/posts/use-more-iterators/)
   - see also: [Introduction to Python Generators](https://realpython.com/blog/python/introduction-to-python-generators/)
 *	[Google Python course](https://developers.google.com/edu/python/introduction)
 *	Wikipedia: [Python (programming language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
- *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
+  *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
   * See also [A Byte of Vim](http://www.swaroopch.com/notes/vim/)   
 *	[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
@@ -97,6 +99,7 @@ I found the following resources that I have yet to assess as to their usefulness
  - inactive
  - "fork this article" button
  - [paper](https://doi.org/10.1186/s13029-015-0042-6)
+* [Python Practice Projects](http://pythonpracticeprojects.com/)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
