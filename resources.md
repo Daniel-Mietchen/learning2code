@@ -104,7 +104,9 @@ I found the following resources that I have yet to assess as to their usefulness
  - [paper](https://doi.org/10.1186/s13029-015-0042-6)
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
 * [SoniPy](https://sourceforge.net/projects/sonipy/)
-* hashtags:
+* [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
+
+### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
   - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
 
@@ -122,6 +124,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
    * [8 resources for learning data analysis with pandas](http://www.dataschool.io/best-python-pandas-resources/)
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
 * [Five libraries in Python for data scientists: how to display information](http://bbvaopen4u.com/en/actualidad/five-libraries-python-data-scientists-how-display-information)
+* [Bokeh](http://bokeh.pydata.org/en/latest/docs/gallery.html)
 * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
