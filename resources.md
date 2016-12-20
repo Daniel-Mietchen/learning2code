@@ -39,6 +39,7 @@
     * See also other [Data clustering algorithms](https://en.wikipedia.org/wiki/Category:Data_clustering_algorithms)
 * [Titanic Data](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html): a classcial test data set in machine learning
 * [Machine Learning for Greater Fire Scene Safety](http://deepsense.io/machine-learning-greater-fire-scene-safety/)
+* [The 10 main takeaways from MLconf SF](https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/)
 
 # Python-specific
 ## Online
@@ -52,6 +53,7 @@ I found the following resources that I have yet to assess as to their usefulness
   - Follow-up post: [Use more iterators](http://nvie.com/posts/use-more-iterators/)
   - see also: [Introduction to Python Generators](https://realpython.com/blog/python/introduction-to-python-generators/)
 *	[Google Python course](https://developers.google.com/edu/python/introduction)
+  - [comment, background and pointers to related courses](http://www.openculture.com/2016/12/learn-python-a-free-online-course-from-google.html)
 *	Wikipedia: [Python (programming language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
   *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
