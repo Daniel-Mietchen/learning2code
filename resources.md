@@ -102,6 +102,9 @@ I found the following resources that I have yet to assess as to their usefulness
  - [paper](https://doi.org/10.1186/s13029-015-0042-6)
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
 * [SoniPy](https://sourceforge.net/projects/sonipy/)
+* hashtags:
+  - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
+  - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
 
 ### For data analysis
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
