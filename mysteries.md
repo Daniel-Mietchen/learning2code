@@ -7,5 +7,6 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 
 #SPARQL
 * [.](https://data-gov.tw.rpi.edu/wiki/How_to_use_SPARQL#Query_syntax)
-* [ps](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
-* [pq](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
+* [p:](https://query.wikidata.org/#select%20%3Fitem%20%3Fseriesordinal%20%3Fauthoritem%20where%20%7B%0A%20%20%3Fitem%20p%3AP2093%20%3Fauthorstring%20.%0A%20%20%3Fitem%20p%3AP50%20%3Fauthoritem%20.%0A%20%20%3Fauthoritem%20pq%3AP1545%20%3Fseriesordinal%20.%0A%20%20%3Fauthorstring%20pq%3AP1545%20%3Fseriesordinal%20.%0A%7D) (as opposed to "wdt:")
+* [ps:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
+* [pq:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
