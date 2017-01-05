@@ -9,4 +9,4 @@ This file collects information about version control for software.
 * [Cloud Source Repositories](https://cloud.google.com/source-repositories/)
 
 # See also
-* [A Quick Introduction to Version Control with Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668)
+* [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) &mdash; a useful introduction
