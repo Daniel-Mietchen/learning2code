@@ -71,6 +71,7 @@ I found the following resources that I have yet to assess as to their usefulness
   *	[Pineapple](http://nwhitehead.github.io/pineapple/)
   *	[GW150914](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
     *	[browser-based version](http://app.mybinder.org/2156932902/tree)
+  * [Jupyter notebook tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bHHH18s)
 *	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
