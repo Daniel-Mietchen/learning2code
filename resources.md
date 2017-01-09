@@ -106,6 +106,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
 * [SoniPy](https://sourceforge.net/projects/sonipy/)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
+* [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
