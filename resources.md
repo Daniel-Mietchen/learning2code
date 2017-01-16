@@ -14,6 +14,9 @@
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 * [The Art of Data Science](https://leanpub.com/artofdatascience)
+* [Codefight](https://codefights.com) &mdash; real-world coding challenges
+  - man issue: even when I set Python 3 as my preferred language, some of the coding tasks may be in other languages; I chose Java for that but don't like this mixing at this stage when my Python is still fragile and easily distracted
+  - [Finding People Jobs Through Programming Challenges, CodeFights Gets Another $10M](https://www.snapmunk.com/programming-challenges-codefights-job-recruitment/)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
