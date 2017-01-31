@@ -76,6 +76,7 @@ I found the following resources that I have yet to assess as to their usefulness
     *	[browser-based version](http://app.mybinder.org/2156932902/tree)
   * [Jupyter notebook tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bHHH18s)
   * [Project Jupyter: interactive computing in the context of modern science gateways](https://dx.doi.org/10.6084/m9.figshare.4495976.v1)
+  * [US Integrated Ocean Observing Systems program](https://www.ioos.us/): [Data demos](http://ioos.github.io/notebooks_demos/code_gallery/) using Jupyter notebooks
 *	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
