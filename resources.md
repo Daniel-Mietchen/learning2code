@@ -112,12 +112,14 @@ I found the following resources that I have yet to assess as to their usefulness
 * [SoniPy](https://sourceforge.net/projects/sonipy/)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+* [Variables: learn programming in Python](https://www.raspberrypi.org/magpi/variables-programming-python/) &mdash; very simple intro to generic programming concepts, with Python examples; suitable for kids
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
   - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
 
 ### For data analysis
+* [Python Data Science Handbook](https://github.com/jakevdp/WhirlwindTourOfPython) ([my fork](https://github.com/Daniel-Mietchen/PythonDataScienceHandbook)); seen [here](http://linkis.com/5rZrJ)
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Python packages for data mining](http://dataconomy.com/python-packages-for-data-mining/)
