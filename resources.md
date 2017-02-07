@@ -113,6 +113,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 * [Variables: learn programming in Python](https://www.raspberrypi.org/magpi/variables-programming-python/) &mdash; very simple intro to generic programming concepts, with Python examples; suitable for kids
+* Sebotic's [Wikidata notebooks](https://github.com/sebotic/wikidata_notebooks)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
