@@ -49,6 +49,7 @@
 I found the following resources that I have yet to assess as to their usefulness for me:
 
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
+  - [Python for non-programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 * [Python Weekly](http://www.pythonweekly.com/)
   - There's also a [Weekly Python Chat](http://www.weeklypython.chat/)
 *	[Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
@@ -82,6 +83,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
   - comes with a nice [cheatsheet for Python 3](https://learnxinyminutes.com/docs/python3/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+  - stresses that it is important to type the examples yourself in order to get used to doing this, and to pay the necessary attention to detail to get things to run
 * [CheckiO](http://www.checkio.org/)
   * Programming game requiring Python code to advance to next level
 * [Python for Biologists](http://pythonforbiologists.com/index.php/five-things-i-hate-about-teaching-python/)
@@ -113,7 +115,9 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 * [Variables: learn programming in Python](https://www.raspberrypi.org/magpi/variables-programming-python/) &mdash; very simple intro to generic programming concepts, with Python examples; suitable for kids
-* Sebotic's [Wikidata notebooks](https://github.com/sebotic/wikidata_notebooks)
+* [Learning to Program](http://www.alan-g.me.uk/) &mdash; uses Python (optionally 1.5, 2 or 3)
+* [Think Python](http://greenteapress.com/wp/think-python/)
+
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
@@ -188,3 +192,4 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
     *  [Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)
   * [ListeriaBot](https://www.wikidata.org/w/index.php?title=User:Daniel_Mietchen/Wikidata_lists/Species_of_Otus&diff=next&oldid=292702797)
 * [Python edition of ActivePapers](https://github.com/khinsen/activepapers-python)
+* Sebotic's [Wikidata notebooks](https://github.com/sebotic/wikidata_notebooks)
