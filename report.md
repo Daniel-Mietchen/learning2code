@@ -32,19 +32,21 @@ After the [wall](https://en.wikipedia.org/wiki/Berlin_Wall) had come down, my in
 
 My PhD had a focus on experimental methodology, and the existing tools for handling the resulting data (mainly [ImageJ](http://imagej.net/), written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) were usually good enough for my purposes, so that I only rarely had to do coding that went much beyond customizing.
 
-I kept the experimental focus for my first postdoc, but the preparation and analysis of the experiments involved a decent amount of scripting, particularly in [Perl](https://en.wikipedia.org/wiki/Perl) and [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) as well as through tools like [Lipsia](http://static.cbs.mpg.de/lipsia/), [Praat](https://en.wikipedia.org/wiki/Praat) and [MATLAB](https://en.wikipedia.org/wiki/MATLAB), all of which are largely written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B).
+I kept the experimental focus for my first postdoc, but the preparation and analysis of the experiments involved a decent amount of scripting, particularly in [Perl](https://en.wikipedia.org/wiki/Perl) and [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) as well as through tools like [Lipsia](http://static.cbs.mpg.de/lipsia/), [Praat](https://en.wikipedia.org/wiki/Praat) and [MATLAB](https://en.wikipedia.org/wiki/MATLAB), all of which are largely written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B), with which I was thus becoming more familiar too.
 
-My second postdoc lost its experimental component early on, so computation via a combination of shell scripts, C and MATLAB became central, though I was again mostly customizing or adapting code that others had written. It was around that time that I first saw [version control](https://en.wikipedia.org/wiki/Version_control) (a concept that I had already become familiar with by contributing to Wikipedia) used systematically in the context of developing scientific software.
+My second postdoc lost its initially foreseen experimental component early on, so computation via a combination of shell scripts, C and MATLAB became central, though I was again mostly customizing or adapting code that others had written, and I ended up doing lots of things manually for which no good automated solution was available. It was around that time that I first saw [version control](https://en.wikipedia.org/wiki/Version_control) (a concept that I had already become familiar with by contributing to Wikipedia) used systematically in the context of developing scientific software.
 
 # Notes
 
-* Version control: wikis, svn, git
+* Version control: wikis, svn, git, GitHub
 * MATLAB
+  - frustration with license limitations
 * Pywikibot
   * e.g. [Wikidata:Database reports/User preferences/Configuration](https://www.wikidata.org/wiki/Wikidata:Database_reports/User_preferences/Configuration)
 * Software Carpentry
 * [Sage](http://www.sagemath.org/)
   * seen [here](http://ways.org/en/node/1078)
+* "I'm eyeing R"
 * Python
 * StackOverflow
 * IPython
