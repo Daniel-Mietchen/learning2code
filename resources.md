@@ -117,7 +117,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Variables: learn programming in Python](https://www.raspberrypi.org/magpi/variables-programming-python/) &mdash; very simple intro to generic programming concepts, with Python examples; suitable for kids
 * [Learning to Program](http://www.alan-g.me.uk/) &mdash; uses Python (optionally 1.5, 2 or 3)
 * [Think Python](http://greenteapress.com/wp/think-python/)
-
+* [Jay Gattuso: From nothing to daily use - How Python changed my work life](https://www.youtube.com/watch?v=fCSAOcTbe8g)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
