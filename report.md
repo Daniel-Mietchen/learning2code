@@ -1,3 +1,9 @@
+# About
+
+This file is my attempt to report on how I am learning the programming language Python. It complements [resources.md](https://github.com/Daniel-Mietchen/learning2code/blob/master/resources.md) by focusing on the process and circumstances of my learning as a way to help others in theirs. I does include some remarks on how my learning of Python triggered other learning experiences.
+
+# Flash Grant
+
 In late 2015, I was awarded one of the Shuttleworth Foundation's [Flash Grants](https://www.shuttleworthfoundation.org/flashgrants/). These are handed out twice a year to unsuspecting awardees upon nomination by [Shuttleworth Fellows](https://shuttleworthfoundation.org/fellows/) &mdash; in my case [Peter Murray-Rust](https://en.wikipedia.org/wiki/Peter_Murray-Rust), with whom I am sharing an interest in [open research](https://www.youtube.com/watch?v=LwW1-X3glak).
 
 Initially, I thought I would use the freedom that the Flash Grant accorded to me to step up my efforts in learning [Python](https://www.python.org/), for which I had started this repo some months earlier as an attempt to document my progress (or the lack thereof). The [announcement](https://twitter.com/EvoMRI/status/668738865600032768) of the plan quickly brought about some useful [feedback](https://twitter.com/kirstie_j/status/668739834664587264) (which I followed and now agree with), so I was hopeful for doing my learning in public.
@@ -16,12 +22,22 @@ My professional and volunteer activities (especially those around Wikimedia proj
 
 While I am not specifically watching out for occasions to learn and/ or use Python, such opportunities present themselves on a regular basis, and I gladly jump on them. For instance, the [Open Science Fellows Program](https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program) run by Wikimedia Germany and the Stifterverband offers a group of [young scientists from various backgrounds](https://wikimedia.de/wiki/BildungWissenschaftKultur/Fellowprogramm/Fellows) the opportunity to explore open science by trying it out for some aspect of their research, with guidance not just from their discipline-specific supervisors but also from a group of [mentors](https://wikimedia.de/wiki/BildungWissenschaftKultur/Fellowprogramm/MentorInnen) experienced with open science. One of my fellows in this context is [Nicholas Schmelling](https://twitter.com/derschmelling), who uses a Python-focused approach to studying the [evolution of circadian clocks](https://github.com/schmelling/clock_evo). Simply by reviewing and testing what he has done and by discussing what comes next, I will be exposed to Python in multiple ways.
 
+# Prehistory
+
+I became interested in programming languages in the mid 1980s. At the time, I did not know anyone who owned a computer, so the interest was largely theoretical, i.e. I studied computer programs &mdash; mostly BASIC &mdash much the same way I would study a mathematical problem or some aspect of natural languages: by reading about them on paper, writing things down on paper, striking stuff out, and iterating. 
+
+Likewise, none of my schools till then had had a computer, but by being active in math circles and asking around, I got to know a few schools that did. One of them was actually within my reach, and they were kind enough to allow a friend and me to come over there for two hours every other week to play around with a [KC-85/2](https://en.wikipedia.org/wiki/KC_85). Initially, what we did was indeed mostly playing (e.g. hunting treasures within some pyramids), through which we discovered some basic graphics and that we could fiddle around with them, since their source code was available to and editable by us. We also did some math, e.g. wrote some scripts to have the computer calculate some numbers for which we had (or were trying to get) analytical solutions, and we experimented with plotting functions, though we quickly hit limits there in terms of display and memory.
+
+After the [wall](https://en.wikipedia.org/wiki/Berlin_Wall) had come down, my interactions with computers intensified considerably. By the mid-90s, BASIC wasn't very useful any more, but I had become reasonably fluent in [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)), which I was still using around 2000 towards the end of my studies of biophysics, primarily to control lab equipment and for simple programmatic calculations as part of other experimental workflows. I complemented that with some basic mathematical modeling in [Maple](https://en.wikipedia.org/wiki/Maple_(software)), which is similar in style to Pascal.
+
+My PhD had a focus on experimental methodology, and the existing tools for handling the resulting data (mainly [ImageJ](http://imagej.net/), written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) were usually good enough for my purposes, so that I only rarely had to do coding that went much beyond customizing.
+
+I kept the experimental focus for my first postdoc, but the preparation and analysis of the experiments involved a decent amount of scripting, particularly in [Perl](https://en.wikipedia.org/wiki/Perl) and [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) as well as through tools like [Lipsia](http://static.cbs.mpg.de/lipsia/), [Praat](https://en.wikipedia.org/wiki/Praat) and [MATLAB](https://en.wikipedia.org/wiki/MATLAB), all of which are largely written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B).
+
+My second postdoc lost its experimental component early on, so computation via a combination of shell scripts, C and MATLAB became central, though I was again mostly customizing or adapting code that others had written. It was around that time that I first saw [version control](https://en.wikipedia.org/wiki/Version_control) (a concept that I had already become familiar with by contributing to Wikipedia) used systematically in the context of developing scientific software.
 
 # Notes
-This file is my attempt to report on how I am learning the programming language Python. It complements [resources.md](https://github.com/Daniel-Mietchen/learning2code/blob/master/resources.md) by focusing on the process and circumstances of my learning as a way to help others in theirs. I will include some remarks on how my learning of Python triggered other learning experiences.
 
-## Outline
-* Prehistory: school till postdoc
 * Version control: wikis, svn, git
 * MATLAB
 * Pywikibot
