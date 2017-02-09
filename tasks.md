@@ -1,7 +1,7 @@
 # About
 In this file, I am collecting ideas that I consider doable for me in Python if I take some time to read up on details. 
 
-Besides educating me about Python, they have some real-world application that I find useful, so if any of them meet your fancy, feel free to implement them or point me to a solution. 
+Besides educating me about Python, they have some real-world application that I find useful, so if any of them meet your fancy, feel free to implement them, to point me to an existing solution or, perhaps even better, ping me so we can do it together. 
 
 If the resulting code works, you have helped solve a real problem (minor though it may be in light of all the major problems of the world), and thanks for that. If the code is open-source, I can use it to learn &mdash; thanks for that too. If the code is also openly licensed, I (and others) can actually reuse and adapt it to solve similar problems or to learn new things around the original one &mdash; special thanks for that!
 
