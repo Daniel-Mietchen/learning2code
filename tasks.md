@@ -34,10 +34,14 @@ If the resulting code works, you have helped solve a real problem (minor though 
 * e.g. journals listed as main subject
 * see list at [https://www.wikidata.org/wiki/User:Research_Bot#Known_problems](https://www.wikidata.org/wiki/User:Research_Bot#Known_problems)
 
+## PubChem
+* check out [PubChem-related GitHub repos](https://github.com/search?q=topic%3Apubchem&type=Repositories)
+* implement the Python scripts from [https://github.com/NCBI-Hackathons/PubChem_WikiData_Interoperability](https://github.com/NCBI-Hackathons/PubChem_WikiData_Interoperability) as Jupyter notebook
+* use that notebook to refine the scripts
+
 ## LIGO
 * repeat the [LIGO Jupyter analysis of GW150914](https://twitter.com/KyleCranmer/status/698240530900193282) for [GW151226](https://en.wikipedia.org/wiki/GW151226)
 * modify the relevant figures and sound files, so they can be uploaded to Wikimedia Commons (see [Category:Gravitational wave events](https://commons.wikimedia.org/wiki/Category:Gravitational_wave_events) and [Category:WAV files](https://commons.wikimedia.org/wiki/Category:WAV_files)).
-
 
 ## Reproducibility
 * review all Jupyter notebooks mentioned in PMC
