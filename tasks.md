@@ -31,3 +31,4 @@ If the resulting code works, you have helped solve a real problem (minor though 
 
 ## LIGO
 * repeat the [LIGO Jupyter analysis of GW150914](https://twitter.com/KyleCranmer/status/698240530900193282) for [GW151226](https://en.wikipedia.org/wiki/GW151226)
+* modify the relevant figures and sound files, so they can be uploaded to Wikimedia Commons (see [Category:Gravitational wave events](https://commons.wikimedia.org/wiki/Category:Gravitational_wave_events) and [Category:WAV files](https://commons.wikimedia.org/wiki/Category:WAV_files)).
