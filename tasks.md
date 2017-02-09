@@ -15,8 +15,9 @@ If the resulting code works, you have helped solve a real problem (minor though 
    * see [documentation](http://europepmc.org/RestfulWebService#cites)
    * [script for doing much the same thing via PMC](https://gist.github.com/mcfrank/c1ec74df1427278cbe53)
    * [script for searching dbVar](https://www.ncbi.nlm.nih.gov/dbvar/content/tools/entrez/) can probably be adapted easily to search PMC or other Entrez-listed databases
-* [Wikidata Query Service API call to yield QID for a given PMCID](https://wdq.wmflabs.org/api?q=string%5B932:%22109351%22%5D)
-* [Wikidata query for all items with a PMCID](https://query.wikidata.org/#SELECT%20%3Fitem%20%3Fpmcid%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP932%20%3Fpmcid%20.%0A%7D%20)
+* [Wikidata Query call to yield QID for a given PMCID](https://wdq.wmflabs.org/api?q=string%5B932:%22109351%22%5D)
+  - [WDQ is being phased out](https://phabricator.wikimedia.org/T153439)
+* [Wikidata Query Service query for all items with a PMCID](https://query.wikidata.org/#SELECT%20%3Fitem%20%3Fpmcid%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP932%20%3Fpmcid%20.%0A%7D%20)
 
 ### Converting [JATS](http://jats.nlm.nih.gov/)/[TaxPub](https://github.com/tcatapano/TaxPub) to a format that [Quick Statements](http://tools.wmflabs.org/wikidata-todo/quick_statements.php) can ingest
 * [Example XML file with description of 17 new species](http://phytokeys.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=download_xml&item_id=5203)
@@ -36,3 +37,9 @@ If the resulting code works, you have helped solve a real problem (minor though 
 ## LIGO
 * repeat the [LIGO Jupyter analysis of GW150914](https://twitter.com/KyleCranmer/status/698240530900193282) for [GW151226](https://en.wikipedia.org/wiki/GW151226)
 * modify the relevant figures and sound files, so they can be uploaded to Wikimedia Commons (see [Category:Gravitational wave events](https://commons.wikimedia.org/wiki/Category:Gravitational_wave_events) and [Category:WAV files](https://commons.wikimedia.org/wiki/Category:WAV_files)).
+
+
+## Reproducibility
+* review all Jupyter notebooks mentioned in PMC
+  - [query for Jupyter]()
+  - [query for ipynb]()
