@@ -44,6 +44,6 @@ If the resulting code works, you have helped solve a real problem (minor though 
 * modify the relevant figures and sound files, so they can be uploaded to Wikimedia Commons (see [Category:Gravitational wave events](https://commons.wikimedia.org/wiki/Category:Gravitational_wave_events) and [Category:WAV files](https://commons.wikimedia.org/wiki/Category:WAV_files)).
 
 ## Reproducibility
-* review all Jupyter notebooks mentioned in PMC
-  - [query for Jupyter]()
-  - [query for ipynb]()
+* analyze all Jupyter notebooks mentioned in PMC
+  - [query for Jupyter](https://www.ncbi.nlm.nih.gov/pmc/?term=jupyter)
+  - [query for ipynb](https://www.ncbi.nlm.nih.gov/pmc/?term=ipynb)
