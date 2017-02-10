@@ -73,7 +73,7 @@ My second postdoc lost its initially foreseen experimental component early on, s
 * Kunal Mehta [wrote](https://meta.wikimedia.org/wiki/Affiliate-selected_Board_seats/2016/Nominations/Kunal_Mehta) "I learned about Pywikibot, and self-taught myself Python using [Wikibooks](https://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_2.6)."
    * [Category:Python programming language](https://en.wikibooks.org/wiki/Category:Python_programming_language)
 * Yuvi Panda started [Pywikibot: A Web Shell (PAWS)](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS)
-* When searching for he LIGO Jupyter notebook, I came across [this discussion](https://news.ycombinator.com/item?id=11094009), which brought me to the followwing great video
+* When searching for the LIGO Jupyter notebook (above), I came across [this discussion](https://news.ycombinator.com/item?id=11094009), which brought me to the following great video
 * [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
    * [viscm](https://github.com/matplotlib/viscm)
    * [viridis](https://bids.github.io/colormap/)
