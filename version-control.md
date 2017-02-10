@@ -10,3 +10,4 @@ This file collects information about version control for software.
 
 # See also
 * [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) &mdash; a useful introduction
+* [Upriver](https://upriver.github.io/) for syncing of forks with upstream 
