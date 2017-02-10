@@ -17,6 +17,8 @@
 * [Codefight](https://codefights.com) &mdash; real-world coding challenges
   - man issue: even when I set Python 3 as my preferred language, some of the coding tasks may be in other languages; I chose Java for that but don't like this mixing at this stage when my Python is still fragile and easily distracted
   - [Finding People Jobs Through Programming Challenges, CodeFights Gets Another $10M](https://www.snapmunk.com/programming-challenges-codefights-job-recruitment/)
+* [Coderbyte](https://coderbyte.com/) &mdash; challenges and courses, along with crowdsourced and official solutions
+  - mentioned in [this video](https://www.youtube.com/watch?v=ohr6O78jGzs)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
@@ -118,6 +120,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Learning to Program](http://www.alan-g.me.uk/) &mdash; uses Python (optionally 1.5, 2 or 3)
 * [Think Python](http://greenteapress.com/wp/think-python/)
 * [Jay Gattuso: From nothing to daily use - How Python changed my work life](https://www.youtube.com/watch?v=fCSAOcTbe8g)
+* Coderbyte: [Learn Python in One Week](https://coderbyte.com/course/learn-python-in-one-week)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
