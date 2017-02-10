@@ -165,7 +165,7 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
 When I have a quiet moment at home and offline, I am reading a few pages in the book 
 > "Python: Visual Quickstart Guide" by Chris Fehily (2001), ISBN 0-201-74884-3
 
-to get familiar with the main design features of Python and the underlying philosphy.
+to get familiar with the main design features of Python and the underlying philosophy.
 
 I am also enjoying the quizzes in the [Python Challenge app](https://play.google.com/store/apps/details?id=sg.apps.garden.pythonchallenge).
 
