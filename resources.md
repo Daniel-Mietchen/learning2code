@@ -154,6 +154,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
   - [The Sound of Data (a gentle introduction to sonification for historians)](http://programminghistorian.org/lessons/sonification)
 * [The data science ecosystem: R vs Python vs Substitutes](http://www.datasciencecentral.com/profiles/blogs/the-data-science-ecosystem-r-vs-python-vs-substitutes)
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) &mdash; "Train a deep learning net with OpenStreetMap features and satellite imagery." (with Python)
+* [6 Deep Learning Applications a beginner can build in minutes (using Python)](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
