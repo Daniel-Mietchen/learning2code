@@ -122,6 +122,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Think Python](http://greenteapress.com/wp/think-python/)
 * [Jay Gattuso: From nothing to daily use - How Python changed my work life](https://www.youtube.com/watch?v=fCSAOcTbe8g)
 * Coderbyte: [Learn Python in One Week](https://coderbyte.com/course/learn-python-in-one-week)
+* [A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
