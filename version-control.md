@@ -14,3 +14,4 @@ This file collects information about version control for software.
   - points to other learning materials in its [Table 2](http://dx.doi.org/10.1371/journal.pcbi.1004947.t002)
     - e.g. [Software Carpentry](https://swcarpentry.github.io/git-novice/)
 * [Upriver](https://upriver.github.io/) for syncing of forks with upstream 
+* [Git for Data Analysis – why version control is essential for collaboration and for gaining public trust](https://blog.okfn.org/2016/11/29/git-for-data-analysis-why-version-control-is-essential-collaboration-public-trust/)
