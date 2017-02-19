@@ -124,6 +124,8 @@ I found the following resources that I have yet to assess as to their usefulness
 * Coderbyte: [Learn Python in One Week](https://coderbyte.com/course/learn-python-in-one-week)
 * [A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 * [Python decorators](https://realpython.com/blog/python/primer-on-python-decorators/)
+* [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
+  - [commentary](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
