@@ -160,6 +160,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) &mdash; "Train a deep learning net with OpenStreetMap features and satellite imagery." (with Python)
 * [6 Deep Learning Applications a beginner can build in minutes (using Python)](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
 * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
+* [Keras](http://keras.io/) &mdash; Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow.
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
