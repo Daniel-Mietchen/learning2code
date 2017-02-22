@@ -19,6 +19,7 @@
   - [Finding People Jobs Through Programming Challenges, CodeFights Gets Another $10M](https://www.snapmunk.com/programming-challenges-codefights-job-recruitment/)
 * [Coderbyte](https://coderbyte.com/) &mdash; challenges and courses, along with crowdsourced and official solutions
   - mentioned in [this video](https://www.youtube.com/watch?v=ohr6O78jGzs)
+* [25-min paper-based crash course in debugging for 5th-graders](https://medium.com/@alishah.novin/a-different-approach-to-teaching-kids-and-teens-to-code-43b7192644c9#.9xis596bs)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
