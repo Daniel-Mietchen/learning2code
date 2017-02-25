@@ -76,7 +76,15 @@ If you can't make it to London, join us online from wherever you are.
 
 ## Test 7
 
-| - | - |
+| Some header left | Some header right |
+|---|---|
+| Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
+| ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
+
+## Test 8
+
+It seems the header is required &mdash; when I take it ou, it breaks again.
+
 |---|---|
 | Text left  | ![Flowers](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
 | ![Flowers](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
