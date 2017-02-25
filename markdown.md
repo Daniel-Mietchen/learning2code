@@ -1,8 +1,31 @@
 # About
 
-I'll be using this file to play around with Markdown features, specifically with [GitHub-flavoured Markdown]()
+I'll be using this file to play around with Markdown features, specifically with [GitHub-flavoured Markdown](https://guides.github.com/features/mastering-markdown/).
+
+# Background
+
+For background on Markdown, see
+
+- https://en.wikipedia.org/wiki/Markdown
+- https://help.github.com/articles/about-writing-and-formatting-on-github/
+- https://help.github.com/articles/working-with-advanced-formatting/
+- http://www.markdowntutorial.com/
+
+
+# Generating a table of Contents for a given Markdown file
+
+This does not seem to be part of standard Markdown, so various ways are being explored to achieve that functionality, e.g.
+
+- https://github.com/jonschlinkert/markdown-toc
+- https://pythonhosted.org/Markdown/extensions/toc.html
+
 
 # Images in tables
+
+* This is not mentioned in any of the sources listed in the Background section
+* There is a discussion about it at http://stackoverflow.com/questions/255170/markdown-and-image-alignment but none of the options discussed there worked for me here.
+* Includes text and images, but all under CC0/ Public Domain
+
 
 ## Test 1
 
@@ -50,3 +73,10 @@ If you can't make it to London, join us online from wherever you are.
 ## Test 6
 
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg">
+
+## Test 7
+
+| - | - |
+|---|---|
+| I am text to the left  | ![Flowers](/flowers.jpeg) |
+| ![Flowers](/flowers.jpeg) | I am text to the right |
