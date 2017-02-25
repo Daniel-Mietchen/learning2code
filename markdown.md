@@ -78,5 +78,5 @@ If you can't make it to London, join us online from wherever you are.
 
 | - | - |
 |---|---|
-| I am text to the left  | ![Flowers](/flowers.jpeg) |
-| ![Flowers](/flowers.jpeg) | I am text to the right |
+| Text left  | ![Flowers](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
+| ![Flowers](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
