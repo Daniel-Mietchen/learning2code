@@ -115,3 +115,60 @@ From http://stackoverflow.com/a/23447663/446855 :
 Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg">
 
 Some more text
+
+
+## Test 12
+
+* No table 
+
+![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)
+
+Data points
+
+## Test 13
+
+| ![Sandbox data visualization](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg) |
+|--------|:---:|
+
+## Test 14
+
+| ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)| ![Sandbox data visualization](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
+|--------|:---:|
+
+## Test 15
+
+| ![Sandbox data visualization](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)| ![Human neutrophil ingesting methicillin-resistant Staphylococcus aureus](https://upload.wikimedia.org/wikipedia/commons/0/01/Human_neutrophil_ingesting_MRSA.jpg) | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg) |
+|--------|--------|:---:|
+
+## Test 16
+
+| ![Sandbox data visualization](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)| ![Sandbox data visualization](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg) ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg) ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg) |
+|--------|--------|:---:|
+
+## Test 17
+
+| Header | Header | 
+|--------|--------|
+| ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)    | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)    |
+
+or
+
+| ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)    | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)    |
+|--------|--------|
+| Header | Header | 
+
+or
+
+Header | Header
+-------|-------
+![Sandbox data visualization](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)    | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg) 
+
+## Test 18
+
+* Adapted from http://stackoverflow.com/a/37607513/446855 :
+
+
+| ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)  | ![Individual data points](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)  |
+|---|---|
+| Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
+| ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
