@@ -86,7 +86,7 @@ From http://stackoverflow.com/a/37607513/446855 :
 
 ## Test 8
 
-It seems the header is required &mdash; when I take it ou, it breaks again.
+It seems the header is required &mdash; when I take it out, it breaks again.
 
 |---|---|
 | Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
@@ -102,8 +102,16 @@ From http://stackoverflow.com/a/19115633/446855 :
 
 ## Test 10
 
+From http://stackoverflow.com/a/19115633/446855 :
+
+<div style="float: right">
+    ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) 
+</div>
+
+## Test 11
+
 From http://stackoverflow.com/a/23447663/446855 :
 
-Some text <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg">
+Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text Some text <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg">
 
 Some more text
