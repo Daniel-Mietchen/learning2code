@@ -76,6 +76,9 @@ If you can't make it to London, join us online from wherever you are.
 
 ## Test 7
 
+From http://stackoverflow.com/a/37607513/446855 :
+
+
 | Some header left | Some header right |
 |---|---|
 | Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
@@ -86,5 +89,21 @@ If you can't make it to London, join us online from wherever you are.
 It seems the header is required &mdash; when I take it ou, it breaks again.
 
 |---|---|
-| Text left  | ![Flowers](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
-| ![Flowers](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
+| Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
+| ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
+
+## Test 9
+
+From http://stackoverflow.com/a/19115633/446855 :
+
+<div style="float: right">
+    ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg "Sandbox") 
+</div>
+
+## Test 10
+
+From http://stackoverflow.com/a/23447663/446855 :
+
+Some text <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg">
+
+Some more text
