@@ -203,7 +203,7 @@ Header | Header
 
 * after http://meta.stackexchange.com/a/2191/293511
 
-[some text][1]][2]
+[some text][1][2]
 
   [1]: https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg
   [2]: https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg (some other text)
@@ -212,4 +212,4 @@ Header | Header
 
 * after http://meta.stackexchange.com/questions/2133/whats-the-recommended-syntax-for-an-image-with-a-link#comment179940_2191
 
-[![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg help text)
+[![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg)
