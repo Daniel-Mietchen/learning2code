@@ -172,3 +172,28 @@ Header | Header
 |---|---|
 | Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) |
 | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | Text right |
+
+
+## Test 19
+
+* Adapted from http://stackoverflow.com/a/37607513/446855 :
+
+
+| ![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) Join us in London | ![Computer user and dog](https://images.unsplash.com/photo-1415243931302-9eb5b22247f2?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=) or wherever you are |
+|---|---|
+| Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) Let's get our hands on data. |
+| More text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left | |
+
+
+## Test 20
+
+* Adapted from http://stackoverflow.com/a/37607513/446855 :
+
+
+| ![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) Join us [in London](https://unsplash.com/photos/oFnzIf47j8I) | ![Milky Way through lens filter](https://images.unsplash.com/photo-1479867250541-fb75f7d85057?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) or [wherever you are](https://unsplash.com/photos/c1bshOfP_IA) |
+|---|---|
+| Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left  | ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) Let's get our hands on data. |
+| More text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left Text left | |
+|  ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) Let's get our hands on data. | Text right |
+
+
