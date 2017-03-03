@@ -172,6 +172,7 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
 * [MATLAB to python conversion](http://ifcuriousthenlearn.com/blog/2015/05/05/matlab-to-python-conversion/)
 * [Tools to convert MATLAB to Python](http://stackoverflow.com/questions/9845292/a-tool-to-convert-matlab-code-to-python)
 * [MATLAB in Jupyter](https://twitter.com/kirstie_j/status/837631557095600128)
+  - [examples](https://gist.github.com/janfreyberg/193d38f4bd1aeca6980c6b9888674008)
 
 ##Offline
 When I have a quiet moment at home and offline, I am reading a few pages in the book 
