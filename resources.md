@@ -166,11 +166,12 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
-### Python instead of MATLAB?
+### Python and MATLAB
 * [Python vs Matlab](http://www.pyzo.org/python_vs_matlab.html)
 * [Why Python is Better than Matlab for Scientific Software](https://metarabbit.wordpress.com/2013/10/18/why-python-is-better-than-matlab-for-scientific-software/)
 * [MATLAB to python conversion](http://ifcuriousthenlearn.com/blog/2015/05/05/matlab-to-python-conversion/)
 * [Tools to convert MATLAB to Python](http://stackoverflow.com/questions/9845292/a-tool-to-convert-matlab-code-to-python)
+* [MATLAB in Jupyter](https://twitter.com/kirstie_j/status/837631557095600128)
 
 ##Offline
 When I have a quiet moment at home and offline, I am reading a few pages in the book 
