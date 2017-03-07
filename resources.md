@@ -127,6 +127,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [Python decorators](https://realpython.com/blog/python/primer-on-python-decorators/)
 * [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
   - [commentary](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+* [Deep Exploration Into Python: Let’s Review The Dict Module](https://www.buzzfeed.com/andrewkelleher/deep-exploration-into-python-lets-review-the-dict-module)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
