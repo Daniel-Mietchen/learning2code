@@ -208,5 +208,6 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
     *  [cheat sheets](http://www.slideshare.net/LeeFeigenbaum/sparql-cheat-sheet)
     *  [Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)
   * [ListeriaBot](https://www.wikidata.org/w/index.php?title=User:Daniel_Mietchen/Wikidata_lists/Species_of_Otus&diff=next&oldid=292702797)
+  * [Getting to know Wikidata (through SPARQL)](http://www.snee.com/bobdc.blog/2017/02/getting-to-know-wikidata.html)
 * [Python edition of ActivePapers](https://github.com/khinsen/activepapers-python)
 * Sebotic's [Wikidata notebooks](https://github.com/sebotic/wikidata_notebooks)
