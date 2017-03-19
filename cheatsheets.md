@@ -9,6 +9,10 @@ This file collects information about cheat sheets for tools and languages that I
 * [Dummies](http://www.dummies.com/programming/scratch/scratch-for-kids-for-dummies-cheat-sheet/)
 * [The Geek Stuff](http://www.thegeekstuff.com/tag/firefox/)
 
+# Command line
+
+* [Bash cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+* [Unix commands](https://en.wikipedia.org/wiki/Template:Unix_commands)
 
 # FireFox
 
