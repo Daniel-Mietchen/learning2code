@@ -190,6 +190,7 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 * [Website](https://scratch.mit.edu/)
 * [Scratch cards](https://scratch.mit.edu/help/cards/)
   * available in multiple languages 
+* [Scratch tutorial](https://wiki.scratch.mit.edu/wiki/Getting_Started_with_Scratch)
 * Games
   * [Moving Picture Tile Puzzle 4](https://scratch.mit.edu/projects/72774248/?fromexplore=true#player) 
   * [Angry Birds](https://scratch.mit.edu/projects/2294898/)
@@ -197,8 +198,7 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 * [Scratch Programming Playground](https://www.nostarch.com/scratchplayground)
 
 ## Scratch events
-* [Scratch Day](http://day.scratch.mit.edu/): May 14, 2016
-* [Scratch Conference](https://scratch.mit.edu/conference/): August 3 - 6, 2016, MIT Media Lab, Cambridge, MA, USA
+* See https://github.com/Daniel-Mietchen/events/issues/23 and https://github.com/Daniel-Mietchen/events/issues/24 .
 
 ## See also
 * [CMake](https://cmake.org/)
