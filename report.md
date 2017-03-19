@@ -114,6 +114,6 @@ My second postdoc lost its initially foreseen experimental component early on, s
   * [Python wrapper](http://www.paddlepaddle.org/doc/ui/data_provider/pydataprovider2.html)
 * [Parsing JSON from command line using Python](http://www.cambus.net/parsing-json-from-command-line-using-python/)
 * [Wikidata Query in Jupyter notebook](https://twitter.com/WikidataFacts/status/806636466143109121)
-  - [another example](https://nbviewer.jupyter.org/urls/fnielsen.github.io/hack4dk2015/notebooks/Danish%20art%20motivs%20from%20Wikidata.ipynb)
+  - [another example](https://nbviewer.jupyter.org/urls/fnielsen.github.io/hack4dk2015/notebooks/Danish%20art%20motivs%20from%20Wikidata.ipynb); [result](https://fnielsen.github.io/hack4dk2015/)
 * [Reproducible Research using Jupyter Notebooks: Curriculum Development Hackathon](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2016/blob/master/Call-for-participation.md)
 * [Sunday Query : use SPARQL and Python to fix typographical errors on Wikidata](https://blog.ash.bzh/en/sunday-query-use-sparql-and-python-to-fix-typographical-errors-on-wikidata/)
