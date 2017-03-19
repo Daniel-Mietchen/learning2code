@@ -38,14 +38,14 @@ This file collects information about cheat sheets for tools and languages that I
 * https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.b7uTKvo
 * http://lifehacker.com/keep-this-python-cheat-sheet-on-hand-when-learning-to-c-1655521825 .
 
+# Scratch
+
+* http://www.dummies.com/programming/scratch/scratch-for-kids-for-dummies-cheat-sheet/
+* https://duck.co/ia/view/scratch_cheat_sheet
+
 # SPARQL
 
 * https://www.slideshare.net/LeeFeigenbaum/sparql-cheat-sheet
 * http://www.dajobe.org/2005/04-sparql/SPARQLreference-1.8-us.pdf
 * https://wiki.openbel.org/display/home/Sparql+cheatsheet
-
-# Scratch
-
-* http://www.dummies.com/programming/scratch/scratch-for-kids-for-dummies-cheat-sheet/
-* https://duck.co/ia/view/scratch_cheat_sheet
 
