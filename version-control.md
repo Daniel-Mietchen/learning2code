@@ -6,6 +6,7 @@ This file collects information about version control for software.
   - [overview of GitHub features](https://github.com/features)
   - [Adding a new SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
   - [GitHub pages](https://pages.github.com/)
+    - see also https://github.com/Daniel-Mietchen/ideas/issues/194
 * [GitLab](https://about.gitlab.com/)
 * [Stash/ Bitbucket Server](https://www.atlassian.com/software/bitbucket/server)
 * [Cloud Source Repositories](https://cloud.google.com/source-repositories/)
