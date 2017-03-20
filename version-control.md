@@ -7,6 +7,7 @@ This file collects information about version control for software.
 * [GitLab](https://about.gitlab.com/)
 * [Stash/ Bitbucket Server](https://www.atlassian.com/software/bitbucket/server)
 * [Cloud Source Repositories](https://cloud.google.com/source-repositories/)
+* [SourceTree](https://www.sourcetreeapp.com/)
 
 # See also
 * [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) &mdash; a useful introduction
