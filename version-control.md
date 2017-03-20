@@ -1,6 +1,10 @@
 # About
 This file collects information about version control for software.
 
+# Guidelines for versioning
+
+* [Semantic Versioning 2.0.0](http://semver.org/)
+
 # Platforms
 * [GitHub](https://github.com/)
   - [overview of GitHub features](https://github.com/features)
