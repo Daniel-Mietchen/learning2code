@@ -8,6 +8,7 @@ This file collects information about version control for software.
   - [GitHub pages](https://pages.github.com/)
     - see also https://github.com/Daniel-Mietchen/ideas/issues/194
 * [GitLab](https://about.gitlab.com/)
+  - [GitLab CI](http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/)
 * [Stash/ Bitbucket Server](https://www.atlassian.com/software/bitbucket/server)
 * [Cloud Source Repositories](https://cloud.google.com/source-repositories/)
 * [SourceTree](https://www.sourcetreeapp.com/)
