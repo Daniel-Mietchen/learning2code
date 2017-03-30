@@ -1,5 +1,7 @@
 # General
+
 *Some resources that are useful for learning to program more generally.*
+
 * [Open Source Society University](https://github.com/open-source-society/computer-science)
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
 * [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
@@ -20,6 +22,7 @@
 * [Coderbyte](https://coderbyte.com/) &mdash; challenges and courses, along with crowdsourced and official solutions
   - mentioned in [this video](https://www.youtube.com/watch?v=ohr6O78jGzs)
 * [25-min paper-based crash course in debugging for 5th-graders](https://medium.com/@alishah.novin/a-different-approach-to-teaching-kids-and-teens-to-code-43b7192644c9#.9xis596bs)
+* [Programming for Data Science the Polyglot approach: Python + R + SQL](http://www.datasciencecentral.com/profiles/blogs/programming-for-data-science-the-polyglot-approach-python-r-sql)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
