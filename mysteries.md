@@ -13,6 +13,8 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
     - e.g. [Beautiful Soup](https://pypi.python.org/pypi/beautifulsoup4)
   - what the objects within a particular module do
     - e.g. after having imported pandas, I can find out by tab completion that there is an object pandas.read_json() in there, but it's not immediately clear what this does 
+* how best to document dependencies upfront and explicitly
+  - think [requirements.txt](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
 
 # SPARQL syntax
 
