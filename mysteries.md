@@ -6,6 +6,13 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 
 * [::](https://docs.python.org/release/2.3.5/whatsnew/section-slices.html) ("stepping slices")
 * The philosophical differences between Python 2 and 3, and their practical implications as to whether a given piece of code from one will work in the other or not, and why
+* how to find out
+  - what modules exist for doing a certain task
+    - say, reading in some data available in JSON
+  - what a particular module does
+    - e.g. [Beautiful Soup](https://pypi.python.org/pypi/beautifulsoup4)
+  - what the objects within a particular module do
+    - e.g. after having imported pandas, I can find out by tab completion that there is an object pandas.read_json() in there, but it's not immediately clear what this does 
 
 # SPARQL syntax
 
