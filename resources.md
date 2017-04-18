@@ -217,3 +217,5 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
   * [Wikidata's excellent sample SPARQL queries](http://www.snee.com/bobdc.blog/2017/03/wikidatas-excellent-sample-spa.html)
 * [Python edition of ActivePapers](https://github.com/khinsen/activepapers-python)
 * Sebotic's [Wikidata notebooks](https://github.com/sebotic/wikidata_notebooks)
+* Wikimedia Research Team uses Jupyter notebooks
+  - e.g. [these](http://paws-public.wmflabs.org/paws-public/User:HaeB/Mobile%20app%20edits%20on%20Wikidata.ipynb) [two](http://paws-public.wmflabs.org/paws-public/User:HaeB/Mobile%20app%20edits%20on%20Wikidata%20(more%20analysis).ipynb) on PAWS for analyzing [Wikidata description edits from the Android app](https://www.mediawiki.org/wiki/Wikimedia_Apps/Short_descriptions/Research)
