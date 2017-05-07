@@ -6,6 +6,7 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 
 * [::](https://docs.python.org/release/2.3.5/whatsnew/section-slices.html) ("stepping slices")
 * The philosophical differences between Python 2 and 3, and their practical implications as to whether a given piece of code from one will work in the other or not, and why
+  - [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
 * how to find out
   - what modules exist for doing a certain task
     - say, reading in some data available in JSON
