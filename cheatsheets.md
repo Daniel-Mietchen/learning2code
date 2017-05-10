@@ -53,3 +53,6 @@ This file collects information about cheat sheets for tools and languages that I
 * http://www.dajobe.org/2005/04-sparql/SPARQLreference-1.8-us.pdf
 * https://wiki.openbel.org/display/home/Sparql+cheatsheet
 
+# See also
+
+* [20 Cheat Sheets: Python, ML, Data Science, R, and More](http://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science)
