@@ -20,6 +20,8 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 
 # SPARQL
 
+* [specs](https://www.w3.org/TR/sparql11-query/#neg-notexists-minus)
+
 ## SPARQL syntax
 
 * [introduction](http://rdf.myexperiment.org/howtosparql?)
@@ -63,4 +65,5 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 
 # Regexes
 
+* [regex tester](https://regex101.com/)
 * [regex lookaround](http://www.regular-expressions.info/lookaround.html)
