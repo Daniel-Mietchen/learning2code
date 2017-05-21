@@ -18,7 +18,9 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 * how best to document dependencies upfront and explicitly
   - think [requirements.txt](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
 
-# SPARQL syntax
+# SPARQL
+
+## SPARQL syntax
 
 * [introduction](http://rdf.myexperiment.org/howtosparql?)
 * [.](https://data-gov.tw.rpi.edu/wiki/How_to_use_SPARQL#Query_syntax)
@@ -49,12 +51,16 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 * [!](https://twitter.com/WikidataFacts/status/866083538206150660) (negation)
 * [difference between MINUS and FILTER NOT EXISTS](https://twitter.com/WikidataFacts/status/866081916600152064)
   
-# SPARQL queries that did not work for me (at least not as expected)
+## SPARQL queries that did not work for me (at least not as expected)
 
 * there is a [dedicated page for these](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/suggestions)
 * [duplicate series ordinal (P1545) for author string (P2093) statements](https://query.wikidata.org/#select%20%3Fitem%20%3Fseriesordinal%20where%20%7B%0A%20%20%3Fitem%20p%3AP50%20%3Fauthorstring%20%3B%0A%20%20%20%20%20%20%20%20p%3AP50%20%3Fauthorstring2%20.%0A%20%20%3Fauthorstring%20pq%3AP1545%20%3Fseriesordinal%20.%0A%20%20%3Fauthorstring2%20pq%3AP1545%20%3Fseriesordinal%20.%0A%7D)
   - [a similar query, with similar issues](https://query.wikidata.org/#select%20%3Fitem%20%3Fseriesordinal%20%3Fauthoritem%20where%20%7B%0A%20%20%3Fitem%20p%3AP2093%20%3Fauthorstring%20.%0A%20%20%3Fitem%20p%3AP50%20%3Fauthoritem%20.%0A%20%20%3Fauthoritem%20pq%3AP1545%20%3Fseriesordinal%20.%0A%20%20%3Fauthorstring%20pq%3AP1545%20%3Fseriesordinal%20.%0A%7D)
 
-# SPARQL query optimization
+## SPARQL query optimization
 
 * some pointers [here](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/query_optimization)
+
+# Regexes
+
+* [regex lookaround](http://www.regular-expressions.info/lookaround.html)
