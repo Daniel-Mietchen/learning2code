@@ -220,3 +220,4 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 * Wikimedia Research Team uses Jupyter notebooks
   - e.g. [these](http://paws-public.wmflabs.org/paws-public/User:HaeB/Mobile%20app%20edits%20on%20Wikidata.ipynb) [two](http://paws-public.wmflabs.org/paws-public/User:HaeB/Mobile%20app%20edits%20on%20Wikidata%20(more%20analysis).ipynb) on PAWS for analyzing [Wikidata description edits from the Android app](https://www.mediawiki.org/wiki/Wikimedia_Apps/Short_descriptions/Research)
 * [Which mistakes do we actually make in scientific code?](http://blog.khinsen.net/posts/2017/05/04/which-mistakes-do-we-actually-make-in-scientific-code/)
+* [Jupyter notebook used to prepare the Littar map](https://twitter.com/fnielsen/status/867408685739503616) (by Finn Nielsen)
