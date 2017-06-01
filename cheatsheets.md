@@ -34,6 +34,7 @@ This file collects information about cheat sheets for tools and languages that I
 # Markdown
 
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Babelmark](http://johnmacfarlane.net/babelmark2/?text=above%0A%0A%5Bcomment%5D%3A+%3C%3E+(THIS+SHOULD+BE+REMOVED)%0Abelow) (Markdown validator)
 
 # Python
 
