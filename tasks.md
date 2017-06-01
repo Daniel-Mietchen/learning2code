@@ -30,7 +30,7 @@ If the resulting code works, you have helped solve a real problem (minor though 
      * some more examples [here](http://stackoverflow.com/questions/7691514/extracting-text-from-xml-using-python)
    * [Quick statements for journal articles and taxa](https://www.wikidata.org/wiki/User:Daniel_Mietchen/Quick_statements)
 
-### Build script to fix known problems
+### Build scripts to fix known problems
 * e.g. journals listed as main subject
 * see list at [https://www.wikidata.org/wiki/User:Research_Bot#Known_problems](https://www.wikidata.org/wiki/User:Research_Bot#Known_problems)
 
