@@ -5,6 +5,10 @@ This file collects information about version control for software.
 
 * [Semantic Versioning 2.0.0](http://semver.org/)
 
+# Git
+
+* [Pro Git book](https://git-scm.com/book/en/v2)
+
 # Platforms
 * [GitHub](https://github.com/)
   - [overview of GitHub features](https://github.com/features)
@@ -18,6 +22,11 @@ This file collects information about version control for software.
 * [Cloud Source Repositories](https://cloud.google.com/source-repositories/)
 * [SourceTree](https://www.sourcetreeapp.com/)
 
+# Version control for data
+
+* [dat](https://datproject.org/)
+* [Quilt](https://github.com/Daniel-Mietchen/ideas/issues/242)
+
 # See also
 * [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) &mdash; a useful introduction
   - [written on GitHub](https://github.com/Daniel-Mietchen/github-paper)
@@ -27,3 +36,4 @@ This file collects information about version control for software.
 * [Git for Data Analysis – why version control is essential for collaboration and for gaining public trust](https://blog.okfn.org/2016/11/29/git-for-data-analysis-why-version-control-is-essential-collaboration-public-trust/)
 * [A Friendly Github Intro Workshop](https://kirstiejane.github.io/friendly-github-intro/)
 * [“Not everyone can use Git”](https://www.research.manchester.ac.uk/portal/files/53599032/JayCaroline_2.pdf)
+* [Git Push Freshman](https://github.com/ottagit/git_push_freshman) ([perspective](https://medium.com/@MozOpenLeaders/git-push-freshman-dce9cf8c7199))
