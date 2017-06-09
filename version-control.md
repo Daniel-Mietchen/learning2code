@@ -16,6 +16,7 @@ This file collects information about version control for software.
   - [Adding a new SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
   - [GitHub pages](https://pages.github.com/)
     - see also https://github.com/Daniel-Mietchen/ideas/issues/194
+  - [non-code things you can do in GitHub](https://github.com/18F/github-in-government#what-can-you-do-with-github)
 * [GitLab](https://about.gitlab.com/)
   - [GitLab CI](http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/)
     - see also https://github.com/Daniel-Mietchen/ideas/issues/153
