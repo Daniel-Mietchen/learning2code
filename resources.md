@@ -169,6 +169,8 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Keras](http://keras.io/) &mdash; Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow.
 * [1 tip for effective data visualization in Python](https://www.dataquest.io/blog/how-to-communicate-with-data/)
 * [Python Seminar Course at UC Berkeley (AY 250)](https://github.com/profjsb/python-seminar)
+* [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
