@@ -138,6 +138,7 @@ I found the following resources that I have yet to assess as to their usefulness
   - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
 
 ### For data analysis
+* [Introduction to Python, Data Science & Computational Thinking: Free Online Courses from MIT](http://www.openculture.com/2017/06/introduction-to-python-data-science-computational-thinking-free-online-courses-from-mit.html)
 * [Python Data Science Handbook](https://github.com/jakevdp/WhirlwindTourOfPython) ([my fork](https://github.com/Daniel-Mietchen/PythonDataScienceHandbook)); seen [here](http://linkis.com/5rZrJ)
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
