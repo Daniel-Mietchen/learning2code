@@ -170,7 +170,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [1 tip for effective data visualization in Python](https://www.dataquest.io/blog/how-to-communicate-with-data/)
 * [Python Seminar Course at UC Berkeley (AY 250)](https://github.com/profjsb/python-seminar)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-
+* [Deep Learning in Python: Getting Started](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/a-complete-guide-on-getting-started-with-deep-learning-in-python)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
