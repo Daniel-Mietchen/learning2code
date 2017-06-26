@@ -53,6 +53,7 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
   - [sample query](https://query.wikidata.org/#SELECT%20%20%3F_Geburtsdatum%20%20WHERE%20%7B%0A%20%20%3Fs%20%3Flabel%20%22Brian%20O%27Nolan%22%40en.%0A%20%20OPTIONAL%20%7B%20%3Fs%20wdt%3AP569%20%3F_Geburtsdatum.%20%7D%0A%7D)
 * [!](https://twitter.com/WikidataFacts/status/866083538206150660) (negation)
 * [difference between MINUS and FILTER NOT EXISTS](https://twitter.com/WikidataFacts/status/866081916600152064)
+* [wikibase:mwapi](http://tinyurl.com/ycl6gu73)
   
 ## SPARQL queries that did not work for me (at least not as expected)
 
