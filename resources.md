@@ -132,6 +132,9 @@ I found the following resources that I have yet to assess as to their usefulness
   - [commentary](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 * [Deep Exploration Into Python: Let’s Review The Dict Module](https://www.buzzfeed.com/andrewkelleher/deep-exploration-into-python-lets-review-the-dict-module)
 * [Let’s all build a comprehensive interactive Python curriculum together](https://forum.freecodecamp.com/t/lets-all-build-a-comprehensive-interactive-python-curriculum-together/103979/12)
+* Python packages for interacting with 
+  - [Wikipedia](https://pypi.python.org/pypi?%3Aaction=search&term=wikipedia&submit=search)
+  - [Wikidata](https://pypi.python.org/pypi?%3Aaction=search&term=wikidata&submit=search)
 
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
