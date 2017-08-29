@@ -57,7 +57,7 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 - wdv, wdn
 - federated queries
   - Wikidata and DBpedia
-    - [http://tinyurl.com/yc3eh4p4 Universities ranked by page rank] ([source](https://twitter.com/thalhamm/status/902624787071164425))
+    - [Universities ranked by page rank](http://tinyurl.com/yc3eh4p4) ([source](https://twitter.com/thalhamm/status/902624787071164425))
   
 ## SPARQL queries that did not work for me (at least not as expected)
 
