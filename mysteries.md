@@ -60,7 +60,8 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
   - Wikidata and DBpedia
     - [Universities ranked by page rank](http://tinyurl.com/yc3eh4p4) ([source](https://twitter.com/thalhamm/status/902624787071164425); [variant](https://twitter.com/kidehen/status/902637011294707712))
 - [OFFSET](https://query.wikidata.org/#SELECT%20%3Farticle%20%3Ftitle%0AWITH%20{%0A%20SELECT%20%3Farticle%20%3Ftitle%0A%20WHERE%20{%0A%20%3Farticle%20wdt%3AP31%20wd%3AQ13442814%20%3B%0A%20wdt%3AP1476%20%3Ftitle%20.%0A%20}%20LIMIT%20500000%20OFFSET%200%0A}%20AS%20%25RESULTS%20{%0A%20INCLUDE%20%25RESULTS%0A%20FILTER%20(CONTAINS(LCASE(%3Ftitle)%2C%20"caffeine"))%0A}) 
- 
+- [DROP](https://wiki.blazegraph.com/wiki/index.php/SPARQL_Update#DROP_SOLUTIONS)
+
 ## SPARQL queries that did not work for me (at least not as expected)
 
 * there is a [dedicated page for these](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/suggestions)
