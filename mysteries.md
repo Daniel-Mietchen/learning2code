@@ -62,6 +62,8 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 - [OFFSET](https://query.wikidata.org/#SELECT%20%3Farticle%20%3Ftitle%0AWITH%20{%0A%20SELECT%20%3Farticle%20%3Ftitle%0A%20WHERE%20{%0A%20%3Farticle%20wdt%3AP31%20wd%3AQ13442814%20%3B%0A%20wdt%3AP1476%20%3Ftitle%20.%0A%20}%20LIMIT%20500000%20OFFSET%200%0A}%20AS%20%25RESULTS%20{%0A%20INCLUDE%20%25RESULTS%0A%20FILTER%20(CONTAINS(LCASE(%3Ftitle)%2C%20"caffeine"))%0A}) 
 - [DROP](https://wiki.blazegraph.com/wiki/index.php/SPARQL_Update#DROP_SOLUTIONS)
 - [COALESCE](https://twitter.com/WikidataFacts/status/924361383919136773)
+- [wikibase:sitelinks](http://tinyurl.com/y7ssp2gt)
+- [wikibase:identifiers](http://tinyurl.com/y7ssp2gt)
 
 ## SPARQL queries that did not work for me (at least not as expected)
 
