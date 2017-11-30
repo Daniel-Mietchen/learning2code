@@ -43,6 +43,14 @@ This file collects information about cheat sheets for tools and languages that I
 * https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.b7uTKvo
 * http://lifehacker.com/keep-this-python-cheat-sheet-on-hand-when-learning-to-c-1655521825 .
 
+# Regex
+
+* Regex testers:
+  - [Regex 101](https://regex101.com/r/igjCuo/1)
+  - [Regex Storm](http://regexstorm.net/tester?p=%28%5cS%2b%29%5cs%2bCounty&i=Allatoona+was+a+town+located+in+extreme+southeastern+Bartow+County%2c+Georgia.)
+* StackOverflow
+  - https://stackoverflow.com/questions/tagged/regex
+
 # Scratch
 
 * http://www.dummies.com/programming/scratch/scratch-for-kids-for-dummies-cheat-sheet/
