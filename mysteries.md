@@ -23,6 +23,7 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 * [specs](https://www.w3.org/TR/sparql11-query/#neg-notexists-minus)
 
 ## SPARQL syntax
+[![SPARQL data model](https://upload.wikimedia.org/wikipedia/commons/3/33/SPARQL_data_representation.png)](https://commons.wikimedia.org/wiki/File:SPARQL_data_representation.png)
 
 * [introduction](http://rdf.myexperiment.org/howtosparql?)
 * [.](https://data-gov.tw.rpi.edu/wiki/How_to_use_SPARQL#Query_syntax)
