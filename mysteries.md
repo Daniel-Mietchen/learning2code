@@ -23,16 +23,35 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 * [specs](https://www.w3.org/TR/sparql11-query/#neg-notexists-minus)
 
 ## SPARQL syntax
-[![SPARQL data model](https://upload.wikimedia.org/wikipedia/commons/3/33/SPARQL_data_representation.png)](https://commons.wikimedia.org/wiki/File:SPARQL_data_representation.png)
 
 * [introduction](http://rdf.myexperiment.org/howtosparql?)
 * [.](https://data-gov.tw.rpi.edu/wiki/How_to_use_SPARQL#Query_syntax)
-* [wdt:](http://stackoverflow.com/questions/42927634/wikidata-sparql-query-returns-wrong-results/42929378#42929378)
-* [p:](https://query.wikidata.org/#select%20%3Fitem%20%3Fseriesordinal%20%3Fauthoritem%20where%20%7B%0A%20%20%3Fitem%20p%3AP2093%20%3Fauthorstring%20.%0A%20%20%3Fitem%20p%3AP50%20%3Fauthoritem%20.%0A%20%20%3Fauthoritem%20pq%3AP1545%20%3Fseriesordinal%20.%0A%20%20%3Fauthorstring%20pq%3AP1545%20%3Fseriesordinal%20.%0A%7D) (as opposed to "wdt:")
-  - explained [here](https://docs.google.com/presentation/d/e/2PACX-1vT6TxLmaz9jC5SkTVJsI2vMbtpKm1nQa2AQq8X0lOpTXThGZWuGjC5agoc0JwcRxwpg8CWWX5NLYfZN/pub?start=false&loop=false&delayms=3000#slide=id.g26f16af45e_0_1124) and [here](https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#Predicates)
-* [ps:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
-* [pq:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
-  - [additional example](https://query.wikidata.org/#%23Taxon%20authors%20with%20Wikidata%20items%20and%20a%20Wikispecies%20sitelink%0ASELECT%20DISTINCT%20%3Fauthor%20%3Fitem%20%0AWHERE%0A%7B%0A%09%3Fitem%20%09schema%3Aabout%20%3Fauthor%20%3B%0A%09%09%09schema%3AisPartOf%20%3Chttps%3A%2F%2Fspecies.wikimedia.org%2F%3E%20.%0A%20%20%20%20%3Ftaxon%20%20pq%3AP405%20%3Fauthor%20.%0A%7D%0ALIMIT%20100)
+* namespaces
+[![SPARQL data model](https://upload.wikimedia.org/wikipedia/commons/3/33/SPARQL_data_representation.png)](https://commons.wikimedia.org/wiki/File:SPARQL_data_representation.png)
+  * [wdt:](http://stackoverflow.com/questions/42927634/wikidata-sparql-query-returns-wrong-results/42929378#42929378)
+  * [p:](https://query.wikidata.org/#select%20%3Fitem%20%3Fseriesordinal%20%3Fauthoritem%20where%20%7B%0A%20%20%3Fitem%20p%3AP2093%20%3Fauthorstring%20.%0A%20%20%3Fitem%20p%3AP50%20%3Fauthoritem%20.%0A%20%20%3Fauthoritem%20pq%3AP1545%20%3Fseriesordinal%20.%0A%20%20%3Fauthorstring%20pq%3AP1545%20%3Fseriesordinal%20.%0A%7D) (as opposed to "wdt:")
+    - explained [here](https://docs.google.com/presentation/d/e/2PACX-1vT6TxLmaz9jC5SkTVJsI2vMbtpKm1nQa2AQq8X0lOpTXThGZWuGjC5agoc0JwcRxwpg8CWWX5NLYfZN/pub?start=false&loop=false&delayms=3000#slide=id.g26f16af45e_0_1124) and [here](https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#Predicates)
+  * [ps:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
+  * [pq:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
+    - [additional example](https://query.wikidata.org/#%23Taxon%20authors%20with%20Wikidata%20items%20and%20a%20Wikispecies%20sitelink%0ASELECT%20DISTINCT%20%3Fauthor%20%3Fitem%20%0AWHERE%0A%7B%0A%09%3Fitem%20%09schema%3Aabout%20%3Fauthor%20%3B%0A%09%09%09schema%3AisPartOf%20%3Chttps%3A%2F%2Fspecies.wikimedia.org%2F%3E%20.%0A%20%20%20%20%3Ftaxon%20%20pq%3AP405%20%3Fauthor%20.%0A%7D%0ALIMIT%20100)
+  * full list
+    * xmlns:pr="http://www.wikidata.org/prop/reference/"
+    * xmlns:prn="http://www.wikidata.org/prop/reference/value-normalized/"
+    * xmlns:wdata="https://www.wikidata.org/wiki/Special:EntityData/"
+    * xmlns:ps="http://www.wikidata.org/prop/statement/"
+    * xmlns:wdref="http://www.wikidata.org/reference/"
+    * xmlns:psn="http://www.wikidata.org/prop/statement/value-normalized/"
+    * xmlns:wdno="http://www.wikidata.org/prop/novalue/"
+    * xmlns:wdv="http://www.wikidata.org/value/"
+    * xmlns:p="http://www.wikidata.org/prop/"
+    * xmlns:psv="http://www.wikidata.org/prop/statement/value/"
+    * xmlns:wdt="http://www.wikidata.org/prop/direct/"
+    * xmlns:wd="http://www.wikidata.org/entity/"
+    * xmlns:pqv="http://www.wikidata.org/prop/qualifier/value/"
+    * xmlns:pq="http://www.wikidata.org/prop/qualifier/"
+    * xmlns:wds="http://www.wikidata.org/entity/statement/"
+    * xmlns:pqn="http://www.wikidata.org/prop/qualifier/value-normalized/"
+    * xmlns:prv="http://www.wikidata.org/prop/reference/value/"
 * [|](https://query.wikidata.org/#SELECT%20%3Fcity%20%3FcityLabel%20%28MAX%28%3Finhabitants%29%20AS%20%3Finhabitants%29%20WHERE%20%7B%0A%20%3Fcity%20%28p%3AP31%2Fps%3AP31%29%2Fwdt%3AP279%2a%20wd%3AQ1637706.%0A%20MINUS%20%7B%20%3Finhabitant%20ps%3AP19%7Cps%3AP551%7Cps%3AP20%20%3Fcity.%20%7D%0A%20OPTIONAL%20%7B%20%3Fcity%20wdt%3AP1082%20%3Finhabitants.%20%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fcity%20%3FcityLabel)
 * [\*](https://query.wikidata.org/#SELECT%20%3Fcity%20%3FcityLabel%20%28MAX%28%3Finhabitants%29%20AS%20%3Finhabitants%29%20WHERE%20%7B%0A%20%3Fcity%20%28p%3AP31%2Fps%3AP31%29%2Fwdt%3AP279%2a%20wd%3AQ1637706.%0A%20MINUS%20%7B%20%3Finhabitant%20ps%3AP19%7Cps%3AP551%7Cps%3AP20%20%3Fcity.%20%7D%0A%20OPTIONAL%20%7B%20%3Fcity%20wdt%3AP1082%20%3Finhabitants.%20%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fcity%20%3FcityLabel)
 * [/](https://query.wikidata.org/#SELECT%20%3Fcity%20%3FcityLabel%20%28MAX%28%3Finhabitants%29%20AS%20%3Finhabitants%29%20WHERE%20%7B%0A%20%3Fcity%20%28p%3AP31%2Fps%3AP31%29%2Fwdt%3AP279%2a%20wd%3AQ1637706.%0A%20MINUS%20%7B%20%3Finhabitant%20ps%3AP19%7Cps%3AP551%7Cps%3AP20%20%3Fcity.%20%7D%0A%20OPTIONAL%20%7B%20%3Fcity%20wdt%3AP1082%20%3Finhabitants.%20%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fcity%20%3FcityLabel)
