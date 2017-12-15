@@ -34,7 +34,7 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
   * [ps:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
   * [pq:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
     - [additional example](https://query.wikidata.org/#%23Taxon%20authors%20with%20Wikidata%20items%20and%20a%20Wikispecies%20sitelink%0ASELECT%20DISTINCT%20%3Fauthor%20%3Fitem%20%0AWHERE%0A%7B%0A%09%3Fitem%20%09schema%3Aabout%20%3Fauthor%20%3B%0A%09%09%09schema%3AisPartOf%20%3Chttps%3A%2F%2Fspecies.wikimedia.org%2F%3E%20.%0A%20%20%20%20%3Ftaxon%20%20pq%3AP405%20%3Fauthor%20.%0A%7D%0ALIMIT%20100)
-  * full list
+  * full list (seen in the [LDF results](https://query.wikidata.org/bigdata/ldf?predicate=http%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP932&page=1) when accessed via curl)
     * xmlns:pr="http://www.wikidata.org/prop/reference/"
     * xmlns:prn="http://www.wikidata.org/prop/reference/value-normalized/"
     * xmlns:wdata="https://www.wikidata.org/wiki/Special:EntityData/"
