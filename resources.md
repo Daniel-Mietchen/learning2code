@@ -136,7 +136,9 @@ I found the following resources that I have yet to assess as to their usefulness
   - [Wikipedia](https://pypi.python.org/pypi?%3Aaction=search&term=wikipedia&submit=search)
     - [example](https://twitter.com/jjmerelo/status/884456493298405376)
   - [Wikidata](https://pypi.python.org/pypi?%3Aaction=search&term=wikidata&submit=search)
-
+* [Computer Science Circles](https://www.bwinf.de/?id=293)
+  - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
+  
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
   - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
