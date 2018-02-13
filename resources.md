@@ -6,6 +6,7 @@
 * [General introductions to programming](http://www.leopixel.com/2015/02/10-best-ways-to-learn-programming-for.html)
   - Similar posts:
     - [Ten simple rules for biologists learning to program](https://doi.org/10.1371/journal.pcbi.1005871)
+    - [An Introduction to Programming for Bioscientists: A Python-Based Primer](https://doi.org/10.1371/journal.pcbi.1004867)
     - [Advice to the newish programmer](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html)
 * [Rosetta Code](http://rosettacode.org/wiki/Special:Browse?title=Special%3ABrowse&article=Python) &mdash; collects programming tasks and implementations in multiple languages
 * [Codepad](http://codepad.org/?lang=Python) &mdash; runs code snippets in several languages
