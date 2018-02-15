@@ -32,6 +32,7 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
   * [p:](https://query.wikidata.org/#select%20%3Fitem%20%3Fseriesordinal%20%3Fauthoritem%20where%20%7B%0A%20%20%3Fitem%20p%3AP2093%20%3Fauthorstring%20.%0A%20%20%3Fitem%20p%3AP50%20%3Fauthoritem%20.%0A%20%20%3Fauthoritem%20pq%3AP1545%20%3Fseriesordinal%20.%0A%20%20%3Fauthorstring%20pq%3AP1545%20%3Fseriesordinal%20.%0A%7D) (as opposed to "wdt:")
     - explained [here](https://docs.google.com/presentation/d/e/2PACX-1vT6TxLmaz9jC5SkTVJsI2vMbtpKm1nQa2AQq8X0lOpTXThGZWuGjC5agoc0JwcRxwpg8CWWX5NLYfZN/pub?start=false&loop=false&delayms=3000#slide=id.g26f16af45e_0_1124) and [here](https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#Predicates)
   * [ps:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
+    - [anderes Beispiel](https://query.wikidata.org/#DESCRIBE%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2Fstatement%2FQ45023480-0834E761-E3CD-4160-AA1A-3F26F8A1C2B5%3E)
   * [pq:](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Number_of_handed_out_academy_awards_per_award_type)
     - [additional example](https://query.wikidata.org/#%23Taxon%20authors%20with%20Wikidata%20items%20and%20a%20Wikispecies%20sitelink%0ASELECT%20DISTINCT%20%3Fauthor%20%3Fitem%20%0AWHERE%0A%7B%0A%09%3Fitem%20%09schema%3Aabout%20%3Fauthor%20%3B%0A%09%09%09schema%3AisPartOf%20%3Chttps%3A%2F%2Fspecies.wikimedia.org%2F%3E%20.%0A%20%20%20%20%3Ftaxon%20%20pq%3AP405%20%3Fauthor%20.%0A%7D%0ALIMIT%20100)
   * full list (seen in the [LDF results](https://query.wikidata.org/bigdata/ldf?predicate=http%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP932&page=1) when accessed via curl)
@@ -79,12 +80,14 @@ This file collects things I stumbled upon and did not fully grasp, at least not 
 - federated queries
   - Wikidata and DBpedia
     - [Universities ranked by page rank](http://tinyurl.com/yc3eh4p4) ([source](https://twitter.com/thalhamm/status/902624787071164425); [variant](https://twitter.com/kidehen/status/902637011294707712))
+  - [combinatoin of SPARQL with Elastic](https://query.wikidata.org/#SELECT%20%3Fitem%20%20%28COUNT%28%3Fsitelink%29%20AS%20%3Fsites%29%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Amwapi%20%7B%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Aapi%20%22EntitySearch%22%20.%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Aendpoint%20%22www.wikidata.org%22%20.%0A%20%20%20%20%20%20bd%3AserviceParam%20mwapi%3Asearch%20%22%E5%9B%9B%E5%B7%9D%22%20.%0A%20%20%20%20%20%20bd%3AserviceParam%20mwapi%3Alanguage%20%22zh%22%20.%0A%20%20%20%20%20%20%3Fitem%20wikibase%3AapiOutputItem%20mwapi%3Aitem%0A%20%20%7D%0A%20%20%3Fsitelink%20schema%3Aabout%20%3Fitem%0AMINUS%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ4167410%7D%0A%7D%20GROUP%20BY%20%3Fitem%20ORDER%20BY%20DESC%28%3Fsites%29%20LIMIT%201)  
 - [OFFSET](https://query.wikidata.org/#SELECT%20%3Farticle%20%3Ftitle%0AWITH%20{%0A%20SELECT%20%3Farticle%20%3Ftitle%0A%20WHERE%20{%0A%20%3Farticle%20wdt%3AP31%20wd%3AQ13442814%20%3B%0A%20wdt%3AP1476%20%3Ftitle%20.%0A%20}%20LIMIT%20500000%20OFFSET%200%0A}%20AS%20%25RESULTS%20{%0A%20INCLUDE%20%25RESULTS%0A%20FILTER%20(CONTAINS(LCASE(%3Ftitle)%2C%20"caffeine"))%0A}) 
 - [DROP](https://wiki.blazegraph.com/wiki/index.php/SPARQL_Update#DROP_SOLUTIONS)
 - [COALESCE](https://twitter.com/WikidataFacts/status/924361383919136773)
   - [another one](https://twitter.com/WikidataFacts/status/936545295692894208)
 - [wikibase:sitelinks](http://tinyurl.com/y7ssp2gt)
 - [wikibase:identifiers](http://tinyurl.com/y7ssp2gt)
+- [DESCRIBE](https://query.wikidata.org/#DESCRIBE%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2Fstatement%2FQ45023480-0834E761-E3CD-4160-AA1A-3F26F8A1C2B5%3E)
 
 ## SPARQL queries that did not work for me (at least not as expected)
 
