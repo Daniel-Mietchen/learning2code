@@ -12,7 +12,7 @@ More and more of the software I come across in research contexts but also around
 
 ### Comparison of programming languages
 
-Never having taken any computer science classes, the precise pros and cons of different languages remain somewhat of a mystery to me, but I am conscious that [Python tends to be much slower than compiled languages like C or Fortran](http://jonathankinlay.com/index.php/2015/02/comparison-programming-languages), and that's fine for most of my purposes. I am interested in [ways to reduce the speed gap](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/), though.
+Never having taken any computer science classes, the precise pros and cons of different languages remain somewhat of a mystery to me, but I am conscious that [Python tends to be much slower than compiled languages like C or Fortran](http://jonathankinlay.com/index.php/2015/02/comparison-programming-languages), and that's fine for most of my purposes. I am interested in [ways to reduce the speed gap](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/), though, as well as in [how Python compares to other languages when it comes to data science](https://www.datasciencecentral.com/profiles/blogs/python-overtakes-r-for-data-science-and-machine-learning).
 
 ## Learning Scratch
 
