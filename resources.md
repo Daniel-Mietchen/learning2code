@@ -140,6 +140,7 @@ I found the following resources that I have yet to assess as to their usefulness
   - [Wikipedia](https://pypi.python.org/pypi?%3Aaction=search&term=wikipedia&submit=search)
     - [example](https://twitter.com/jjmerelo/status/884456493298405376)
   - [Wikidata](https://pypi.python.org/pypi?%3Aaction=search&term=wikidata&submit=search)
+    - [Wikipedia and Wikidata access with Python](https://slides.com/similis/wikipedia-wikidata-access-python#/)
 * [Computer Science Circles](https://www.bwinf.de/?id=293)
   - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
   
