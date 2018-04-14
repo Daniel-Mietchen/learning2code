@@ -39,6 +39,15 @@
   * [Reproducible Research Curriculum](http://www.datacarpentry.org/blog/reproducible-research-curriculum/)
 * [Deepsense workshops](http://workshops.deepsense.io/)
 
+## 100 Days
+
+* [How I completed the #100DaysOfCode challenge by coding 30 minutes a day](https://medium.freecodecamp.org/how-i-completed-the-100daysofcode-challenge-by-coding-30-minutes-a-day-d7c6dca80f09)
+* [#100DaysOfCode](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfCode)
+* [#100DaysOfData](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfData)
+* [#100DaysOfPython](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfPython)
+* [#100DaysOfJupyter](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfJupyter) (empty as of 20180414)
+* [#100DaysOfWikidata](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfWikidata) (empty as of 20180414)
+
 ## Statistics
 * [On Wikipedia](https://en.wikipedia.org/wiki/Template:Statistics)
 * [Data visualization](https://en.wikipedia.org/wiki/Template:Data_Visualization)
