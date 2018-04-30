@@ -63,6 +63,10 @@
 * [Machine Learning for Greater Fire Scene Safety](http://deepsense.io/machine-learning-greater-fire-scene-safety/)
 * [The 10 main takeaways from MLconf SF](https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/)
 
+# Python
+
+* moved over to [Python/python.md](Python/python.md)
+
 # Scratch
 * [Website](https://scratch.mit.edu/)
 * [Scratch cards](https://scratch.mit.edu/help/cards/)
