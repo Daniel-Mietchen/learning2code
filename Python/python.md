@@ -88,6 +88,8 @@ I found the following resources that I have yet to assess as to their usefulness
     - [Wikipedia and Wikidata access with Python](https://slides.com/similis/wikipedia-wikidata-access-python#/)
 * [Computer Science Circles](https://www.bwinf.de/?id=293)
   - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
+* PyWikiBot
+  - [PyWikiBot script on PAWS for moving statements from one item to another](https://paws-public.wmflabs.org/paws-public/15319026/move_property/moveP.ipynb)
   
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
