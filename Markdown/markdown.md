@@ -213,3 +213,5 @@ Header | Header
 * after http://meta.stackexchange.com/questions/2133/whats-the-recommended-syntax-for-an-image-with-a-link#comment179940_2191
 
 [![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg)
+
+[![Stonehenge, assembled from a variety of sources over an extended period of time](https://upload.wikimedia.org/wikipedia/commons/9/94/JROST_over_Stonehenge-01.png)](https://commons.wikimedia.org/wiki/File:JROST_over_Stonehenge-01.png)
