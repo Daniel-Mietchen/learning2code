@@ -214,4 +214,9 @@ Header | Header
 
 [![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg)
 
+
+# Stonehenge stuff
+
 [![Stonehenge, assembled from a variety of sources over an extended period of time](https://upload.wikimedia.org/wikipedia/commons/9/94/JROST_over_Stonehenge-01.png)](https://commons.wikimedia.org/wiki/File:JROST_over_Stonehenge-01.png)
+
+[![Stonehenge, assembled from a variety of sources over an extended period of time](https://upload.wikimedia.org/wikipedia/commons/2/25/Stonehenge_by_Jasper_Francis_Cropsey%2C_1876_-_Nelson-Atkins_Museum_of_Art_-_DSC09199_%28cropped%29.JPG)](https://commons.wikimedia.org/wiki/File:Stonehenge_by_Jasper_Francis_Cropsey,_1876_-_Nelson-Atkins_Museum_of_Art_-_DSC09199_(cropped).JPG)
