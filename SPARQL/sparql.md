@@ -92,4 +92,4 @@
 - examples
   * http://query.wikidata.org/
   * https://hhs.github.io/meshrdf/sample-queries.html
-
+- [Differences between SPARQL implementations](https://twitter.com/jjmhtp/status/1007415531526348800)
