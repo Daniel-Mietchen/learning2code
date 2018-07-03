@@ -57,6 +57,10 @@ This file collects information about cheat sheets for tools and languages that I
 * http://www.dummies.com/programming/scratch/scratch-for-kids-for-dummies-cheat-sheet/
 * https://duck.co/ia/view/scratch_cheat_sheet
 
+# SQL
+
+* https://twitter.com/AnalyticsVidhya/status/994577933984509952
+
 # SPARQL
 
 * https://www.slideshare.net/LeeFeigenbaum/sparql-cheat-sheet
