@@ -21,8 +21,8 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[browse Python libraries](https://pypi.python.org/pypi?%3Aaction=browse)
 *	[11 great resources to learn and work in Python](http://thenextweb.com/dd/2015/11/26/11-great-resources-to-learn-and-work-in-python/)
 *	[Python Challenge](http://www.pythonchallenge.com/)
-  * with [wiki](http://wiki.pythonchallenge.com)
-  * works well with [temporary notebooks](https://try.jupyter.org/) (for Python 3)
+  - with [wiki](http://wiki.pythonchallenge.com)
+  - works well with [temporary notebooks](https://try.jupyter.org/) (for Python 3)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
   *	[Jupyter on GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3)
@@ -90,6 +90,10 @@ I found the following resources that I have yet to assess as to their usefulness
   - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
 * PyWikiBot
   - [PyWikiBot script on PAWS for moving statements from one item to another](https://paws-public.wmflabs.org/paws-public/15319026/move_property/moveP.ipynb)
+* [Transition from Python 2 to Python 3](https://twitter.com/gvanrossum/status/1012462042094002176)
+  - [Python Clock](https://pythonclock.org/)
+  - [Python 3 Wall of Superpowers](https://python3wos.appspot.com/)
+  - [Pyreadiness](http://py3readiness.org/)
   
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
