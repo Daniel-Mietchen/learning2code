@@ -2,6 +2,11 @@
 
 * [at W3C](https://www.w3.org/TR/sparql11-query/#neg-notexists-minus)
 
+# SPARQL tutorials
+
+* [data.world's SPARQL tutorial](https://docs.data.world/tutorials/sparql/index.html)
+  - generic
+
 ## SPARQL syntax
 
 * [introduction](http://rdf.myexperiment.org/howtosparql?)
