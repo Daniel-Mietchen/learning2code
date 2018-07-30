@@ -107,3 +107,4 @@
 # SPARQL via the command line
 
 - curl -H "Accept:text/csv" --data-urlencode "query=SELECT (<https://example.com/a,b > AS ?result) WHERE {}" https://query.wikidata.org/sparql
+  - seen [here](https://twitter.com/jindrichmynarz/status/1020319524820791298)
