@@ -103,3 +103,7 @@
   * http://query.wikidata.org/
   * https://hhs.github.io/meshrdf/sample-queries.html
 - [Differences between SPARQL implementations](https://twitter.com/jjmhtp/status/1007415531526348800)
+
+# SPARQL via the command line
+
+- curl -H "Accept:text/csv" --data-urlencode "query=SELECT (<https://example.com/a,b > AS ?result) WHERE {}" https://query.wikidata.org/sparql
