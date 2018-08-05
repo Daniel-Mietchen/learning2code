@@ -134,6 +134,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [Python Seminar Course at UC Berkeley (AY 250)](https://github.com/profjsb/python-seminar)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [Deep Learning in Python: Getting Started](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/a-complete-guide-on-getting-started-with-deep-learning-in-python)
+* [pdftables](https://pypi.org/project/pdftables/) (seen [here](https://twitter.com/ldodds/status/1023522657634013186))
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
