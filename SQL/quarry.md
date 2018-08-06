@@ -13,3 +13,7 @@ This file lists example queries from Quarry, the SQL query service for Wikimedia
 
 * [Top 100 editors in Module namespace in English Wikipedia](https://quarry.wmflabs.org/query/17556)
 * [New editor survival per month in enwiki](https://quarry.wmflabs.org/query/17500)
+
+# See also
+
+* [Explore Wikidata-related Quarry queries](https://www.wikidata.org/wiki/Wikidata:Wikidata_curricula/Activities/Explore_Wikidata-related_Quarry_queries)
