@@ -8,6 +8,7 @@ This file lists example queries from Quarry, the SQL query service for Wikimedia
 * [Labels and sitelinks by label](https://quarry.wmflabs.org/query/13025)
 * [Wikidata editors by number of edits during 1h on Aug 23, 2017](https://quarry.wmflabs.org/query/20823)
 * [Find lexemes by language and lexical category](https://quarry.wmflabs.org/query/28438)
+* [items for which label and alias are identical in a given language (using Bengali as an example)](https://quarry.wmflabs.org/query/28558) ([background](https://www.wikidata.org/w/index.php?title=Wikidata:Request_a_query&oldid=733566616#Alias_=_Label_(third_time,_according_to_the_archives)))
 
 # Wikipedia
 
