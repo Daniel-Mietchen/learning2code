@@ -31,6 +31,7 @@ This file collects information about cheat sheets for tools and languages that I
 # GitLab
 
 * [buried somewhere here](https://gitlab.com/gitlab-com/marketing/issues/7)
+* [Repository mirroring using GitLab](https://docs.gitlab.com/ee/workflow/repository_mirroring.html)
 
 # Markdown
 
