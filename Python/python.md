@@ -3,6 +3,7 @@
 ## Online
 I found the following resources that I have yet to assess as to their usefulness for me:
 
+* [List of free-to-read Python books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) &mdash; curated by the Ebook Foundation
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
   - [Python for non-programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 * [Python Weekly](http://www.pythonweekly.com/)
