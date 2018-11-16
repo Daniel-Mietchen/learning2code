@@ -113,6 +113,7 @@
 - relatively complete list at https://www.w3.org/wiki/SparqlEndpoints
 - examples
   * http://query.wikidata.org/
+    - [some non-SPARQL magic keys](https://twitter.com/WikidataFacts/status/1063429813350871040)
   * https://hhs.github.io/meshrdf/sample-queries.html
 - [Differences between SPARQL implementations](https://twitter.com/jjmhtp/status/1007415531526348800)
 
