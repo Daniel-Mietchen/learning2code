@@ -120,4 +120,7 @@
 # SPARQL via the command line
 
 - curl -H "Accept:text/csv" --data-urlencode "query=SELECT (<https://example.com/a,b > AS ?result) WHERE {}" https://query.wikidata.org/sparql
-  - seen [here](https://twitter.com/jindrichmynarz/status/1020319524820791298)
+  - seen [here](https://twitter.com/jindrichmynarz/status/1020319524820791298
+- curl --data-urlencode "query@subtreeClasses.rq" https://query.wikidata.org/sparql -H "Accept: text/turtle"  > chemicalElementSubClasses.ttl
+  - assumes a WDQS query in subtreeClasses.rq; seen [here](http://www.snee.com/bobdc.blog/2018/11/extracting-rdf-data-models-fro.html)
+- See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html)
