@@ -124,4 +124,8 @@
 - curl --data-urlencode "query@subtreeClasses.rq" https://query.wikidata.org/sparql -H "Accept: text/turtle"  > chemicalElementSubClasses.ttl
   - assumes a WDQS query in subtreeClasses.rq; seen [here](http://www.snee.com/bobdc.blog/2018/11/extracting-rdf-data-models-fro.html)
   - see also https://twitter.com/Ettore_Rizza/status/1064428103068467200 for wdtaxonomy tool version of the same visualization
-- See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html)
+- See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html
+
+# Learning experiences
+
+* [First SPARQL query](https://twitter.com/SiobhanLeachman/status/895382625749159937)
