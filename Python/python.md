@@ -158,3 +158,6 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 ## Python events
 * [PyCon](https://us.pycon.org/2016/)
 
+## Binder
+* https://mybinder.org/
+** can do things like [https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb]
