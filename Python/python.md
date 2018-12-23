@@ -161,3 +161,4 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 ## Binder
 * https://mybinder.org/
   - can do things like [https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb](https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb)
+  - has [repo2docker](https://blog.jupyter.org/introducing-repo2docker-61a593c0752d) that allows to use "containerization technology without needing to learn Docker itself" (see [here](https://twitter.com/koehrsen_will/status/1074331468200075264))
