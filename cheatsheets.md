@@ -56,6 +56,7 @@ This file collects information about cheat sheets for tools and languages that I
   - [Regex Storm](http://regexstorm.net/tester?p=%28%5cS%2b%29%5cs%2bCounty&i=Allatoona+was+a+town+located+in+extreme+southeastern+Bartow+County%2c+Georgia.)
 * StackOverflow
   - https://stackoverflow.com/questions/tagged/regex
+    - [How to combine regexes](https://stackoverflow.com/questions/869809/combine-regexp)
 
 # Scratch
 
