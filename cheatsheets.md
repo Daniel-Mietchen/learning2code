@@ -69,6 +69,8 @@ This file collects information about cheat sheets for tools and languages that I
 
 # SPARQL
 
+*See also [SPARQL/sparql.md](SPARQL/sparql.md)*
+
 * https://www.slideshare.net/LeeFeigenbaum/sparql-cheat-sheet
 * http://www.dajobe.org/2005/04-sparql/SPARQLreference-1.8-us.pdf
 * https://wiki.openbel.org/display/home/Sparql+cheatsheet
