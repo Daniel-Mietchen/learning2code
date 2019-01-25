@@ -128,6 +128,13 @@
   - see also https://twitter.com/Ettore_Rizza/status/1064428103068467200 for wdtaxonomy tool version of the same visualization
 - See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html
 
+# SPARQL on PAWS using RDFlib
+- Finding substrings in title string
+  - [grouped by title](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles.ipynb?kernel_name=python3)
+  - [aggregated across titles](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles%201.ipynb)
+- [with iframes](https://paws-public.wmflabs.org/paws-public/User:Fuzheado/CMA%20OA%20results.ipynb) (Scholia-like)
+
+
 # Learning experiences
 
 * [First SPARQL query](https://twitter.com/SiobhanLeachman/status/895382625749159937)
