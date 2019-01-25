@@ -91,6 +91,11 @@ I found the following resources that I have yet to assess as to their usefulness
   - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
 * PyWikiBot
   - [PyWikiBot script on PAWS for moving statements from one item to another](https://paws-public.wmflabs.org/paws-public/15319026/move_property/moveP.ipynb)
+* SPARQL on PAWS using RDFlib
+  - Finding substrings in title string
+    - [grouped by title](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles.ipynb?kernel_name=python3)
+    - [aggregated across titles](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles%201.ipynb)
+  - [with iframes](https://paws-public.wmflabs.org/paws-public/User:Fuzheado/CMA%20OA%20results.ipynb) (Scholia-like)
 * [Transition from Python 2 to Python 3](https://twitter.com/gvanrossum/status/1012462042094002176)
   - [Python Clock](https://pythonclock.org/)
   - [Python 3 Wall of Superpowers](https://python3wos.appspot.com/)
