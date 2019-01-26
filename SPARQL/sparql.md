@@ -129,7 +129,7 @@
 - See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html
 
 # SPARQL on PAWS using RDFlib
-- Finding substrings in title string
+- Finding substrings in title string (via [StackOverflow](https://stackoverflow.com/questions/54162289/finding-the-three-longest-substrings-in-a-string-using-sparql-on-the-wikidata-qu)):
   - [grouped by title](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles.ipynb?kernel_name=python3)
   - [aggregated across titles](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles%201.ipynb)
 - [with iframes](https://paws-public.wmflabs.org/paws-public/User:Fuzheado/CMA%20OA%20results.ipynb) (Scholia-like)
