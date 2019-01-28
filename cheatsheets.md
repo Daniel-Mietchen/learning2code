@@ -11,7 +11,8 @@ This file collects information about cheat sheets for tools and languages that I
 
 # Command line
 
-* [Bash cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+* [Bash shell cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+  - [Why is using a shell loop to process text considered bad practice?](https://unix.stackexchange.com/questions/169716/why-is-using-a-shell-loop-to-process-text-considered-bad-practice)
 * [Unix commands](https://en.wikipedia.org/wiki/Template:Unix_commands)
 
 # FireFox
