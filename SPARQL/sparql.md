@@ -1,3 +1,7 @@
+# SPARQL intro
+
+* [Constructing SPARQL Queries](https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02) (seen [here](https://twitter.com/stevedischinger/status/1089895654078459906))
+
 # SPARQL specs
 
 * [at W3C](https://www.w3.org/TR/sparql11-query/#neg-notexists-minus)
