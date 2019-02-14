@@ -81,6 +81,7 @@
 - [COALESCE](https://twitter.com/WikidataFacts/status/924361383919136773)
   - [another one](https://twitter.com/WikidataFacts/status/936545295692894208)
   - [one more](https://twitter.com/generalising/status/1091721992028459008) &mdash; see also the mention of loops later in that thread
+  - [yet another one](https://twitter.com/fnielsen/status/1095851442815012864)
 - [wikibase:sitelinks](http://tinyurl.com/y7ssp2gt)
 - [wikibase:identifiers](http://tinyurl.com/y7ssp2gt)
 - [DESCRIBE](https://query.wikidata.org/#DESCRIBE%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2Fstatement%2FQ45023480-0834E761-E3CD-4160-AA1A-3F26F8A1C2B5%3E)
