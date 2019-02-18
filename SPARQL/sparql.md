@@ -132,7 +132,9 @@
 - curl --data-urlencode "query@subtreeClasses.rq" https://query.wikidata.org/sparql -H "Accept: text/turtle"  > chemicalElementSubClasses.ttl
   - assumes a WDQS query in subtreeClasses.rq; seen [here](http://www.snee.com/bobdc.blog/2018/11/extracting-rdf-data-models-fro.html)
   - see also https://twitter.com/Ettore_Rizza/status/1064428103068467200 for wdtaxonomy tool version of the same visualization
-- See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html
+- curl https://wdhqs.wmflabs.org/sparql -X POST --data 'query=%23+Number+of+Wikidata+users+who+have+added+or+removed+wd%3AP50+(author)+statements%0A%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX+hist%3A+%3Chttp%3A%2F%2Fwikiba.se%2Fhistory%2Fontology%23%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT+(COUNT(DISTINCT+%3Fuser)+AS+%3Fcount)+WHERE+%7B%0A++GRAPH+%3FaddOrDel+%7B%0A++++%3Fitem+wdt%3AP50+%3Fvalue+.%0A++%7D%0A++%3Frev+hist%3Aadditions%7Chist%3Adeletions+%3FaddOrDel+%3B%0A+++++++schema%3Aauthor+%3Fuser+.%0A%7D' -H 'Accept: application/sparql-results+json,*/*;q=0.9'
+  - seen [here](https://wdhqs.wmflabs.org/#query=%23+Number+of+Wikidata+users+who+have+added+or+removed+wd%3AP50+(author)+statements%0A%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX+hist%3A+%3Chttp%3A%2F%2Fwikiba.se%2Fhistory%2Fontology%23%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0A%0ASELECT+(COUNT(DISTINCT+%3Fuser)+AS+%3Fcount)+WHERE+%7B%0A++GRAPH+%3FaddOrDel+%7B%0A++++%3Fitem+wdt%3AP50+%3Fvalue+.%0A++%7D%0A++%3Frev+hist%3Aadditions%7Chist%3Adeletions+%3FaddOrDel+%3B%0A+++++++schema%3Aauthor+%3Fuser+.%0A%7D)
+- See also [pipelining SPARQL queries](http://www.snee.com/bobdc.blog/2018/08/pipelining-sparql-queries-in-m.html)
 
 # SPARQL on PAWS using RDFlib
 - Finding substrings in title string (via [StackOverflow](https://stackoverflow.com/questions/54162289/finding-the-three-longest-substrings-in-a-string-using-sparql-on-the-wikidata-qu)):
