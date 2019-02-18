@@ -148,3 +148,4 @@
 # Learning experiences
 
 * [First SPARQL query](https://twitter.com/SiobhanLeachman/status/895382625749159937)
+* ["Every time, I have to learn SPARQL from scratch."](https://twitter.com/EconAndrew/status/1097505907800453120)
