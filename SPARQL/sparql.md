@@ -1,6 +1,8 @@
 # SPARQL intro
 
 * [Constructing SPARQL Queries](https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02) (seen [here](https://twitter.com/stevedischinger/status/1089895654078459906))
+* [Using SPARQL to access Linked Open Data](https://programminghistorian.org/en/lessons/graph-databases-and-SPARQL)
+  - > "explains why many cultural institutions are adopting graph databases, and how researchers can access these data though the query language called SPARQL"
 
 # SPARQL specs
 
