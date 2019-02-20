@@ -119,6 +119,7 @@
 
 # SPARQL endpoints
 
+- [What is a SPARQL Endpoint, and why is it important?](https://medium.com/virtuoso-blog/what-is-a-sparql-endpoint-and-why-is-it-important-b3c9e6a20a8b)
 - relatively complete list at https://www.w3.org/wiki/SparqlEndpoints
 - examples
   * http://query.wikidata.org/
