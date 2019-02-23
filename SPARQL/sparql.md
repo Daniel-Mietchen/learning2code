@@ -155,3 +155,4 @@
 
 # See also 
 * [SQL vs. SPARQL](https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/)
+  - [tweets on the comparison](https://twitter.com/search?vertical=default&q=(sql%20OR%20nosql)%20AND%20(rdf%20OR%20sparql))
