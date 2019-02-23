@@ -96,6 +96,7 @@ I found the following resources that I have yet to assess as to their usefulness
     - [grouped by title](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles.ipynb?kernel_name=python3)
     - [aggregated across titles](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles%201.ipynb)
   - [with iframes](https://paws-public.wmflabs.org/paws-public/User:Fuzheado/CMA%20OA%20results.ipynb) (Scholia-like)
+  - see also the [SPARQL kernel for Jupyter](https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb)
 * [Transition from Python 2 to Python 3](https://twitter.com/gvanrossum/status/1012462042094002176)
   - [Python Clock](https://pythonclock.org/)
   - [Python 3 Wall of Superpowers](https://python3wos.appspot.com/)
@@ -165,5 +166,5 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 
 ## Binder
 * https://mybinder.org/
-  - can do things like [https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb](https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb)
+  - can do things like [https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb](https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb) or [https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb](https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb)
   - has [repo2docker](https://blog.jupyter.org/introducing-repo2docker-61a593c0752d) that allows to use "containerization technology without needing to learn Docker itself" (see [here](https://twitter.com/koehrsen_will/status/1074331468200075264))
