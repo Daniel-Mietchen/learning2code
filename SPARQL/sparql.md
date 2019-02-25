@@ -132,6 +132,8 @@
 
 # SPARQL via the command line
 
+*Overview [here](http://www.snee.com/bobdc.blog/2019/02/curling-sparql.html)*
+
 - curl -H "Accept:text/csv" --data-urlencode "query=SELECT (<https://example.com/a,b > AS ?result) WHERE {}" https://query.wikidata.org/sparql
   - seen [here](https://twitter.com/jindrichmynarz/status/1020319524820791298)
 - curl --data-urlencode "query@subtreeClasses.rq" https://query.wikidata.org/sparql -H "Accept: text/turtle"  > chemicalElementSubClasses.ttl
