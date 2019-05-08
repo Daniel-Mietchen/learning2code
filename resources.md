@@ -27,6 +27,7 @@
   - mentioned in [this video](https://www.youtube.com/watch?v=ohr6O78jGzs)
 * [25-min paper-based crash course in debugging for 5th-graders](https://medium.com/@alishah.novin/a-different-approach-to-teaching-kids-and-teens-to-code-43b7192644c9#.9xis596bs)
 * [Programming for Data Science the Polyglot approach: Python + R + SQL](http://www.datasciencecentral.com/profiles/blogs/programming-for-data-science-the-polyglot-approach-python-r-sql)
+* [My Story of Being a Self Taught Programmer](https://www.youtube.com/watch?v=62tsiY5j4_0)
 
 ## Courses
 * [Software Carpentry](http://software-carpentry.org/)
