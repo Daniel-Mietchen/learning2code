@@ -107,6 +107,8 @@
   - also shows a simple way to get a QID
 * ordering of commands
   - [different results depending on position of an OPTIONAL clause](https://twitter.com/WikidataFacts/status/1047954011700252672)
+* [IF](https://query.wikidata.org/#%23defaultView%3ABubbleChart%0ASELECT%20%3FwinnerLabel%20%3Fwins%20%3Frgb%20WHERE%20%7B%0A%20%20%23%20the%20snooker%20ball%20colours%0A%20%20%20BIND%20(%20COALESCE(%0A%20%20%20%20IF(%3Fwins%20%3D%201%2C%20%22ff0000%22%2C%201%2F0)%2C%0A%20%20%20%20IF(%3Fwins%20%3D%202%2C%20%22ffff00%22%2C%201%2F0)%2C%0A%20%20%20%20IF(%3Fwins%20%3D%203%2C%20%2200ff00%22%2C%201%2F0)%2C%0A%20%20%20%20IF(%3Fwins%20%3D%204%2C%20%228b4513%22%2C%201%2F0)%2C%0A%20%20%20%20IF(%3Fwins%20%3D%205%2C%20%220000ff%22%2C%201%2F0)%2C%0A%20%20%20%20IF(%3Fwins%20%3D%206%2C%20%22ffc0cb%22%2C%201%2F0)%2C%0A%20%20%20%20IF(%3Fwins%20%3D%207%2C%20%22000000%22%2C%201%2F0)%2C%0A%20%20%20%20%22ffffff%22%0A%20%20)%20AS%20%3Frgb%20)%0A%20%20%23%20inner%20select%20generates%20the%20winners%20totals%0A%20%20%7B%20SELECT%20%3FwinnerLabel%20(COUNT%20(%3Fwinner)%20AS%20%3Fwins)%20WHERE%20%7B%0A%20%20%7B%20%3Fp%20wdt%3AP31%20wd%3AQ502948%20%7D%0A%20%20UNION%0A%20%20%7B%20%3Fp%20wdt%3AP361%20wd%3AQ502948%20%7D%0A%20%20%3Fp%20wdt%3AP1346%20%3Fwinner%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3FwinnerLabel%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%7D%0A%0A) &mdash; with color-coding (seen [here](https://twitter.com/piecesofuk/status/1125788506280931329))
+
 
 ## SPARQL queries that did not work for me (at least not as expected)
 
