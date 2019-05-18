@@ -24,6 +24,10 @@ This file collects information about version control for software.
 * [Cloud Source Repositories](https://cloud.google.com/source-repositories/)
 * [SourceTree](https://www.sourcetreeapp.com/)
 
+# Python
+
+* [Versioneer](https://github.com/warner/python-versioneer)
+
 # Version control for data
 
 * [dat](https://datproject.org/)
