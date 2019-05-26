@@ -77,6 +77,11 @@ This file collects information about cheat sheets for tools and languages that I
 * https://wiki.openbel.org/display/home/Sparql+cheatsheet
 * http://www.iro.umontreal.ca/~lapalme/ift6281/sparql-1_1-cheat-sheet.pdf
 
+# VIM
+
+* https://vim.rtorr.com/
+
+
 # See also
 
 * [20 Cheat Sheets: Python, ML, Data Science, R, and More](http://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science)
