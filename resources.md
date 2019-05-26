@@ -39,6 +39,7 @@
   * [Workshops](http://www.datacarpentry.org/workshops-upcoming/)
   * [Reproducible Research Curriculum](http://www.datacarpentry.org/blog/reproducible-research-curriculum/)
 * [Deepsense workshops](http://workshops.deepsense.io/)
+* [FreeCodeCamp](https://learn.freecodecamp.org/)
 
 ## 100 Days
 
