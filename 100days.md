@@ -14,5 +14,5 @@ The concept of doing something for 100 days in a row has been around for a while
 
 # My personal take
 
-I have so far mostly been an occasional bystander on such activities, but [100wikidays](https://meta.wikimedia.org/wiki/100wikidays) caught my attention, and I got Research Bot to [complete it](https://www.wikidata.org/wiki/User:Research_Bot/100wikidays). As of the Northern Hemispheric spring, I am considering to do a 100 day challenge for either coding and/ or some physical activity. Not sure about a suitable parametrization yet, mostly because I am traveling a lot.
+I have so far mostly been an occasional bystander on such activities, but [100wikidays](https://meta.wikimedia.org/wiki/100wikidays) caught my attention, and I got Research Bot to [complete it](https://www.wikidata.org/wiki/User:Research_Bot/100wikidays). I am considering to do a 100 day challenge for either coding and/ or some physical activity. Not sure about a suitable parametrization yet.
 
