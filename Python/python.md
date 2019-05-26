@@ -137,6 +137,7 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 * [6 Deep Learning Applications a beginner can build in minutes (using Python)](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
 * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
 * [Keras](http://keras.io/) &mdash; Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow.
+  - [more smoothly integrated with TensorFlow 2.0](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04)
 * [1 tip for effective data visualization in Python](https://www.dataquest.io/blog/how-to-communicate-with-data/)
 * [Python Seminar Course at UC Berkeley (AY 250)](https://github.com/profjsb/python-seminar)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
