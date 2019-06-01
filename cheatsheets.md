@@ -66,7 +66,7 @@ This file collects information about cheat sheets for tools and languages that I
 
 # SQL
 
-* https://twitter.com/AnalyticsVidhya/status/994577933984509952
+* http://www.cheat-sheets.org/sites/sql.su/
 
 # SPARQL
 
