@@ -18,5 +18,6 @@ This file lists example queries from Quarry, the SQL query service for Wikimedia
 
 # See also
 
+* [generic-SQL.md](generic-SQL.md)
 * [SQL Optimizer](https://tools.wmflabs.org/sql-optimizer)
 * [Explore Wikidata-related Quarry queries](https://www.wikidata.org/wiki/Wikidata:Wikidata_curricula/Activities/Explore_Wikidata-related_Quarry_queries)
