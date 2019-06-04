@@ -169,3 +169,6 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 * https://mybinder.org/
   - can do things like [https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb](https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb) or [https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb](https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb)
   - has [repo2docker](https://blog.jupyter.org/introducing-repo2docker-61a593c0752d) that allows to use "containerization technology without needing to learn Docker itself" (see [here](https://twitter.com/koehrsen_will/status/1074331468200075264))
+
+# See also
+* [My journey from Python to Golang](https://morioh.com/p/c217c8f96282/my-journey-from-python-to-golang)
