@@ -10,4 +10,4 @@ https://arcs.virginia.edu/ood .
 
 # Dashboard
 
-Once logged in, a dashboard is available at http://rivanna-portal.hpc.virginia.edu/ from where different services like Terminal or JupyterLab are accessible, as described at https://arcs.virginia.edu/ood .
+Once logged in, a dashboard is available at http://rivanna-portal.hpc.virginia.edu/ from where different services like Terminal or JupyterLab are accessible, as described at https://arcs.virginia.edu/ood . There is also https://rivanna-desktop.hpc.virginia.edu .
