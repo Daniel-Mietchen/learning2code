@@ -34,6 +34,10 @@ This file collects information about cheat sheets for tools and languages that I
 * [buried somewhere here](https://gitlab.com/gitlab-com/marketing/issues/7)
 * [Repository mirroring using GitLab](https://docs.gitlab.com/ee/workflow/repository_mirroring.html)
 
+# Jupyter
+
+* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
 # Markdown
 
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
