@@ -87,6 +87,8 @@ I found the following resources that I have yet to assess as to their usefulness
     - [example](https://twitter.com/jjmerelo/status/884456493298405376)
   - [Wikidata](https://pypi.python.org/pypi?%3Aaction=search&term=wikidata&submit=search)
     - [Wikipedia and Wikidata access with Python](https://slides.com/similis/wikipedia-wikidata-access-python#/)
+    - [Getting Data Out of Wikidata using Software](http://baskauf.blogspot.com/2019/05/getting-data-out-of-wikidata-using.html)
+    - [Putting Data into Wikidata using Software](http://baskauf.blogspot.com/2019/06/putting-data-into-wikidata-using.html)
 * [Computer Science Circles](https://www.bwinf.de/?id=293)
   - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
 * PyWikiBot
