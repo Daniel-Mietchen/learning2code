@@ -12,7 +12,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * Definitions: [Iterables vs. Iterators vs. Generators](http://nvie.com/posts/iterators-vs-generators/)
   - Follow-up post: [Use more iterators](http://nvie.com/posts/use-more-iterators/)
   - see also: [Introduction to Python Generators](https://realpython.com/blog/python/introduction-to-python-generators/)
-*	[Google Python course](https://developers.google.com/edu/python/introduction)
+*	[Google Python course](https://developers.google.com/edu/python/introduction) (Python 2)
   - [comment, background and pointers to related courses](http://www.openculture.com/2016/12/learn-python-a-free-online-course-from-google.html)
 *	Wikipedia: [Python (programming language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
   *	See also subarticles and other language versions as well as [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) on Wikibooks 
