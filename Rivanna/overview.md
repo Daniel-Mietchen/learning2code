@@ -4,9 +4,10 @@ This file contains information related to Rivanna, the University of Virginia's 
 
 # Log in
 
-For users with a UVA Netbadge account, access to Rivanna can be accomplished by logging in at 
+- For users with a UVA Netbadge account, access to Rivanna can be accomplished by logging in at 
 https://arcs.virginia.edu/ood .
-
+- ssh -Y UVACOMPUTEID@rivanna.hpc.virginia.edu (where UVACOMPUTEID is the user's UVA compute ID)
+  - at rivanna.hpc.virginia.edu, there is a load balancer that serves three servers, rivanna1.hpc.virginia.edu, rivanna2.hpc.virginia.edu, rivanna3.hpc.virginia.edu, which could be used alternatively
 
 # Dashboard
 
