@@ -35,6 +35,8 @@ I found the following resources that I have yet to assess as to their usefulness
   * [Project Jupyter: interactive computing in the context of modern science gateways](https://dx.doi.org/10.6084/m9.figshare.4495976.v1)
   * [US Integrated Ocean Observing Systems program](https://www.ioos.us/): [Data demos](http://ioos.github.io/notebooks_demos/code_gallery/) using Jupyter notebooks
   * [Everware](https://github.com/everware/everware) &mdash; allows to run Jupyter notebooks inside docker from a git repo
+  * [Tracking Jupyter Newsletter](https://tinyletter.com/TrackingJupyter/letters/tracking-jupyter-newsletter-the-twenty-second)
+  * [Jupyter community calls](https://discourse.jupyter.org/t/jupyter-community-calls)
 *	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
