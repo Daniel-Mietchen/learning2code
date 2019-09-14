@@ -8,6 +8,7 @@ This file collects information about version control for software.
 # Git
 
 * [Pro Git book](https://git-scm.com/book/en/v2)
+* [Basic Git Commands I Use Everyday](https://www.laurencegellert.com/2019/09/basic-git-commands-i-use-everyday/)
 
 # Platforms
 * [GitHub](https://github.com/)
@@ -17,6 +18,7 @@ This file collects information about version control for software.
   - [GitHub pages](https://pages.github.com/)
     - see also https://github.com/Daniel-Mietchen/ideas/issues/194
   - [non-code things you can do in GitHub](https://github.com/18F/github-in-government#what-can-you-do-with-github)
+  - [Design your own GitHub activity graph, mine is a DNA spiral](https://www.laurencegellert.com/2015/05/design-your-own-github-activity-graph-mine-is-a-dna-spiral/)
 * [GitLab](https://about.gitlab.com/)
   - [GitLab CI](http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/)
     - see also https://github.com/Daniel-Mietchen/ideas/issues/153
