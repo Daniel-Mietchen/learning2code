@@ -157,6 +157,10 @@
 * [First SPARQL query](https://twitter.com/SiobhanLeachman/status/895382625749159937)
 * ["Every time, I have to learn SPARQL from scratch."](https://twitter.com/EconAndrew/status/1097505907800453120)
 
+# Non-standard SPARQL
+
+* e.g. [How to avoid continual regeneration and reparsing of SPARQL queries that differ only in a few bound variables?](http://patterns.dataincubator.org/book/parameterised-query.html)
+
 # See also 
 * [SQL vs. SPARQL](https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/)
   - [tweets on the comparison](https://twitter.com/search?vertical=default&q=(sql%20OR%20nosql)%20AND%20(rdf%20OR%20sparql))
