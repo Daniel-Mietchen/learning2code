@@ -179,3 +179,4 @@ I am also enjoying the quizzes in the [Python Challenge app](https://play.google
 # See also
 * [My journey from Python to Golang](https://morioh.com/p/c217c8f96282/my-journey-from-python-to-golang)
 * ["Scripting language runtimes such as Python, Ruby, and Perl are included in macOS for compatibility with legacy software. Future versions of macOS won’t include scripting language runtimes by default, and might require you to install additional packages."](https://developer.apple.com/documentation/macos_release_notes/macos_10_15_beta_release_notes) [hat tip](https://twitter.com/connorjshea/status/1135654695714738176)
+* [How I Learned Data Science And the 1 Course That Changed Everything](https://towardsdatascience.com/how-i-learned-data-science-and-the-1-course-that-changed-everything-16912ccbab2b?gi=c3840f3ff4c8)
