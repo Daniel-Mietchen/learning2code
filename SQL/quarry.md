@@ -21,3 +21,4 @@ This file lists example queries from Quarry, the SQL query service for Wikimedia
 * [generic-SQL.md](generic-SQL.md)
 * [SQL Optimizer](https://tools.wmflabs.org/sql-optimizer)
 * [Explore Wikidata-related Quarry queries](https://www.wikidata.org/wiki/Wikidata:Wikidata_curricula/Activities/Explore_Wikidata-related_Quarry_queries)
+* [WikiCon NA 2019 session "Quarry tutorial: Using SQL to get info about wikis"](https://wikiconference.org/wiki/Submissions:2019/Quarry_tutorial:_Using_SQL_to_get_info_about_wikis)
