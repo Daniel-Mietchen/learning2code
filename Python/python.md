@@ -152,6 +152,13 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
+### Unit tests
+
+* [How not to do them](https://twitter.com/llanga/status/1193111754504581122)
+* [In praise of property-based testing](https://increment.com/testing/in-praise-of-property-based-testing/)
+  - [Python module for Hypothesis API](https://github.com/chaselgrove/python-hypothesis)
+
+
 ### Python and MATLAB
 * [Python vs Matlab](http://www.pyzo.org/python_vs_matlab.html)
 * [Why Python is Better than Matlab for Scientific Software](https://metarabbit.wordpress.com/2013/10/18/why-python-is-better-than-matlab-for-scientific-software/)
