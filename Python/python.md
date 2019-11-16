@@ -156,7 +156,8 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
 
 * [How not to do them](https://twitter.com/llanga/status/1193111754504581122)
 * [In praise of property-based testing](https://increment.com/testing/in-praise-of-property-based-testing/)
-  - [Python module for Hypothesis API](https://github.com/chaselgrove/python-hypothesis)
+  - [Hypothesis testing library](https://pypi.org/project/hypothesis/)
+    - not to be confused with the [Python module for Hypothesis API](https://github.com/chaselgrove/python-hypothesis)
 
 
 ### Python and MATLAB
