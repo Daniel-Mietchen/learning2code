@@ -10,6 +10,7 @@ This file lists example queries from Quarry, the SQL query service for Wikimedia
 * [Find lexemes by language and lexical category](https://quarry.wmflabs.org/query/28438)
 * [items for which label and alias are identical in a given language (using Bengali as an example)](https://quarry.wmflabs.org/query/28558) ([background](https://www.wikidata.org/w/index.php?title=Wikidata:Request_a_query&oldid=733566616#Alias_=_Label_(third_time,_according_to_the_archives)))
 * [Most prolific lexeme creators](https://quarry.wmflabs.org/query/35995)
+* [wikidata: PAWS usage statistics by user](https://quarry.wmflabs.org/query/28295)
 
 # Wikipedia
 
