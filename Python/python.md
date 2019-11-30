@@ -111,6 +111,18 @@ I found the following resources that I have yet to assess as to their usefulness
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
   - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
+  - see also Reddit
+    - https://www.reddit.com/r/Python
+      - https://www.reddit.com/r/Python/comments/hht53/anyone_suggest_great_python_code_to_read/
+      - https://www.reddit.com/r/Python/comments/e3ppeu/i_finally_did_musician_finally_crosses_over_to/
+      - https://www.reddit.com/r/Python/comments/e14e5h/took_3_hours_to_write_a_program_to_play_a_youtube/
+      - https://www.reddit.com/r/Python/comments/e3grfz/asciinate_high_performance_imagevideo_translator/
+      - https://www.reddit.com/r/Python/comments/e3jsgh/code_cool_stuff_with_python_a_free_badass_course/
+      - https://www.reddit.com/r/Python/comments/e3eibz/text_to_speech_using_python/
+      - https://www.reddit.com/r/Python/comments/e303ti/python_crash_course_for_someone_who_already_knows/
+      - https://www.reddit.com/r/Python/comments/e0tetk/road_map_to_become_python_developer/
+    - https://www.reddit.com/r/learnpython/
+      - https://www.reddit.com/r/learnpython/comments/e3oq9t/is_there_a_point_in_learning_python_if_i_already/
 
 ### For data analysis
 * [Introduction to Python, Data Science & Computational Thinking: Free Online Courses from MIT](http://www.openculture.com/2017/06/introduction-to-python-data-science-computational-thinking-free-online-courses-from-mit.html)
@@ -159,7 +171,6 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
   - [Hypothesis testing library](https://pypi.org/project/hypothesis/)
     - not to be confused with the [Python module for Hypothesis API](https://github.com/chaselgrove/python-hypothesis)
 
-
 ### Python and MATLAB
 * [Python vs Matlab](http://www.pyzo.org/python_vs_matlab.html)
 * [Why Python is Better than Matlab for Scientific Software](https://metarabbit.wordpress.com/2013/10/18/why-python-is-better-than-matlab-for-scientific-software/)
@@ -169,12 +180,18 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
   - [examples](https://gist.github.com/janfreyberg/193d38f4bd1aeca6980c6b9888674008)
 
 ## Offline
-When I have a quiet moment at home and offline, I am reading a few pages in the book 
+Some years ago, whenever I had a quiet moment at home and offline, I was reading a few pages in the book 
 > "Python: Visual Quickstart Guide" by Chris Fehily (2001), ISBN 0-201-74884-3
 
 to get familiar with the main design features of Python and the underlying philosophy.
 
-I am also enjoying the quizzes in the [Python Challenge app](https://play.google.com/store/apps/details?id=sg.apps.garden.pythonchallenge).
+Back then, I was also enjoying the quizzes in the [Python Challenge app](https://play.google.com/store/apps/details?id=sg.apps.garden.pythonchallenge).
+
+## SimpleHTTPServer
+
+* ```python -m http.server [<portNo>]``` (Python 3) vs.  ```python -m SimpleHTTPServer [<portNo>]``` (Python 2)
+  - [background](https://stackoverflow.com/questions/7943751/what-is-the-python-3-equivalent-of-python-m-simplehttpserver)
+    - [usage example](https://unix.stackexchange.com/a/182369/102837)
 
 ## Python events
 * [PyCon](https://us.pycon.org/2016/)
