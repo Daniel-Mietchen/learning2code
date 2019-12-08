@@ -19,4 +19,4 @@ This file helps me collect resources useful to use (i.e. create, analyze and und
   - Here are a few more variations that I tried
     - ```FILTER(!regex (LCASE(?string), "(\\W\\w{1}\\W){1,}")).```
     - ```FILTER(!regex (LCASE(?string), ".*(\\W\\w{1}\\W){1,}.*")).```
-    - ```FILTER(!regex (LCASE(?string), "^.*?(\\b\\w{1}\\b).*$")).``` <== that actually worked, but I am leaving these examples in here because I do not fully understand why this one worked and the others did not
+    - ```FILTER(!regex (LCASE(?string), "^.*?(\\b\\w{1}\\b).*$")).``` <== that actually [worked](https://query.wikidata.org/#SELECT%20%3Fstring%0AWHERE%20%7B%0A%20%20VALUES%20%3Fstring%20%7B%20%22J.%20Smith%22%20%22J%20Smith%22%20%22Smith%20J%22%20%22Jane%20A.%20B.%20C.%20Smith%22%20%22Jane%20Smith%22%20%22Jane%20Anne%20Smith%22%20%7D%0A%20%20FILTER%28%21regex%20%28LCASE%28%3Fstring%29%2C%20%22%5E.%2a%3F%28%5C%5Cb%5C%5Cw%7B1%7D%5C%5Cb%29.%2a%24%22%29%29.%0A%7D%0A), but I am leaving these examples in here because I do not fully understand why this one worked and the others did not
