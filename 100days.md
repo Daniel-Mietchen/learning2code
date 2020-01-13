@@ -15,5 +15,7 @@ The concept of doing something for 100 days in a row has been around for a while
 
 # My personal take
 
-I have so far mostly been an occasional bystander on such activities, but [100wikidays](https://meta.wikimedia.org/wiki/100wikidays) caught my attention, and I got Research Bot to [complete it](https://www.wikidata.org/wiki/User:Research_Bot/100wikidays). I am considering to do a 100 day challenge for either coding and/ or some physical activity. Not sure about a suitable parametrization yet.
+I have so far mostly been an occasional bystander on such activities, but [100wikidays](https://meta.wikimedia.org/wiki/100wikidays) caught my attention, and I got Research Bot to [complete it](https://www.wikidata.org/wiki/User:Research_Bot/100wikidays). 
+
+For 2020, I am committed to do a 100 day challenge for coding. I am also considering to do one for some physical activity. Not sure yet about a suitable parametrization for either.
 
