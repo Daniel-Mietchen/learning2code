@@ -4,6 +4,7 @@ The concept of doing something for 100 days in a row has been around for a while
 
 ## Resources
 
+* [Hello World: Want to be a developer? Learn how to learn](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/)
 * [How I completed the #100DaysOfCode challenge by coding 30 minutes a day](https://medium.freecodecamp.org/how-i-completed-the-100daysofcode-challenge-by-coding-30-minutes-a-day-d7c6dca80f09)
 * [#100DaysOfCode](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfCode)
 * [#100DaysOfData](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfData)
