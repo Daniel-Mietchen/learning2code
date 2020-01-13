@@ -8,4 +8,4 @@
 * [Wikipedia entry](https://en.wikipedia.org/wiki/Vim_%28text_editor%29)
 * [Cheat sheet](https://vim.rtorr.com/)
 * [VIM Adventures](https://vim-adventures.com/) (game to learn the keyboard shorcuts)
-** Played the first level on 2020-01-12 and liked it
+  * Played the first level on 2020-01-12 and liked it
