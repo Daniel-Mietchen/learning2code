@@ -24,6 +24,8 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[Python Challenge](http://www.pythonchallenge.com/)
   - with [wiki](http://wiki.pythonchallenge.com)
   - works well with [temporary notebooks](https://try.jupyter.org/) (for Python 3)
+* [Pybites](https://pybit.es/)
+  - also [on Twitter](https://twitter.com/pybites)
 * [Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html) 
 *	[The IPython notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
   *	[Jupyter on GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3)
