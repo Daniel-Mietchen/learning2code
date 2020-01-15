@@ -9,6 +9,7 @@ This file collects information about version control for software.
 
 * [Pro Git book](https://git-scm.com/book/en/v2)
 * [Basic Git Commands I Use Everyday](https://www.laurencegellert.com/2019/09/basic-git-commands-i-use-everyday/)
+* [git-history](https://github.com/pomber/git-history)
 
 # Platforms
 * [GitHub](https://github.com/)
