@@ -15,6 +15,7 @@ This file collects information about version control for software.
 * [GitHub](https://github.com/)
   - [overview of GitHub features](https://github.com/features)
     - [GitHub Flow guide](https://guides.github.com/introduction/flow/)
+      - [video about how to do a pull request on GitHub](https://www.youtube.com/watch?v=dSl_qnWO104)
   - [Adding a new SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
   - [GitHub pages](https://pages.github.com/)
     - see also https://github.com/Daniel-Mietchen/ideas/issues/194
