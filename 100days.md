@@ -13,6 +13,7 @@ The concept of doing something for 100 days in a row has been around for a while
 * [#100DaysOfJupyter](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfJupyter) (empty as of 20180414)
 * [#100DaysOfWikidata](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfWikidata) (empty as of 20180414)
 * [Template for the 100 days journal](https://github.com/Kallaway/100-days-of-code)
+* There is a range of similar hashtags, e.g. [#DailyiNat](https://twitter.com/hashtag/DailyiNat)
 
 # My personal take
 
