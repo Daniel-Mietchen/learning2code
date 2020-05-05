@@ -7,6 +7,10 @@ This file helps me collect resources useful to use (i.e. create, analyze and und
 * [Regexper](https://regexper.com/#%28%5CW%5Cw%7B1%7D%5CW%29%7B1%2C%7D)
 * [Regex101](https://regex101.com/r/cO8lqs/6)
 
+# Findings in the docs
+
+* [RegExp $1, $2, $3, $4, $5, $6, $7, $8, $9](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/n)
+
 # Examples that work for me
 
 * [a string of any length containing any characters but which must contain 21 commas](https://stackoverflow.com/questions/863125/regular-expression-to-count-number-of-commas-in-a-string)
