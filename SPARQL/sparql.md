@@ -8,6 +8,7 @@
 # SPARQL specs
 
 * [at W3C](https://www.w3.org/TR/sparql11-query/#neg-notexists-minus)
+  - [Grammar](https://www.w3.org/TR/rdf-sparql-query/#sparqlGrammar)
 
 # SPARQL tutorials
 
