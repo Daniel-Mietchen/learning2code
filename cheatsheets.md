@@ -38,6 +38,11 @@ This file collects information about cheat sheets for tools and languages that I
 * [buried somewhere here](https://gitlab.com/gitlab-com/marketing/issues/7)
 * [Repository mirroring using GitLab](https://docs.gitlab.com/ee/workflow/repository_mirroring.html)
 
+# JavaScript
+
+* [simple overview](https://htmlcheatsheet.com/js/)
+* [2020 Compilation of 20 different JavaScript cheat sheets](https://www.rankred.com/javascript-cheat-sheets/)
+
 # Jupyter
 
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
