@@ -24,6 +24,7 @@ I found the following resources that I have yet to assess as to their usefulness
 *	[Python Challenge](http://www.pythonchallenge.com/)
   - with [wiki](http://wiki.pythonchallenge.com)
   - works well with [temporary notebooks](https://try.jupyter.org/) (for Python 3)
+* [Python at W3Schools](https://www.w3schools.com/python/)
 * [Pybites](https://pybit.es/)
   - various Python challenges, some of which are [free](https://codechalleng.es/bites/)
   - also [on Twitter](https://twitter.com/pybites)
