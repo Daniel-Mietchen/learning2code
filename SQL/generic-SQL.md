@@ -4,6 +4,7 @@ This file collects information regarding SQL in general.
 # Resources
 
 * [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+* [SQL Quiz](https://www.w3schools.com/sql/exercise.asp)
 * [Git Your SQL Together (with a Query Library)](https://caitlinhudon.com/2018/11/28/git-sql-together/)
 * [Mode SQL tutorial](https://mode.com/sql-tutorial/)
 * [Codecamp course on PostgreSQL](https://www.freecodecamp.org/news/postgresql-full-course/)
