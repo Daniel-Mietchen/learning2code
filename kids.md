@@ -18,3 +18,4 @@ The selection and order are more or less random for the moment, since I don't ye
 * [Code it! - Programmieren lernen für Kinder](https://digitale-spielewelten.de/projekte/code-it-programmieren-lernen-fur-kinder/257)
 * [Evolution-themed games for kids](https://jessamynperlmutter.wordpress.com/eseb-evolution-kits/)
 * [Scottie](https://scottiego.com)
+* [Hacker typer](http://hackertyper.com/)
