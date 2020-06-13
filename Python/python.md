@@ -114,7 +114,8 @@ I found the following resources that I have yet to assess as to their usefulness
   - [Python Clock](https://pythonclock.org/)
   - [Python 3 Wall of Superpowers](https://python3wos.appspot.com/)
   - [Pyreadiness](http://py3readiness.org/)
-  
+* [How Do You Read a Python Traceback?](https://www.youtube.com/watch?v=3p3p6kp39to)
+
 ### Hashtags:
   - [python](https://twitter.com/search?f=tweets&vertical=default&q=%23python)
   - [pythonoddity](https://twitter.com/search?f=tweets&vertical=default&q=%23pythonoddity)
@@ -207,6 +208,7 @@ Back then, I was also enjoying the quizzes in the [Python Challenge app](https:/
 * https://mybinder.org/
   - can do things like [https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb](https://mybinder.org/v2/gl/PersonalDataIO%2Fwikidata/master?filepath=WikiData_client.ipynb) or [https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb](https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb)
   - has [repo2docker](https://blog.jupyter.org/introducing-repo2docker-61a593c0752d) that allows to use "containerization technology without needing to learn Docker itself" (see [here](https://twitter.com/koehrsen_will/status/1074331468200075264))
+* [Binder Hub](https://binderhub.readthedocs.io/en/latest/)
 
 # See also
 * [My journey from Python to Golang](https://morioh.com/p/c217c8f96282/my-journey-from-python-to-golang)
