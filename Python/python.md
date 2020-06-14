@@ -172,8 +172,15 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
+### Testing Python code
+
+* [Python Anywhere](https://www.pythonanywhere.com/)
+* [Cloud9?](https://www.youtube.com/watch?v=azcrPFhaY9k#t=36m11s)
+* [Python.org](https://www.python.org/)
+
 ### Unit tests
 
+* [Pytest](https://docs.pytest.org/en/latest/)
 * [How not to do them](https://twitter.com/llanga/status/1193111754504581122)
 * [In praise of property-based testing](https://increment.com/testing/in-praise-of-property-based-testing/)
   - [Hypothesis testing library](https://pypi.org/project/hypothesis/)
