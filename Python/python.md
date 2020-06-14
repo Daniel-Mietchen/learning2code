@@ -50,6 +50,7 @@ I found the following resources that I have yet to assess as to their usefulness
 * [CheckiO](http://www.checkio.org/)
   * Programming game requiring Python code to advance to next level
 * [Python for Biologists](http://pythonforbiologists.com/index.php/five-things-i-hate-about-teaching-python/)
+* [Python for Beginners](https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples)
 * [How do you use python to automate tasks in life or at work?](http://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/)
 * [YAPF - Yet another Python formatter](https://github.com/google/yapf)
 * [List comprehension](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions)
