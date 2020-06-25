@@ -15,6 +15,11 @@ This file collects information about cheat sheets for tools and languages that I
   - [Why is using a shell loop to process text considered bad practice?](https://unix.stackexchange.com/questions/169716/why-is-using-a-shell-loop-to-process-text-considered-bad-practice)
 * [Unix commands](https://en.wikipedia.org/wiki/Template:Unix_commands)
 
+# CSS
+
+* [CSS CheatSheet](https://htmlcheatsheet.com/css/)
+* [Complete CSS Cheat Sheet (updated with new CSS3 tags)](https://websitesetup.org/css3-cheat-sheet/)
+
 # FireFox
 
 * [Mozilla FireFox cheat sheet](http://lesliefranke.com/files/reference/firefoxcheatsheet.html)
