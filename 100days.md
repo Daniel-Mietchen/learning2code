@@ -22,3 +22,6 @@ I have so far mostly been an occasional bystander on such activities, but [100wi
 
 For 2020, I am [committed](https://github.com/Daniel-Mietchen/ideas/blob/master/new-year-resolutions/2020.md) to do a 100 day challenge for coding. I am also considering to do one for some physical activity. Not sure yet about a suitable parametrization for either.
 
+## 100 days of code
+
+I am leaning towards starting by going through selected lessons from [The Carpentries](https://carpentries.org/) and contributing to their improvement in the process.
