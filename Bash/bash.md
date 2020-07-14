@@ -1,11 +1,17 @@
 # About
 
-Some bash commands that I found interesting/ useful.
+Some bash stuff that I found interesting/ useful.
 
-# enable/ disable
+# Bash commands
+
+## ```enable```/ ```disable```
 
 * allows to enable/ disable builtin shell commands
 
-# compgen -k
+## ```compgen -k```
 
 * lists the keywords used in bash
+
+# Bash customization
+
+* via ```.bash_profile```
