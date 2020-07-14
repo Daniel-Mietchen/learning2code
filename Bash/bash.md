@@ -2,11 +2,26 @@
 
 Some bash stuff that I found interesting/ useful.
 
-# Bash commands
+# Special characters
 
 ## ```$```
 
 * when called followed by a variable, e.g., ```$a```, it gives the current value of that variable
+
+## ```.```
+
+* shorthand for the current directory
+
+## ```()```
+
+
+## ```[]```
+
+
+## ```{}```
+
+
+# Bash commands
 
 ## ```enable```/ ```disable```
 
@@ -15,6 +30,10 @@ Some bash stuff that I found interesting/ useful.
 ## ```compgen -k```
 
 * lists the keywords used in bash
+
+## ```source```
+
+* e.g. ```source test.sh```
 
 # Bash customization
 
