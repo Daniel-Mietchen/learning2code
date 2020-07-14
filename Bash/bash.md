@@ -33,7 +33,8 @@ Some bash stuff that I found interesting/ useful.
 
 ## ```source```
 
-* e.g. ```source test.sh```
+* imports variable assignments or functions
+  - e.g. ```source test.sh``` would import variable assignments or functions from ```test.sh```
 
 # Bash customization
 
