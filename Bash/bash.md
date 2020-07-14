@@ -4,6 +4,10 @@ Some bash stuff that I found interesting/ useful.
 
 # Bash commands
 
+## ```$```
+
+* when called followed by a variable, e.g., ```$a```, it gives the current value of that variable
+
 ## ```enable```/ ```disable```
 
 * allows to enable/ disable builtin shell commands
