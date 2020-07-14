@@ -23,6 +23,11 @@ Some bash stuff that I found interesting/ useful.
 
 # Bash commands
 
+## ```alias``` / ```unalias```
+
+* ```alias``` allows to replace strings for commands with other strings, such that calling either would result in the command being executed
+* ```unalias``` removes such aliasing
+
 ## ```enable```/ ```disable```
 
 * allows to enable/ disable builtin shell commands
