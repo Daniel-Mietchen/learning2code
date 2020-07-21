@@ -24,4 +24,14 @@ For 2020, I am [committed](https://github.com/Daniel-Mietchen/ideas/blob/master/
 
 ## 100 days of code
 
-I am leaning towards starting by going through selected lessons from [The Carpentries](https://carpentries.org/) and contributing to their improvement in the process.
+I am leaning towards starting by going through selected resources and contributing to their improvement in the process:
+* lessons from [The Carpentries](https://carpentries.org/)
+* Wikidata-related code [hosted publicly on PAWS](https://paws-public.wmflabs.org/paws-public/?C=M&O=D)
+  - e.g. [here](https://paws-public.wmflabs.org/paws-public/48245524/) for [MsynBot](https://www.wikidata.org/wiki/User:MsynBot)
+    - e.g. [wordcloud demo](https://paws-public.wmflabs.org/paws-public/59320301/word-cloud.ipynb)
+* [Template for the 100 days journal](https://github.com/Kallaway/100-days-of-code)
+* [Rosetta Code's Python category](https://rosettacode.org/wiki/Category:Python)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+  - I particularly like the detailed documentation [here](https://www.freecodecamp.org/news/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c/)
+
+In terms of documentation, I plan to take inspiration from [Andy Harris: How to Begin Thinking Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k), focusing on getting the algorithm part sorted out first, then reusing the algorithm sketch as comments.
