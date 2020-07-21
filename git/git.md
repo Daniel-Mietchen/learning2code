@@ -13,5 +13,6 @@ This file collects information about git. Here on GitHub, git is obviously under
 * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=3m7BgIvC-uQ)
 * [Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)
 * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+* [What is GitHub? What is Git? And How to Use These Developer Tools.](https://www.freecodecamp.org/news/what-is-github-what-is-git-and-how-to-use-these-developer-tools/)
 * [Getting Started with Git](https://www.linode.com/docs/development/version-control/how-to-configure-git/)
 * [How to Install Git on Linux, Mac or Windows](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
