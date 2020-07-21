@@ -12,6 +12,10 @@ This file helps me collect resources useful to use (i.e. create, analyze and und
 * [RegExp $1, $2, $3, $4, $5, $6, $7, $8, $9](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/n)
 * [comments for regexes](https://stackoverflow.com/a/863170/446855)
 
+# Special characters
+
+* [^](http://web.archive.org/web/20200721095333/https://twitter.com/NikkiMegaplaza/status/1284986525965602818)
+
 # Examples that work for me
 
 * [a string of any length containing any characters but which must contain 21 commas](https://stackoverflow.com/questions/863125/regular-expression-to-count-number-of-commas-in-a-string)
