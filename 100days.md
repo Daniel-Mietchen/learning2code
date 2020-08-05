@@ -25,6 +25,7 @@ For 2020, I am [committed](https://github.com/Daniel-Mietchen/ideas/blob/master/
 ## 100 days of code
 
 I am leaning towards starting by going through selected resources and contributing to their improvement in the process:
+* The book [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/intro.html), written by one of my colleagues.
 * lessons from [The Carpentries](https://carpentries.org/)
 * Wikidata-related code [hosted publicly on PAWS](https://paws-public.wmflabs.org/paws-public/?C=M&O=D)
   - e.g. [here](https://paws-public.wmflabs.org/paws-public/48245524/) for [MsynBot](https://www.wikidata.org/wiki/User:MsynBot)
