@@ -34,5 +34,6 @@ I am leaning towards starting by going through selected resources and contributi
 * [Rosetta Code's Python category](https://rosettacode.org/wiki/Category:Python)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
   - I particularly like the detailed documentation [here](https://www.freecodecamp.org/news/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c/)
+* [Codecombat](https://codecombat.com)  
 
 In terms of documentation, I plan to take inspiration from [Andy Harris: How to Begin Thinking Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k), focusing on getting the algorithm part sorted out first, then reusing the algorithm sketch as comments.
