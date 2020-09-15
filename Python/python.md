@@ -107,7 +107,9 @@ I found the following resources that I have yet to assess as to their usefulness
     - Finding substrings in title string
       - [grouped by title](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles.ipynb?kernel_name=python3)
       - [aggregated across titles](https://paws-public.wmflabs.org/paws-public/User:Luitzen/Stack/Split%20titles%201.ipynb)
-    - [with iframes](https://paws-public.wmflabs.org/paws-public/User:Fuzheado/CMA%20OA%20results.ipynb) (Scholia-like)
+    - [with iframes] (Scholia-like)
+      - [GLAM-related](https://paws-public.wmflabs.org/paws-public/User:Fuzheado/CMA%20OA%20results.ipynb)
+      - [COVID-19-related](https://public.paws.wmcloud.org/User:99of9/Covid-19.ipynb)
     - see also the [SPARQL kernel for Jupyter](https://mybinder.org/v2/gh/betatim/sparql-notebooks/master?filepath=wikidata.ipynb)
     - using SPARQLWrapper
       - [CoronaVirusStronglyRelatedPages](https://paws-public.wmflabs.org/paws-public/User:Daniel_Mietchen/CoronaVirusStronglyRelatedPages/CoronaVirusStronglyRelatedPages.ipynb)
