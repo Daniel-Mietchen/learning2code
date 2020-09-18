@@ -24,6 +24,14 @@ For 2020, I am [committed](https://github.com/Daniel-Mietchen/ideas/blob/master/
 
 Latest possible start date compatible with the pledge: September 23. So let's aim at starting on September 21.
 
+An approach that might suit me is to attempt to do the following on a daily basis:
+  - review one piece of code written by someone else and document my understanding of it
+  - index at least one reserved word or character combination (from SPARQL or Python) like "SELECT", "return" or "+=" in Wikidata and annotate them accordingly
+  - write a piece of code that makes use of that newly indexed functionality
+  - optionally, I might try to combine these activities with testing out some tools or platforms that I have listed in my ideas repo as ["look into X"](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+%22look+into%22), e.g. for X = ["Visual Studio Code"](https://github.com/Daniel-Mietchen/ideas/issues/1293)
+  - document progress
+  - communicate updates
+
 ## 100 days of code
 
 I am leaning towards starting by going through selected resources and contributing to their improvement in the process:
@@ -40,5 +48,6 @@ I am leaning towards starting by going through selected resources and contributi
 * [Advent of Code](https://adventofcode.com/)
   - since [2015](https://adventofcode.com/2015)
   - solutions posted afterwards
+* [Pytudes &mdash; Python études](https://archive.org/details/github.com-norvig-pytudes_-_2020-02-23_20-54-08)
 
 In terms of documentation, I plan to take inspiration from [Andy Harris: How to Begin Thinking Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k), focusing on getting the algorithm part sorted out first, then reusing the algorithm sketch as comments.
