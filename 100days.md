@@ -30,6 +30,7 @@ An approach that might suit me is to attempt to do the following on a daily basi
   - write a piece of code that makes use of that newly indexed functionality
   - optionally, I might try to combine these activities with testing out some tools or platforms that I have listed in my ideas repo as ["look into X"](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+%22look+into%22), e.g. for X = ["Visual Studio Code"](https://github.com/Daniel-Mietchen/ideas/issues/1293)
   - document progress
+  - define tasks for next day
   - communicate updates
 
 ## 100 days of code
