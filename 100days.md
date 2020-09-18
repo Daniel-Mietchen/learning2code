@@ -22,6 +22,8 @@ I have so far mostly been an occasional bystander on such activities, but [100wi
 
 For 2020, I am [committed](https://github.com/Daniel-Mietchen/ideas/blob/master/new-year-resolutions/2020.md) to do a 100 day challenge for coding. I am also considering to do one for some physical activity. Not sure yet about a suitable parametrization for either.
 
+Latest possible start date compatible with the pledge: September 23. So let's aim at starting on September 21.
+
 ## 100 days of code
 
 I am leaning towards starting by going through selected resources and contributing to their improvement in the process:
@@ -35,5 +37,8 @@ I am leaning towards starting by going through selected resources and contributi
 * [FreeCodeCamp](https://www.freecodecamp.org/)
   - I particularly like the detailed documentation [here](https://www.freecodecamp.org/news/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c/)
 * [Codecombat](https://codecombat.com)  
+* [Advent of Code](https://adventofcode.com/)
+  - since [2015](https://adventofcode.com/2015)
+  - solutions posted afterwards
 
 In terms of documentation, I plan to take inspiration from [Andy Harris: How to Begin Thinking Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k), focusing on getting the algorithm part sorted out first, then reusing the algorithm sketch as comments.
