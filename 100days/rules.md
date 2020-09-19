@@ -3,7 +3,7 @@
 This file assists in defining my rules for my 100 day challenge in 2020. It is a draft.
 
 # Rules
-''For the moment, order has no meaning. I expect this to change at some point.''
+*For the moment, order has no meaning. I expect this to change at some point.*
 * The challenge starts on 21 September 2020.
 * The challenge lasts 100days.
 * Time zone is "Anywhere on Earth".
