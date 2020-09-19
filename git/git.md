@@ -16,4 +16,4 @@ This file collects information about git. Here on GitHub, git is obviously under
 * [What is GitHub? What is Git? And How to Use These Developer Tools.](https://www.freecodecamp.org/news/what-is-github-what-is-git-and-how-to-use-these-developer-tools/)
 * [Getting Started with Git](https://www.linode.com/docs/development/version-control/how-to-configure-git/)
 * [How to Install Git on Linux, Mac or Windows](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
-* Art based on GitHub's git commit history visualization ([example](https://github.com/Erfaniaa/text-to-commit-history))
+* [Art based on GitHub's git commit history visualization](https://www.google.com/search?q=github+contributions+art) ([example](https://github.com/Erfaniaa/text-to-commit-history))
