@@ -7,6 +7,11 @@ This file helps me collect resources useful to use (i.e. create, analyze and und
 * [Regexper](https://regexper.com/#%28%5CW%5Cw%7B1%7D%5CW%29%7B1%2C%7D)
 * [Regex101](https://regex101.com/r/cO8lqs/6)
 
+# Blog posts and other publications
+
+* [RegEx in Python](https://medium.com/byte-sized-code/regex-in-python-a5e9ea52ec87)
+  - > "one should first learn regular expressions before learning how to program"
+
 # Interesting features
 
 * [RegExp $1, $2, $3, $4, $5, $6, $7, $8, $9](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/n)
