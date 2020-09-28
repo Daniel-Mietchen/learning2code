@@ -18,3 +18,4 @@ This file collects information about git. Here on GitHub, git is obviously under
 * [Getting Started with Git](https://www.linode.com/docs/development/version-control/how-to-configure-git/)
 * [How to Install Git on Linux, Mac or Windows](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 * [Art based on GitHub's git commit history visualization](https://www.google.com/search?q=github+contributions+art) ([example](https://github.com/Erfaniaa/text-to-commit-history))
+* [Hacktoberfest Workshop Kit: How to Submit Your First Pull Request on GitHub](https://www.digitalocean.com/community/meetup_kits/hacktoberfest-workshop-kit-how-to-submit-your-first-pull-request-on-github)
