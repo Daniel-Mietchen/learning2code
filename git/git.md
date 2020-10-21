@@ -5,11 +5,12 @@ This file collects information about git. Here on GitHub, git is obviously under
 # Resources
 
 * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+* [Git cheat sheet](https://github.github.com/training-kit/)
+  - [nice graphic cheat sheet](http://web.archive.org/web/20080907184333/http://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
 * [How To Contribute to Open Source: Getting Started with Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
 * [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 * [Git Book](https://git-scm.com/book/en/v2)
   - [Reference page](https://git-scm.com/docs)
-* [Git cheat sheet](https://github.github.com/training-kit/)
 * [Software Carpentry git novice lesson](https://github.com/swcarpentry/git-novice/tree/gh-pages/_episodes)
 * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=3m7BgIvC-uQ)
 * [Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans)
