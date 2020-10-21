@@ -175,6 +175,11 @@ toolkit](http://pandas.pydata.org/pandas-docs/dev/pandas.pdf)
 
 A similar list of resources is available [here](http://chrisvoncsefalvay.com/resources/).
 
+### Special characters
+
+* [**](http://web.archive.org/web/20190605212910/https://medium.com/@yzhong.cs/serialize-and-deserialize-complex-json-in-python-205ecc636caa): ```print(Student(**json.loads(json_data)))``` is equivalent to ```d = json.loads(json_data) \
+Student(first_name=d["first_name"], last_name=d["last_name"])```
+
 ### Testing Python code
 
 * [Python Anywhere](https://www.pythonanywhere.com/)
