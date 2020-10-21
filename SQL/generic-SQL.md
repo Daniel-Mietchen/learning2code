@@ -13,4 +13,5 @@ This file collects information regarding SQL in general.
 # See also
 * [quarry.md](quarry.md)
 * [SQL vs. SPARQL](https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/)
-
+* [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+* [DB Hub](https://dbhub.io/)
