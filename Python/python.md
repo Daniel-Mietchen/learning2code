@@ -187,6 +187,8 @@ Student(first_name=d["first_name"], last_name=d["last_name"])```
 * [Python Anywhere](https://www.pythonanywhere.com/)
 * [Cloud9?](https://www.youtube.com/watch?v=azcrPFhaY9k#t=36m11s)
 * [Python.org](https://www.python.org/)
+* [Repl](https://repl.it/)
+* [Trinket](https://trinket.io/python/5137ae2b92)
 
 ### Unit tests
 
