@@ -198,6 +198,10 @@ Student(first_name=d["first_name"], last_name=d["last_name"])```
   - [Hypothesis testing library](https://pypi.org/project/hypothesis/)
     - not to be confused with the [Python module for Hypothesis API](https://github.com/chaselgrove/python-hypothesis)
 
+### Python debuggers
+
+* [Thonny](https://thonny.org/)
+
 ### Python and MATLAB
 * [Python vs Matlab](http://www.pyzo.org/python_vs_matlab.html)
 * [Why Python is Better than Matlab for Scientific Software](https://metarabbit.wordpress.com/2013/10/18/why-python-is-better-than-matlab-for-scientific-software/)
