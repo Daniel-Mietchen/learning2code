@@ -177,7 +177,9 @@ A similar list of resources is available [here](http://chrisvoncsefalvay.com/res
 
 ### Special characters
 
-* [**](http://web.archive.org/web/20190605212910/https://medium.com/@yzhong.cs/serialize-and-deserialize-complex-json-in-python-205ecc636caa): ```print(Student(**json.loads(json_data)))``` is equivalent to ```d = json.loads(json_data) \
+* Asterisks
+  * [Asterisks in Python](https://medium.com/byte-sized-code/asterisks-in-python-b46a3c7cfdf8)
+  * [**](http://web.archive.org/web/20190605212910/https://medium.com/@yzhong.cs/serialize-and-deserialize-complex-json-in-python-205ecc636caa): ```print(Student(**json.loads(json_data)))``` is equivalent to ```d = json.loads(json_data) \
 Student(first_name=d["first_name"], last_name=d["last_name"])```
 
 ### Testing Python code
