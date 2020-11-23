@@ -2,6 +2,10 @@
 
 Some bash stuff that I found interesting/ useful.
 
+# Cheat sheet
+
+* [https://thejacksonlaboratory.github.io/introduction-to-hpc/cheatsheet/](http://web.archive.org/web/20201123234418/https://thejacksonlaboratory.github.io/introduction-to-hpc/cheatsheet/)
+
 # Special characters
 
 ## ```$```
