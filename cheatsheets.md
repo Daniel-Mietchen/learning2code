@@ -13,6 +13,7 @@ This file collects information about cheat sheets for tools and languages that I
 
 * [Bash shell cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
   - [Why is using a shell loop to process text considered bad practice?](https://unix.stackexchange.com/questions/169716/why-is-using-a-shell-loop-to-process-text-considered-bad-practice)
+* [https://thejacksonlaboratory.github.io/introduction-to-hpc/cheatsheet/](http://web.archive.org/web/20201123234418/https://thejacksonlaboratory.github.io/introduction-to-hpc/cheatsheet/)
 * [Unix commands](https://en.wikipedia.org/wiki/Template:Unix_commands)
 
 # CSS
