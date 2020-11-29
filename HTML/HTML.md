@@ -2,6 +2,11 @@
 
 Some notes regarding HTML and HTML5.
 
+# Resources
+
+* FreeCodeCamp: [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+* W3C Schools: [HTML tutorial](https://www.w3schools.com/html/)
+
 # Examples
 * the ```target="_blank"``` attribute on an HTML element triggers the linked document to be opened in a new browser tab.
 * to create a form field for text input, use ```<input type="text" placeholder="sample text">``` 
