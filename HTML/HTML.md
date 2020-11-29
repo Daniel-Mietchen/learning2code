@@ -4,4 +4,4 @@ Some notes regarding HTML and HTML5.
 
 # Examples
 * the ```target="_blank"``` attribute on an HTML element triggers the linked document to be opened in a new browser tab.
-* to create a form field for text input, use ```<input type="text">``` 
+* to create a form field for text input, use ```<input type="text" placeholder="sample text">``` 
