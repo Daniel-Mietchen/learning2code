@@ -2,6 +2,10 @@
 
 Materials related to me learning about the [Julia language](https://julialang.org/)
 
+# Julia packages
+
+* can be found via [JuliaHub](https://juliahub.com/ui/Home)
+
 # Pluto notebooks
 
 * [GitHub repo](https://github.com/fonsp/Pluto.jl) with [MyBinder demo](https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto)
