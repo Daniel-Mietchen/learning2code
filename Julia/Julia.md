@@ -2,6 +2,13 @@
 
 Materials related to me learning about the [Julia language](https://julialang.org/)
 
+# Pluto notebooks
+
+* [GitHub repo](https://github.com/fonsp/Pluto.jl) with [MyBinder demo](https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto)
+* [JuliaCon 2020 | Interactive notebooks ~ Pluto.jl](https://www.youtube.com/watch?v=IAF8DjrQSSk)
+* [Pluto.jl Notebooks and PlutoUI Tutorial (Julia Programming)](https://www.youtube.com/watch?v=C4QhZcX34mI)
+* [Introduction to Julia for Pythonistas](https://www.youtube.com/watch?v=Cj6bjqS5otM) (2016, so probably substantially outdated)
+
 # Notes
 
 * Julia is behind the **Ju** in [**Ju**pyter](https://jupyter.org/)
