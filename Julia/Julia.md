@@ -13,6 +13,10 @@ Materials related to me learning about the [Julia language](https://julialang.or
 * [Pluto.jl Notebooks and PlutoUI Tutorial (Julia Programming)](https://www.youtube.com/watch?v=C4QhZcX34mI)
 * [Introduction to Julia for Pythonistas](https://www.youtube.com/watch?v=Cj6bjqS5otM) (2016, so probably substantially outdated)
 
+# Learning resources
+
+* [Julia Academy](https://juliaacademy.com/)
+
 # Notes
 
 * Julia is behind the **Ju** in [**Ju**pyter](https://jupyter.org/)
