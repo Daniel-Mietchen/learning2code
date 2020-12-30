@@ -2,6 +2,10 @@
 
 Materials related to me learning about the [Julia language](https://julialang.org/)
 
+# Wikibooks
+
+* [Introducing Julia](https://en.wikibooks.org/wiki/Category:Book:Introducing_Julia)
+
 # Julia packages
 
 * can be found via [JuliaHub](https://juliahub.com/ui/Home)
