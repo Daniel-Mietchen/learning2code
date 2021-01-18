@@ -24,7 +24,7 @@ This does not seem to be part of standard Markdown, so various ways are being ex
 
 * ```<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />``` gives <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 * more via [this StackOverflow post](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog)
-
+* [superscripts and subscripts](https://stephencharlesweiss.com/markdown-superscript-subscript/)
 
 # Images in tables
 
