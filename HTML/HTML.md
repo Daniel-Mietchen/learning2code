@@ -20,3 +20,7 @@ Some notes regarding HTML and HTML5.
   ```
 * to submit form content to a server, use ```<form action="https://example.org/form-processing"><input type="text" placeholder="sample text"></form>```
 * to create a button for form submission, use a ```button``` attribute: ```<form action="https://example.org/form-processing"><input type="text" placeholder="sample text"><button type="submit">Submit</button></form>```
+
+# Testing grounds
+
+* [NurKurz.Online](https://nurkurz.online/)
