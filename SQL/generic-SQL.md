@@ -13,6 +13,9 @@ This file collects information regarding SQL in general.
 * [Mode SQL tutorial](https://mode.com/sql-tutorial/)
 * [Codecamp course on PostgreSQL](https://www.freecodecamp.org/news/postgresql-full-course/)
 * [Basics of SQL and RDBMS](https://www.analyticsvidhya.com/blog/2015/03/basics-sql-rdbms/)
+* [Triggers](https://www.sqltutorial.org/sql-triggers/)
+* [Views](https://www.sqltutorial.org/sql-views/)
+* [Functions](https://www.sqltutorial.org/sql-functions/)
 
 # See also
 * [quarry.md](quarry.md)
