@@ -104,3 +104,4 @@ This file collects information about cheat sheets for tools and languages that I
 # See also
 
 * [20 Cheat Sheets: Python, ML, Data Science, R, and More](http://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science)
+* [A set of useful cheat sheets on #ArtificialIntelligence, #Pandas, and #Python](http://web.archive.org/web/20210606235156/https://twitter.com/DataScienceDojo/status/1401677050218487809)
