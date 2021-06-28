@@ -11,3 +11,14 @@
   - [example2](http://jsfiddle.net/arunpjohny/e4WhE/)
 * [Plunker](http://plnkr.co/)
   - [example](http://plnkr.co/edit/UQL5Xa4yv6coCWIhmbyD)
+
+# Platforms to practice
+*[hat tip](http://web.archive.org/web/20210628223839/https://twitter.com/Insharamin/status/1409508044032024576)*
+
+1- freecodecamp
+2- Codewell
+3- CSSBattle
+4- Coderbyte
+5- JavaScript30
+6- Treehouse
+7- Frontend Mentor
