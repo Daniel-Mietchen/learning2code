@@ -3,6 +3,7 @@
 * [Babel](https://babeljs.io/)
 * [Coding "Snake" in 4 min 30 sec (plain browser JavaScript)](https://www.youtube.com/watch?v=xGmXxpIj6vs)
 * "[Please disable JavaScript to view this site.](https://remysharp.com/2020/11/30/please-disable-javascript-to-view-this-site)"
+* ["I'm going to release a (roughly) weekly infographic about beginner concepts, with a focus on HTML, CSS, and JavaScript."](https://twitter.com/AnnaJMcDougall/status/1416839590955134976)
 
 # Online editors
 
