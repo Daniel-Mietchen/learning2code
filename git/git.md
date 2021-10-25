@@ -5,6 +5,7 @@ This file collects information about git. Here on GitHub, git is obviously under
 # Resources
 
 * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+* [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [Git cheat sheet](https://github.github.com/training-kit/)
   - [nice graphic cheat sheet](http://web.archive.org/web/20080907184333/http://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
 * [How To Contribute to Open Source: Getting Started with Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
