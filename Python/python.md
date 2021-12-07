@@ -242,3 +242,5 @@ Back then, I was also enjoying the quizzes in the [Python Challenge app](https:/
 * [One-click replacement of an IMDb page with the corresponding Wikipedia page](http://www.bobdc.com/blog/imdb2wp/) &mdash; using a bookmarklet "With some Python, JavaScript, and of course, SPARQL"
 * [Using Wikis to Learn Computer Programming](https://doi.org/10.1007/978-3-642-16318-0_41)
   - > "The activity consisted in the creation of a wiki to collect errors made by students while they were coding programs in C language. The activity was framed in a collaborative learning strategy in which all the students had to collaborate and be responsible for the final result, but also in a competitive learning strategy, in which the groups had to compete to make original meaningful contributions to the wiki."
+* [How To Learn To Code When You Have No Time And No Money - Codeland 2018](https://www.youtube.com/watch?v=xvV7OI1jdu4)
+
