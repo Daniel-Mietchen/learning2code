@@ -9,6 +9,7 @@ I found the following resources that I have yet to assess as to their usefulness
     - see also the video course [Deep Learning Crash Course](https://github.com/DJCordhose/deep-learning-crash-course-notebooks) by the same author
   - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
   - [A Bregman Learning Framework for Sparse Neural Networks](https://github.com/TimRoith/BregmanLearning)
+  - [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2)
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
   - [Python for non-programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 * [Python Weekly](http://www.pythonweekly.com/)
