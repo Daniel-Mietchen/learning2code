@@ -47,6 +47,7 @@ I found the following resources that I have yet to assess as to their usefulness
   * [Everware](https://github.com/everware/everware) &mdash; allows to run Jupyter notebooks inside docker from a git repo
   * [Tracking Jupyter Newsletter](https://tinyletter.com/TrackingJupyter/letters/tracking-jupyter-newsletter-the-twenty-second)
   * [Jupyter community calls](https://discourse.jupyter.org/t/jupyter-community-calls)
+  * [Python cheatsheets, mostly in Jupyter notebooks](https://github.com/ryubidragonfire/python-cheatsheet)
 *	[Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
 *	[Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Learn X in Y minutes; Where X=python](http://learnxinyminutes.com/docs/python/) 
