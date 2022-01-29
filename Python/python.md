@@ -4,6 +4,11 @@
 I found the following resources that I have yet to assess as to their usefulness for me:
 
 * [List of free-to-read Python books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) &mdash; curated by the Ebook Foundation
+* Some books with public Python code examples
+  - [Machine Learning - kurz & gut](https://github.com/DJCordhose/buch-machine-learning-notebooks) 
+    - see also the video course [Deep Learning Crash Course](https://github.com/DJCordhose/deep-learning-crash-course-notebooks) by the same author
+  - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+  - [A Bregman Learning Framework for Sparse Neural Networks](https://github.com/TimRoith/BregmanLearning)
 *	[The Python Tutorial](https://docs.python.org/2/tutorial/)
   - [Python for non-programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 * [Python Weekly](http://www.pythonweekly.com/)
@@ -51,11 +56,6 @@ I found the following resources that I have yet to assess as to their usefulness
   * Programming game requiring Python code to advance to next level
 * [Python for Biologists](http://pythonforbiologists.com/index.php/five-things-i-hate-about-teaching-python/)
 * [Python for Beginners](https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples)
-* Some books with public code examples
-  - [Machine Learning - kurz & gut](https://github.com/DJCordhose/buch-machine-learning-notebooks) 
-    - see also the video course [Deep Learning Crash Course](https://github.com/DJCordhose/deep-learning-crash-course-notebooks) by the same author
-  - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-  - [A Bregman Learning Framework for Sparse Neural Networks](https://github.com/TimRoith/BregmanLearning)
 * [How do you use python to automate tasks in life or at work?](http://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/)
 * [YAPF - Yet another Python formatter](https://github.com/google/yapf)
 * [List comprehension](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions)
