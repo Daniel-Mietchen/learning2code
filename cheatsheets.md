@@ -64,6 +64,8 @@ This file collects information about cheat sheets for tools and languages that I
 * https://ehmatthes.github.io/pcc/cheatsheets/README.html
 * https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.b7uTKvo
 * http://lifehacker.com/keep-this-python-cheat-sheet-on-hand-when-learning-to-c-1655521825 .
+* [Python cheatsheets, mostly in Jupyter notebooks](https://github.com/ryubidragonfire/python-cheatsheet)
+
 
 # R
 
