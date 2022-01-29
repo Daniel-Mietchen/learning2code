@@ -55,6 +55,7 @@ I found the following resources that I have yet to assess as to their usefulness
   - [Machine Learning - kurz & gut](https://github.com/DJCordhose/buch-machine-learning-notebooks) 
     - see also the video course [Deep Learning Crash Course](https://github.com/DJCordhose/deep-learning-crash-course-notebooks) by the same author
   - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+  - [A Bregman Learning Framework for Sparse Neural Networks](https://github.com/TimRoith/BregmanLearning)
 * [How do you use python to automate tasks in life or at work?](http://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/)
 * [YAPF - Yet another Python formatter](https://github.com/google/yapf)
 * [List comprehension](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions)
