@@ -109,6 +109,7 @@ I found the following resources that I have yet to assess as to their usefulness
   - BwInf wrapper for [multilingual Python course at the University of Waterloo](https://cscircles.cemc.uwaterloo.ca/de/)
 * PyWikiBot
   - [PyWikiBot script on PAWS for moving statements from one item to another](https://paws-public.wmflabs.org/paws-public/15319026/move_property/moveP.ipynb)
+- [Wikidata Integrator on PAWS](https://public.paws.wmcloud.org/User:Andrawaag/Untitled9.ipynb?kernel_name=python3) &mdash; script to create Wikidata items for climate change articles based on their DOI
 * SPARQL on PAWS 
   - using RDFlib
     - Finding substrings in title string
